@@ -1,0 +1,6 @@
+{%- assign coleccion = include.clase }} -%}
+{%- for _d in coleccion -%}
+  {%- if _d.nombre == include.valor -%}
+    {%- assign _dato = _d -%}
+  {%- endif -%}
+{%- endfor -%}

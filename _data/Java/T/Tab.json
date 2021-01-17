@@ -1,0 +1,323 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Tab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node content",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "closableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "contentProperty",
+            "description": ""
+        },
+        {
+            "nombre": "contextMenuProperty",
+            "description": ""
+        },
+        {
+            "nombre": "disabledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "disableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getContent",
+            "description": ""
+        },
+        {
+            "nombre": "getContextMenu",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getGraphic",
+            "description": ""
+        },
+        {
+            "nombre": "getId",
+            "description": ""
+        },
+        {
+            "nombre": "getOnClosed",
+            "description": ""
+        },
+        {
+            "nombre": "getOnCloseRequest",
+            "description": ""
+        },
+        {
+            "nombre": "getOnSelectionChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getPseudoClassStates",
+            "description": ""
+        },
+        {
+            "nombre": "getStyle",
+            "description": ""
+        },
+        {
+            "nombre": "getStyleableParent",
+            "description": ""
+        },
+        {
+            "nombre": "getStyleClass",
+            "description": ""
+        },
+        {
+            "nombre": "getTabPane",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "getTooltip",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeSelector",
+            "description": ""
+        },
+        {
+            "nombre": "getUserData",
+            "description": ""
+        },
+        {
+            "nombre": "graphicProperty",
+            "description": ""
+        },
+        {
+            "nombre": "hasProperties",
+            "description": ""
+        },
+        {
+            "nombre": "idProperty",
+            "description": ""
+        },
+        {
+            "nombre": "isClosable",
+            "description": ""
+        },
+        {
+            "nombre": "isDisable",
+            "description": ""
+        },
+        {
+            "nombre": "isDisabled",
+            "description": ""
+        },
+        {
+            "nombre": "isSelected",
+            "description": ""
+        },
+        {
+            "nombre": "onClosedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onCloseRequestProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onSelectionChangedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "selectedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setClosable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContextMenu",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContextMenu value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGraphic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnClosed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<Event> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnCloseRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<Event> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<Event> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTooltip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Tooltip value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "styleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tabPaneProperty",
+            "description": ""
+        },
+        {
+            "nombre": "textProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tooltipProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CLOSED_EVENT",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTION_CHANGED_EVENT",
+            "description": ""
+        },
+        {
+            "nombre": "TAB_CLOSE_REQUEST_EVENT",
+            "description": ""
+        }
+    ]
+}

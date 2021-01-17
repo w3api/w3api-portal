@@ -1,0 +1,19 @@
+---
+layout: tag
+title: "Constructor Javascript"
+permalink: /javascript/tag/constructor-javascript/
+date: 2011-06-23T18:38:52+00:00
+key: ConstructorJavascript
+show_date: false
+pagination: 
+  enabled: true
+  tag: "constructor javascript"
+  permalink: /:num/    
+sidebar:
+  nav: javascript
+aside:
+  toc: true
+---
+
+Todas los constructores Javascript:
+<h2>Constructores</h2>

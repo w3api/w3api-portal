@@ -1,0 +1,51 @@
+header:
+  - title: CSS
+    url: /css
+  - title: HTML
+    url: /html
+  - title: Java
+    url: /java
+  - title: Javascript
+    url: /javascript
+  - title: Más...
+    url: /tecnologias
+  - title: Blog
+    url: /blog
+
+java:
+  - title : Java
+    children:
+      - title:  Tecnologías Java
+        url:    /java/tecnologias-java/
+      - title:  Elementos Java
+        url:    /java/elementos-java/
+      - title:  Versiones Java
+        url:    /java/versiones-java/
+      - title:  Paquetes Java
+        url:    /java/paquetes-java/
+      - title:  Módulos Java
+        url:    /java/modulos-java/
+
+javascript:
+  - title: Javascript
+    children:
+      - title:  Elementos Javascript
+        url:    /javascript/elementos-javascript/
+
+html:
+  - title: HTML
+
+php:
+  - title: PHP
+
+mongodb:
+  - title: MongoDB
+
+jquery:
+  - title: jQuery
+
+css:
+  - title: CSS
+
+svg:
+  - title: SVG

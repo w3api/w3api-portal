@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TabbedPaneUI",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getTabBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTabbedPane pane",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabRunCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTabbedPane pane",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tabForCoordinate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTabbedPane pane",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

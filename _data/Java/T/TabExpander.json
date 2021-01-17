@@ -1,0 +1,21 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "nextTabStop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabOffset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

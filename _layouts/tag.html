@@ -1,0 +1,76 @@
+---
+layout: page
+type: article
+---
+
+{%- include snippets/assign.html
+  target = site.data.variables.default.page.sharing
+  source0=layout.sharing source1=page.sharing -%}
+{%- assign _sharing = __return -%}
+
+<div class="layout--article">
+  {%- include article/top/custom.html -%}
+
+  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+
+  {%- assign mitad = paginator.per_page | divided_by:2 | ceil -%}
+  {%- assign mitad_mas_uno = mitad | plus: 1 -%}
+  {%- assign counter = 1 -%}
+
+  <div class="grid">
+    <div class="cell cell--12 cell--md-6 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">
+      {%- assign letra = paginator.posts[0].title | truncate: 1, "" -%}
+      <h3>{{ letra }}</h3>
+      <ul>
+      {% for post in paginator.posts %}
+        {%- assign nueva_letra = post.title | truncate: 1, "" -%}
+        {% if letra == nueva_letra %}
+          {% if counter == mitad_mas_uno %}
+            <h3>{{ letra }} cont.</h3>
+            <ul>
+          {% endif %}
+          <li><a href="{{post.url}}">{{ post.title }}</a></li>
+        {% else %}
+          </ul>
+          <h3>{{ nueva_letra }}</h3>
+          <ul>
+            <li><a href="{{post.url}}">{{ post.title }}</a></li>
+            {%- assign letra = nueva_letra -%}
+        {% endif %}
+
+        {% if counter == mitad %}
+          </ul>
+          </div>
+          <div class="cell cell--12 cell--md-6 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">            
+        {% endif %}
+        {%- assign counter = counter | plus: 1 -%} 
+        
+      {% endfor %}
+      </ul>
+    </div>
+</div>
+
+  <div class="article__section-navigator clearfix">
+  {% if paginator.total_pages > 1 %}
+    {% if paginator.previous_page %}
+    <div class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&laquo; Anteriores</a></div>
+    {% endif %}
+    {% if paginator.next_page %}
+    <div class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Siguientes &raquo;</a></div>      
+    {% endif %}
+  {% endif %}     
+  </div>
+
+  {%- if _sharing -%}
+    <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
+  {%- endif -%}
+
+  <div class="d-print-none">
+    {%- include article-footer.html -%}
+  </div>
+
+</div>
+
+<script>
+  {%- include scripts/article.js -%}
+</script>

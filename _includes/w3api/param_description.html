@@ -1,0 +1,10 @@
+{%- assign _parametro = "" -%}
+{%- for _p in include.metodo.parametros -%}
+{%- if _p.nombre == include.parametro -%}
+    {%- assign _parametro = _p -%}        
+{%- endif -%}
+{%- endfor -%}
+
+{%- if _parametro -%}
+    {{ _parametro.description }}
+{%- endif -%}

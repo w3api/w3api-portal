@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ArrayBuffer",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "length",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "isView",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "slice",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "begin",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "propiedades": [
+        {
+            "nombre": "@@species",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "byteLength",
+            "description": "",
+            "code": ""
+        }
+    ]
+}
