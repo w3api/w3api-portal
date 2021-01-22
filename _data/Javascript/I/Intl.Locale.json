@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Intl.Locale",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "tag",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "maximize",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "minimize",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "code": ""
+        }
+    ],
+    "propiedades": [
+        {
+            "nombre": "baseName",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "calendar",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "caseFirst",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "collation",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "hourCycle",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "language",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "numberingSystem",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "numeric",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "region",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "script",
+            "description": "",
+            "code": ""
+        }
+    ]
+}

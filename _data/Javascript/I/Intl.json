@@ -1,0 +1,18 @@
+{
+    "description": "El objeto `Intl` sirve a Javascript para llevar a cabo la internacionalización de elementos como son cadenas, números y fechas.",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getCanonicalLocales",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

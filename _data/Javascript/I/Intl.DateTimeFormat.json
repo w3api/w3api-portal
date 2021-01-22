@@ -1,0 +1,96 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Intl.DateTimeFormat",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "supportedLocalesOf",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatToParts",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolvedOptions",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "formatRange",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "startDate",
+                    "description": ""
+                },
+                {
+                    "nombre": "endDate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatRangeToParts",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "startDate",
+                    "description": ""
+                },
+                {
+                    "nombre": "endDate",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

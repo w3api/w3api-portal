@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Intl.RelativeTimeFormat",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "supportedLocalesOf",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatToParts",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolvedOptions",
+            "description": "",
+            "code": ""
+        }
+    ]
+}

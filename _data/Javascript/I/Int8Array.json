@@ -1,0 +1,420 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Int8Array",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": ";//newinES2017",
+                    "description": ""
+                },
+                {
+                    "nombre": "length;",
+                    "description": ""
+                },
+                {
+                    "nombre": "typedArray;",
+                    "description": ""
+                },
+                {
+                    "nombre": "object;",
+                    "description": ""
+                },
+                {
+                    "nombre": "buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "byteOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "length",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "from",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "source",
+                    "description": ""
+                },
+                {
+                    "nombre": "mapFn",
+                    "description": ""
+                },
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "element0",
+                    "description": ""
+                },
+                {
+                    "nombre": "element1",
+                    "description": ""
+                },
+                {
+                    "nombre": "elementN",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyWithin",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "target",
+                    "description": ""
+                },
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "end=this.length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "entries",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "every",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fill",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                },
+                {
+                    "nombre": "start=0",
+                    "description": ""
+                },
+                {
+                    "nombre": "end=this.length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findIndex",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "includes",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromIndex=0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "separator='",
+                    "description": ""
+                },
+                {
+                    "nombre": "'",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "keys",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "lastIndexOf",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromIndex=typedarray.length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "mapFn",
+                    "description": ""
+                },
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reduce",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "initialValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reduceRight",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "initialValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverse",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "array",
+                    "description": ""
+                },
+                {
+                    "nombre": "offsettypedarray.settypedarray",
+                    "description": ""
+                },
+                {
+                    "nombre": "offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "slice",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "begin",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "some",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thisArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sort",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "compareFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subarray",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "begin",
+                    "description": ""
+                },
+                {
+                    "nombre": "end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "values",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "toLocaleString",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "@@iterator",
+            "description": "",
+            "code": ""
+        }
+    ],
+    "propiedades": [
+        {
+            "nombre": "BYTES_PER_ELEMENT",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "buffer",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "byteLength",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "byteOffset",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "length",
+            "description": "",
+            "code": ""
+        }
+    ]
+}
