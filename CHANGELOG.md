@@ -4,3 +4,4 @@
 
 * Documentación Java 10 de Oracle
 * Documentación Javascript de MDN
+* Incluída búsqueda en la página principal

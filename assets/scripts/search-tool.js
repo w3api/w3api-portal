@@ -85,8 +85,8 @@
     });
   })();
 
-  // Search
-  var SOURCES = window.TEXT_VARIABLES.sources;
+// Search
+var SOURCES = window.TEXT_VARIABLES.sources;
 var PAHTS = window.TEXT_VARIABLES.paths;
 window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
   var search = (window.search || (window.search = {}));
@@ -109,7 +109,7 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
       key = keys[i];
       for (j = 0; j < searchData[key].length; j++) {
         cur = searchData[key][j], _title = cur.title;
-        if ((result[key] === undefined || result[key] && result[key].length < 4 )
+        if ((result[key] === undefined || result[key] && result[key].length < 20 )
           && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
           if (result[key] === undefined) {
             result[key] = [];
