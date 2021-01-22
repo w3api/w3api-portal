@@ -7,10 +7,7 @@
   <script>window.useDefaultSearchBox = false;</script>
 {%- endif -%}
 
-{%- if site.search.provider -%}
-  <script>{%- include scripts/components/search.js -%}</script>
-{%- endif -%}
-
+<script src="/assets/scripts/search-tool.js"><</script>
 {%- if site.search.provider == 'default' -%}
   {%- include search-providers/default/search.html -%}
 {%- elsif site.search.provider == 'google' -%}
