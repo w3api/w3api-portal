@@ -243,5 +243,9 @@ layout: base
 {%- endif -%}
 </div>
 
+{%- if page.aside -%}
+<script src="/assets/scripts/aside.js"></script> 
+{%- endif -%}
+
 {%- include markdown-enhancements.html -%}
 {%- include pageview.html -%}
