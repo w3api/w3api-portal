@@ -5,9 +5,6 @@ date: 2021-01-16
 key: NuevoDiseñoW3Api
 category: blog
 layout: article
-header:
-  theme: dark
-  background: 'linear-gradient(135deg, #e64b1c, #000)'
 article_header:
   type: overlay
   theme: dark
