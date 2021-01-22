@@ -23,5 +23,16 @@
     max-width: 40rem;
 }
 
+.main-tech {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.main-tech-item {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
 
 /* end custom scss snippet */
