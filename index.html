@@ -4,20 +4,17 @@ layout: home
 #   excerpt_type: html
 ---
 
-
-
-
 <div class="hero" >
   <div style="margin:auto;"><img class="image image--md" src="/assets/android-chrome-512x512.png"/></div>
   <div class="hero__content" style="margin-top:0">
-    <h1>Elemento de programación?</h1>
+    <h1>¿Elemento de programación?</h1>
     <p style="color:grey">Busca la clase, objeto, método, propiedad,... de un lenguaje de programación para poder darte información y ejemplos.</p>
     <div class="search search--light">
       <div class="main">
         <div class="search-bar">
-          <div class="search-box js-search-box" style="max-width: 40rem;">
-            <div class="search-box__icon-search" style="font-size: 3rem; width:5.3rem; line-height: 4.3rem; color:#fb000e"><i class="fas fa-search"></i></div>
-            <input id="" placeholder="Realiza tu búsqueda" type="text" style="height: 4rem;box-shadow: 0 10px 35px rgba(0,0,0,0.12); padding:0 1em 0 4em; font-size:1.2em"/>
+          <div id="main-search-box" class="search-box js-search-box">
+            <div id="main-search-icon" class="search-box__icon-search"><i class="fas fa-search"></i></div>
+            <input id="main-search" placeholder="Realiza tu búsqueda" type="text" />
           </div>
         </div>
         <div class="search-result js-search-result"></div>
@@ -58,12 +55,22 @@ layout: home
             </div>
         </div>
     </a>
+
+
+    <a href="/jquery">
+      <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/images/jquery.png"/>
+            <div class="overlay overlay--bottom">
+              <p>jQuery</p>
+            </div>
+          </div>
+      </div>
+  </a>
     
 
 
     </div></div>
-    <div class="cell cell--6"><div>6 cells</div></div>
-    <div class="cell cell--6"><div>6 cells</div></div>
   </div>
 </div>
 
