@@ -1,7 +1,7 @@
 ---
 layout: articles
 title: Blog
-permalink: /blog
+permalink: /blog/
 articles:
   data_source: site.categories.blog
   show_excerpt: true
