@@ -49,3 +49,6 @@ css:
 
 svg:
   - title: SVG
+
+webapi:
+  - title: Web API
