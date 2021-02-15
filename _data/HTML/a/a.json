@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "href",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "target",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "download",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "ping",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "rel",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "hreflang",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "referrerpolicy",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

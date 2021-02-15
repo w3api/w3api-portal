@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "disabled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "form",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formaction",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formenctype",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formmethod",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formnovalidate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formtarget",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "value",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

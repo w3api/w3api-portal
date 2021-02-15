@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "src",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "srcset",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "sizes",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "media",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "disabled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "form",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

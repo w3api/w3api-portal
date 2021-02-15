@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "autocomplete",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "disabled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "form",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "multiple",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "required",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

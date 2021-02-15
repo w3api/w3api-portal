@@ -1,0 +1,187 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "alt",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "autocomplete",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "checked",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "dirname",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "disabled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "form",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formaction",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formenctype",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formmethod",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formnovalidate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formtarget",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "height",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "maxlength",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "minlength",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "multiple",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "pattern",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "placeholder",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "readonly",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "required",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "src",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "step",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "value",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "width",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "src",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "crossorigin",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "preload",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "autoplay",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "loop",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "muted",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "controls",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

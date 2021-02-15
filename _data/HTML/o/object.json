@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "data",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "usemap",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "form",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "width",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "height",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

@@ -1,16 +1,16 @@
 header:
   - title: CSS
-    url: /css
+    url: /css/
   - title: HTML
-    url: /html
+    url: /html/
   - title: Java
-    url: /java
+    url: /java/
   - title: Javascript
-    url: /javascript
+    url: /javascript/
   - title: Más...
-    url: /tecnologias
+    url: /tecnologias/
   - title: Blog
-    url: /blog
+    url: /blog/
 
 java:
   - title : Java

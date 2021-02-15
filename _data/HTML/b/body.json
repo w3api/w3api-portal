@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "eventos": [
+        {
+            "nombre": "onafterprint",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onbeforeprint",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onbeforeunload",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onhashchange",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onlanguagechange",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onmessage",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onmessageerror",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onoffline",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "ononline",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpagehide",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpageshow",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpopstate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onrejectionhandled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onstorage",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onunhandledrejection",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onunload",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}

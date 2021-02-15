@@ -1,0 +1,5 @@
+{
+    "description": "Hago autofocus",
+    "code": "<form action=\"/action_page.php\">\n  First name: <input type=\"text\" name=\"fname\" autofocus><br>\n  Last name: <input type=\"text\" name=\"lname\"><br>\n  <input type=\"submit\">\n</form>",
+    "ldc": []
+}

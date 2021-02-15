@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "colspan",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "rowspan",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "headers",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "scope",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "abbr",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}
