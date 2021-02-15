@@ -15,5 +15,5 @@ aside:
   toc: true
 ---
 
-Todas los <strong>atributos HTML</strong>:
+Todos los <strong>atributos HTML</strong>:
 <h2>Atributos</h2>

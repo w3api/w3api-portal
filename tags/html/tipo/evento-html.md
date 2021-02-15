@@ -15,5 +15,5 @@ aside:
   toc: true
 ---
 
-Todas los <strong>eventos HTML</strong>:
+Todos los <strong>eventos HTML</strong>:
 <h2>Eventos</h2>

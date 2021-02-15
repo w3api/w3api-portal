@@ -34,11 +34,11 @@ javascript:
 
 html:
   - title: HTML
-      children:
+    children:
       - title:  Elementos HTML
-        url:    /java/elementos-html/
+        url:    /html/elementos-html/
       - title:  Versiones HTML
-        url:    /java/versiones-html/
+        url:    /html/versiones-html/
 
 php:
   - title: PHP

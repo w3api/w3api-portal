@@ -15,5 +15,5 @@ aside:
   toc: true
 ---
 
-Todas los <strong>elementos HTML</strong>:
+Todos los <strong>elementos HTML</strong>:
 <h2>Elementos</h2>
