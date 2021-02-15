@@ -1,21 +1,22 @@
 ---
 layout: tag
-title: "SVG"
-permalink: /svg/
-date: 2011-06-23T18:38:52+00:00
-key: SVG
+title: "Groovy"
+permalink: /groovy/
+date: 2021-02-14
+key: Groovy
 show_date: false
 sidebar:
-  nav: svg
+  nav: groovy
 aside:
   toc: true
 pagination: 
   enabled: true
-  category: svg
+  category: groovy
   permalink: /:num/    
 ---
 
 <h3>Elementos</h3>
-Todos los Elementos <strong>SVG</strong>:
+Todos los Elementos <strong>Groovy</strong>:
 
+<br><br>
 <strong>En construcción</strong>

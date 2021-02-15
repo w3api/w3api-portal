@@ -1,21 +1,22 @@
 ---
 layout: tag
-title: "SVG"
-permalink: /svg/
+title: "XSLT"
+permalink: /xslt/
 date: 2011-06-23T18:38:52+00:00
-key: SVG
+key: XSLT
 show_date: false
 sidebar:
-  nav: svg
+  nav: xslt
 aside:
   toc: true
 pagination: 
   enabled: true
-  category: svg
+  category: xslt
   permalink: /:num/    
 ---
 
 <h3>Elementos</h3>
-Todos los Elementos <strong>SVG</strong>:
+Todos los Elementos <strong>XSLT</strong>:
 
+<br/><br/>
 <strong>En construcción</strong>
