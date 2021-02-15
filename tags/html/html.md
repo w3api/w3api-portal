@@ -17,5 +17,3 @@ pagination:
 
 <h3>Elementos</h3>
 Todos los Elementos <strong>HTML</strong>:
-
-<strong>En construcción</strong>
