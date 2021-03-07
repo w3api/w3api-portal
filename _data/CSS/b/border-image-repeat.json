@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "space",
+            "description": ""
+        },
+        {
+            "nombre": "round",
+            "description": ""
+        },
+        {
+            "nombre": "repeat",
+            "description": ""
+        },
+        {
+            "nombre": "stretch",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "fill",
+            "description": ""
+        },
+        {
+            "nombre": "percentage",
+            "description": ""
+        },
+        {
+            "nombre": "number",
+            "description": ""
+        }
+    ]
+}

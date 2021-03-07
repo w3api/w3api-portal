@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "separate",
+            "description": ""
+        },
+        {
+            "nombre": "collapse",
+            "description": ""
+        },
+        {
+            "nombre": "inherit",
+            "description": ""
+        }
+    ]
+}

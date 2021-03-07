@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "length-percentage",
+            "description": ""
+        },
+        {
+            "nombre": "auto",
+            "description": ""
+        },
+        {
+            "nombre": "number",
+            "description": ""
+        }
+    ]
+}

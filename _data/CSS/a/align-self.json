@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "self-position",
+            "description": ""
+        },
+        {
+            "nombre": "normal",
+            "description": ""
+        },
+        {
+            "nombre": "overflow-position",
+            "description": ""
+        },
+        {
+            "nombre": "baseline-position",
+            "description": ""
+        },
+        {
+            "nombre": "stretch",
+            "description": ""
+        },
+        {
+            "nombre": "auto",
+            "description": ""
+        }
+    ]
+}
