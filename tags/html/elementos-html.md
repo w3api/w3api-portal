@@ -11,7 +11,7 @@ aside:
   toc: true
 ---
 
-Elementos Java organizados por **tipos de elementos**: 
+Elementos HTML organizados por **tipos de elementos**: 
 
 <ul>
   <li><a href="/html/tag/elemento-html/">Elementos HTML</a></li>
