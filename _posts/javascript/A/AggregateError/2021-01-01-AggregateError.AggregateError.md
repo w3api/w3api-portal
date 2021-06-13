@@ -24,7 +24,7 @@ new AggregateError(errors[, message])
 * **message**,  {% include w3api/param_description.html metodo=_dato parametro="message" %}
 
 ## Objeto Padre
-[AggregateError](/javascript/AggregateError/)
+[AggregateError](/Javascript/AggregateError/)
 
 ## Ejemplo
 ~~~java

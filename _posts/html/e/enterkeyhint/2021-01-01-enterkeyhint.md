@@ -1,6 +1,6 @@
 ---
 title: enterkeyhint
-permalink: /html/enterkeyhint/
+permalink: /HTML/enterkeyhint/
 date: 2021-02-15 01:07:21.548325
 key: HTML.e.enterkeyhint
 category: html

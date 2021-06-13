@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.script"
 layout: tag
-permalink: /java/tag/javax.script/
+permalink: /Java/tag/javax.script/
 date: 2020-12-29
 key: Javapaquetejavax.script
 sidebar: 

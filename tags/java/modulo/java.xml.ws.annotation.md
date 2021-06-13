@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.xml.ws.annotation"
 layout: tag
-permalink: /java/tag/java.xml.ws.annotation/
+permalink: /Java/tag/java.xml.ws.annotation/
 date: 2020-12-29
 key: Javamodulojava.xml.ws.annotation
 sidebar: 

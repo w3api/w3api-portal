@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.CORBA.TypeCodePackage"
 layout: tag
-permalink: /java/tag/org.omg.CORBA.TypeCodePackage/
+permalink: /Java/tag/org.omg.CORBA.TypeCodePackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.CORBA.TypeCodePackage
 sidebar: 

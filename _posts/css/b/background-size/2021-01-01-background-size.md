@@ -1,6 +1,6 @@
 ---
 title: background-size
-permalink: /css/background-size/
+permalink: /CSS/background-size/
 date: 2021-03-07 02:58:13.102257
 key: CSS.b.background-size
 category: css

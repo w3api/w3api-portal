@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.nashorn.api.scripting"
 layout: tag
-permalink: /java/tag/jdk.nashorn.api.scripting/
+permalink: /Java/tag/jdk.nashorn.api.scripting/
 date: 2020-12-29
 key: Javapaquetejdk.nashorn.api.scripting
 sidebar: 

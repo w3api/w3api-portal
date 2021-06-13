@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.xml.dom"
 layout: tag
-permalink: /java/tag/jdk.xml.dom/
+permalink: /Java/tag/jdk.xml.dom/
 date: 2020-12-29
 key: Javamodulojdk.xml.dom
 sidebar: 

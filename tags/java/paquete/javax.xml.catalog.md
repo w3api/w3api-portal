@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.catalog"
 layout: tag
-permalink: /java/tag/javax.xml.catalog/
+permalink: /Java/tag/javax.xml.catalog/
 date: 2020-12-29
 key: Javapaquetejavax.xml.catalog
 sidebar: 

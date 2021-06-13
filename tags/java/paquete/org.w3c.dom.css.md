@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.w3c.dom.css"
 layout: tag
-permalink: /java/tag/org.w3c.dom.css/
+permalink: /Java/tag/org.w3c.dom.css/
 date: 2020-12-29
 key: Javapaqueteorg.w3c.dom.css
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Clase Java"
-permalink: /java/tag/clase-java/
+permalink: /Java/tag/clase-java/
 date: 2011-06-23T18:38:52+00:00
 key: ClaseJava
 show_date: false

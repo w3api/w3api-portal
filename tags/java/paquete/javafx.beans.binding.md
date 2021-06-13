@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.beans.binding"
 layout: tag
-permalink: /java/tag/javafx.beans.binding/
+permalink: /Java/tag/javafx.beans.binding/
 date: 2020-12-29
 key: Javapaquetejavafx.beans.binding
 sidebar: 

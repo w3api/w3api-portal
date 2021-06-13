@@ -1,6 +1,6 @@
 ---
 title: border-image
-permalink: /css/border-image/
+permalink: /CSS/border-image/
 date: 2021-03-07 02:58:45.814560
 key: CSS.b.border-image
 category: css

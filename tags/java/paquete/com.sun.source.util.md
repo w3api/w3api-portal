@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.source.util"
 layout: tag
-permalink: /java/tag/com.sun.source.util/
+permalink: /Java/tag/com.sun.source.util/
 date: 2020-12-29
 key: Javapaquetecom.sun.source.util
 sidebar: 

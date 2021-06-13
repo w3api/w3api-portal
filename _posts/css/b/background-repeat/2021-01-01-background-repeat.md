@@ -1,6 +1,6 @@
 ---
 title: background-repeat
-permalink: /css/background-repeat/
+permalink: /CSS/background-repeat/
 date: 2021-03-07 02:58:10.240867
 key: CSS.b.background-repeat
 category: css

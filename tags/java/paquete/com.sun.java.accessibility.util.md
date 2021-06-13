@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.java.accessibility.util"
 layout: tag
-permalink: /java/tag/com.sun.java.accessibility.util/
+permalink: /Java/tag/com.sun.java.accessibility.util/
 date: 2020-12-29
 key: Javapaquetecom.sun.java.accessibility.util
 sidebar: 

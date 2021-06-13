@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jsobject"
 layout: tag
-permalink: /java/tag/jdk.jsobject/
+permalink: /Java/tag/jdk.jsobject/
 date: 2020-12-29
 key: Javamodulojdk.jsobject
 sidebar: 

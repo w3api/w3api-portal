@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.security.sasl"
 layout: tag
-permalink: /java/tag/java.security.sasl/
+permalink: /Java/tag/java.security.sasl/
 date: 2020-12-29
 key: Javamodulojava.security.sasl
 sidebar: 

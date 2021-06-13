@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.image.renderable"
 layout: tag
-permalink: /java/tag/java.awt.image.renderable/
+permalink: /Java/tag/java.awt.image.renderable/
 date: 2020-12-29
 key: Javapaquetejava.awt.image.renderable
 sidebar: 

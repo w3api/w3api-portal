@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.management.agent"
 layout: tag
-permalink: /java/tag/jdk.management.agent/
+permalink: /Java/tag/jdk.management.agent/
 date: 2020-12-29
 key: Javamodulojdk.management.agent
 sidebar: 

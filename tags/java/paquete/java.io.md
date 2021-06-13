@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.io"
 layout: tag
-permalink: /java/tag/java.io/
+permalink: /Java/tag/java.io/
 date: 2020-12-29
 key: Javapaquetejava.io
 sidebar: 

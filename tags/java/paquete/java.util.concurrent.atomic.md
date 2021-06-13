@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.concurrent.atomic"
 layout: tag
-permalink: /java/tag/java.util.concurrent.atomic/
+permalink: /Java/tag/java.util.concurrent.atomic/
 date: 2020-12-29
 key: Javapaquetejava.util.concurrent.atomic
 sidebar: 

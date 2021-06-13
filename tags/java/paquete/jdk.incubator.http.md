@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.incubator.http"
 layout: tag
-permalink: /java/tag/jdk.incubator.http/
+permalink: /Java/tag/jdk.incubator.http/
 date: 2020-12-29
 key: Javapaquetejdk.incubator.http
 sidebar: 

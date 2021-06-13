@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.tools.attach.spi"
 layout: tag
-permalink: /java/tag/com.sun.tools.attach.spi/
+permalink: /Java/tag/com.sun.tools.attach.spi/
 date: 2020-12-29
 key: Javapaquetecom.sun.tools.attach.spi
 sidebar: 

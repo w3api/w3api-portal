@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.PortableServer.POAManagerPackage"
 layout: tag
-permalink: /java/tag/org.omg.PortableServer.POAManagerPackage/
+permalink: /Java/tag/org.omg.PortableServer.POAManagerPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.PortableServer.POAManagerPackage
 sidebar: 

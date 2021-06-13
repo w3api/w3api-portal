@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.jshell.spi"
 layout: tag
-permalink: /java/tag/jdk.jshell.spi/
+permalink: /Java/tag/jdk.jshell.spi/
 date: 2020-12-29
 key: Javapaquetejdk.jshell.spi
 sidebar: 

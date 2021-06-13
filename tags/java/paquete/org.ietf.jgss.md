@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.ietf.jgss"
 layout: tag
-permalink: /java/tag/org.ietf.jgss/
+permalink: /Java/tag/org.ietf.jgss/
 date: 2020-12-29
 key: Javapaqueteorg.ietf.jgss
 sidebar: 

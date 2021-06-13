@@ -25,7 +25,7 @@ new InternalError([message[, fileName[, lineNumber]]])
 * **lineNumber**,  {% include w3api/param_description.html metodo=_dato parametro="lineNumber" %}
 
 ## Objeto Padre
-[InternalError](/javascript/InternalError/)
+[InternalError](/Javascript/InternalError/)
 
 ## Ejemplo
 ~~~java

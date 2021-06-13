@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.DynamicAny.DynAnyFactoryPackage"
 layout: tag
-permalink: /java/tag/org.omg.DynamicAny.DynAnyFactoryPackage/
+permalink: /Java/tag/org.omg.DynamicAny.DynAnyFactoryPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.DynamicAny.DynAnyFactoryPackage
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.dnd"
 layout: tag
-permalink: /java/tag/java.awt.dnd/
+permalink: /Java/tag/java.awt.dnd/
 date: 2020-12-29
 key: Javapaquetejava.awt.dnd
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.xml.bind"
 layout: tag
-permalink: /java/tag/java.xml.bind/
+permalink: /Java/tag/java.xml.bind/
 date: 2020-12-29
 key: Javamodulojava.xml.bind
 sidebar: 

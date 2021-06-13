@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.smartcardio"
 layout: tag
-permalink: /java/tag/java.smartcardio/
+permalink: /Java/tag/java.smartcardio/
 date: 2020-12-29
 key: Javamodulojava.smartcardio
 sidebar: 

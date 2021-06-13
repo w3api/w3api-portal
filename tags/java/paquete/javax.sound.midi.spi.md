@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.sound.midi.spi"
 layout: tag
-permalink: /java/tag/javax.sound.midi.spi/
+permalink: /Java/tag/javax.sound.midi.spi/
 date: 2020-12-29
 key: Javapaquetejavax.sound.midi.spi
 sidebar: 

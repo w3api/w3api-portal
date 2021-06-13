@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.management.resource"
 layout: tag
-permalink: /java/tag/jdk.management.resource/
+permalink: /Java/tag/jdk.management.resource/
 date: 2020-12-29
 key: Javamodulojdk.management.resource
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jdwp.agent"
 layout: tag
-permalink: /java/tag/jdk.jdwp.agent/
+permalink: /Java/tag/jdk.jdwp.agent/
 date: 2020-12-29
 key: Javamodulojdk.jdwp.agent
 sidebar: 

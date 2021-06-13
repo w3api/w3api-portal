@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.security.auth"
 layout: tag
-permalink: /java/tag/com.sun.security.auth/
+permalink: /Java/tag/com.sun.security.auth/
 date: 2020-12-29
 key: Javapaquetecom.sun.security.auth
 sidebar: 

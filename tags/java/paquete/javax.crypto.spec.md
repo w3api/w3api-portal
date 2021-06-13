@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.crypto.spec"
 layout: tag
-permalink: /java/tag/javax.crypto.spec/
+permalink: /Java/tag/javax.crypto.spec/
 date: 2020-12-29
 key: Javapaquetejavax.crypto.spec
 sidebar: 

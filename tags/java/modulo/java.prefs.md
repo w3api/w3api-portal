@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.prefs"
 layout: tag
-permalink: /java/tag/java.prefs/
+permalink: /Java/tag/java.prefs/
 date: 2020-12-29
 key: Javamodulojava.prefs
 sidebar: 

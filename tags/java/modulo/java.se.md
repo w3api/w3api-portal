@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.se"
 layout: tag
-permalink: /java/tag/java.se/
+permalink: /Java/tag/java.se/
 date: 2020-12-29
 key: Javamodulojava.se
 sidebar: 

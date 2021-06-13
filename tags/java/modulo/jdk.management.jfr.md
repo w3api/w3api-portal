@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.management.jfr"
 layout: tag
-permalink: /java/tag/jdk.management.jfr/
+permalink: /Java/tag/jdk.management.jfr/
 date: 2020-12-29
 key: Javamodulojdk.management.jfr
 sidebar: 

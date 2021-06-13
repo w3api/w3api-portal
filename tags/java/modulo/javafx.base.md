@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.base"
 layout: tag
-permalink: /java/tag/javafx.base/
+permalink: /Java/tag/javafx.base/
 date: 2020-12-29
 key: Javamodulojavafx.base
 sidebar: 

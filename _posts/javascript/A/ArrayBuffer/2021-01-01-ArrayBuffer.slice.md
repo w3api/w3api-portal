@@ -24,7 +24,7 @@ arraybuffer.slice(begin[, end])
 * **end**,  {% include w3api/param_description.html metodo=_dato parametro="end" %}
 
 ## Objeto Padre
-[ArrayBuffer](/javascript/ArrayBuffer/)
+[ArrayBuffer](/Javascript/ArrayBuffer/)
 
 ## Ejemplo
 ~~~java

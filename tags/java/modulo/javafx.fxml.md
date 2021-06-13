@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.fxml"
 layout: tag
-permalink: /java/tag/javafx.fxml/
+permalink: /Java/tag/javafx.fxml/
 date: 2020-12-29
 key: Javamodulojavafx.fxml
 sidebar: 

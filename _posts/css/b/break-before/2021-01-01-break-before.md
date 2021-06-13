@@ -1,6 +1,6 @@
 ---
 title: break-before
-permalink: /css/break-before/
+permalink: /CSS/break-before/
 date: 2021-03-07 03:00:15.561018
 key: CSS.b.break-before
 category: css

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.bind.attachment"
 layout: tag
-permalink: /java/tag/javax.xml.bind.attachment/
+permalink: /Java/tag/javax.xml.bind.attachment/
 date: 2020-12-29
 key: Javapaquetejavax.xml.bind.attachment
 sidebar: 

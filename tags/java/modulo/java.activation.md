@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.activation"
 layout: tag
-permalink: /java/tag/java.activation/
+permalink: /Java/tag/java.activation/
 date: 2020-12-29
 key: Javamodulojava.activation
 sidebar: 

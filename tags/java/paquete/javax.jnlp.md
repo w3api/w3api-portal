@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.jnlp"
 layout: tag
-permalink: /java/tag/javax.jnlp/
+permalink: /Java/tag/javax.jnlp/
 date: 2020-12-29
 key: Javapaquetejavax.jnlp
 sidebar: 

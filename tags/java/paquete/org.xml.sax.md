@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.xml.sax"
 layout: tag
-permalink: /java/tag/org.xml.sax/
+permalink: /Java/tag/org.xml.sax/
 date: 2020-12-29
 key: Javapaqueteorg.xml.sax
 sidebar: 

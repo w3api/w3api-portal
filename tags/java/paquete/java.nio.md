@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.nio"
 layout: tag
-permalink: /java/tag/java.nio/
+permalink: /Java/tag/java.nio/
 date: 2020-12-29
 key: Javapaquetejava.nio
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.imageio.spi"
 layout: tag
-permalink: /java/tag/javax.imageio.spi/
+permalink: /Java/tag/javax.imageio.spi/
 date: 2020-12-29
 key: Javapaquetejavax.imageio.spi
 sidebar: 

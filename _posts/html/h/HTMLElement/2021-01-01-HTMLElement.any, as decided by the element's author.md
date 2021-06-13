@@ -1,6 +1,6 @@
 ---
 title: HTMLElement.any, as decided by the element's author
-permalink: /html/HTMLElement/any, as decided by the element's author/
+permalink: /HTML/HTMLElement/any, as decided by the element's author/
 date: 2021-02-15 01:07:21.547161
 key: HTML.H.HTMLElement.any, as decided by the element's author
 category: html
@@ -19,7 +19,7 @@ sidebar:
 ~~~
 
 ## Elemento Padre
-[HTMLElement](/html/HTMLElement/)
+[HTMLElement](/HTML/HTMLElement/)
 
 ## Ejemplo
 ~~~java

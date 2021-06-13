@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.stream.util"
 layout: tag
-permalink: /java/tag/javax.xml.stream.util/
+permalink: /Java/tag/javax.xml.stream.util/
 date: 2020-12-29
 key: Javapaquetejavax.xml.stream.util
 sidebar: 

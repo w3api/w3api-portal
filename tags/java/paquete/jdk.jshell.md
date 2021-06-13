@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.jshell"
 layout: tag
-permalink: /java/tag/jdk.jshell/
+permalink: /Java/tag/jdk.jshell/
 date: 2020-12-29
 key: Javapaquetejdk.jshell
 sidebar: 

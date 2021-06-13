@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.ws.spi"
 layout: tag
-permalink: /java/tag/javax.xml.ws.spi/
+permalink: /Java/tag/javax.xml.ws.spi/
 date: 2020-12-29
 key: Javapaquetejavax.xml.ws.spi
 sidebar: 

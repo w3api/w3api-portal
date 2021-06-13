@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.text.spi"
 layout: tag
-permalink: /java/tag/java.text.spi/
+permalink: /Java/tag/java.text.spi/
 date: 2020-12-29
 key: Javapaquetejava.text.spi
 sidebar: 

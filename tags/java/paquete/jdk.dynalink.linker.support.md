@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.dynalink.linker.support"
 layout: tag
-permalink: /java/tag/jdk.dynalink.linker.support/
+permalink: /Java/tag/jdk.dynalink.linker.support/
 date: 2020-12-29
 key: Javapaquetejdk.dynalink.linker.support
 sidebar: 

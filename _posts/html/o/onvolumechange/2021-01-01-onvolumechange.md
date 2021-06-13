@@ -1,6 +1,6 @@
 ---
 title: onvolumechange
-permalink: /html/onvolumechange/
+permalink: /HTML/onvolumechange/
 date: 2021-02-15 01:07:21.572793
 key: HTML.o.onvolumechange
 category: html

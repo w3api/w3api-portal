@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.sql.rowset.serial"
 layout: tag
-permalink: /java/tag/javax.sql.rowset.serial/
+permalink: /Java/tag/javax.sql.rowset.serial/
 date: 2020-12-29
 key: Javapaquetejavax.sql.rowset.serial
 sidebar: 

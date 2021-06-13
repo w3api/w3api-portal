@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.security.spec"
 layout: tag
-permalink: /java/tag/java.security.spec/
+permalink: /Java/tag/java.security.spec/
 date: 2020-12-29
 key: Javapaquetejava.security.spec
 sidebar: 

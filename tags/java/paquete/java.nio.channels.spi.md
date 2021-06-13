@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.nio.channels.spi"
 layout: tag
-permalink: /java/tag/java.nio.channels.spi/
+permalink: /Java/tag/java.nio.channels.spi/
 date: 2020-12-29
 key: Javapaquetejava.nio.channels.spi
 sidebar: 

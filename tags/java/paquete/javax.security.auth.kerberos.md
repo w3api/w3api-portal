@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.security.auth.kerberos"
 layout: tag
-permalink: /java/tag/javax.security.auth.kerberos/
+permalink: /Java/tag/javax.security.auth.kerberos/
 date: 2020-12-29
 key: Javapaquetejavax.security.auth.kerberos
 sidebar: 

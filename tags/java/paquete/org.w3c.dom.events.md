@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.w3c.dom.events"
 layout: tag
-permalink: /java/tag/org.w3c.dom.events/
+permalink: /Java/tag/org.w3c.dom.events/
 date: 2020-12-29
 key: Javapaqueteorg.w3c.dom.events
 sidebar: 

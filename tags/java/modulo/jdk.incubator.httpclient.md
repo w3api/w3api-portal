@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.incubator.httpclient"
 layout: tag
-permalink: /java/tag/jdk.incubator.httpclient/
+permalink: /Java/tag/jdk.incubator.httpclient/
 date: 2020-12-29
 key: Javamodulojdk.incubator.httpclient
 sidebar: 

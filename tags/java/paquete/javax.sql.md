@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.sql"
 layout: tag
-permalink: /java/tag/javax.sql/
+permalink: /Java/tag/javax.sql/
 date: 2020-12-29
 key: Javapaquetejavax.sql
 sidebar: 

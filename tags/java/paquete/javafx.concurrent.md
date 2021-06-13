@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.concurrent"
 layout: tag
-permalink: /java/tag/javafx.concurrent/
+permalink: /Java/tag/javafx.concurrent/
 date: 2020-12-29
 key: Javapaquetejavafx.concurrent
 sidebar: 

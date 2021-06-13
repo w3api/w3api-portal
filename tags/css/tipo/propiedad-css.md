@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Propiedad CSS"
-permalink: /css/tag/propiedad-css/
+permalink: /CSS/tag/propiedad-css/
 date: 2021-03-07T03:07:52+00:00
 key: PropiedadCSS
 show_date: false

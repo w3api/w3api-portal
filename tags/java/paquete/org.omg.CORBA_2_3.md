@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.CORBA_2_3"
 layout: tag
-permalink: /java/tag/org.omg.CORBA_2_3/
+permalink: /Java/tag/org.omg.CORBA_2_3/
 date: 2020-12-29
 key: Javapaqueteorg.omg.CORBA_2_3
 sidebar: 

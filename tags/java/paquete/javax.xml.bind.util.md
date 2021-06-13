@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.bind.util"
 layout: tag
-permalink: /java/tag/javax.xml.bind.util/
+permalink: /Java/tag/javax.xml.bind.util/
 date: 2020-12-29
 key: Javapaquetejavax.xml.bind.util
 sidebar: 

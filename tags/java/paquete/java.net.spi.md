@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.net.spi"
 layout: tag
-permalink: /java/tag/java.net.spi/
+permalink: /Java/tag/java.net.spi/
 date: 2020-12-29
 key: Javapaquetejava.net.spi
 sidebar: 

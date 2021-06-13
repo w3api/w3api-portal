@@ -18,15 +18,15 @@ InternalError
 ~~~
 
 ## Constructores
-* [InternalError()](/javascript/InternalError/InternalError/)
+* [InternalError()](/Javascript/InternalError/InternalError/)
 
 ## Propiedades
-* [message](/javascript/InternalError/message)
-* [name](/javascript/InternalError/name)
-* [fileName](/javascript/InternalError/fileName)
-* [lineNumber](/javascript/InternalError/lineNumber)
-* [columnNumber](/javascript/InternalError/columnNumber)
-* [stack](/javascript/InternalError/stack)
+* [message](/Javascript/InternalError/message)
+* [name](/Javascript/InternalError/name)
+* [fileName](/Javascript/InternalError/fileName)
+* [lineNumber](/Javascript/InternalError/lineNumber)
+* [columnNumber](/Javascript/InternalError/columnNumber)
+* [stack](/Javascript/InternalError/stack)
 
 ## Ejemplo
 ~~~java

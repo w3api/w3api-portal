@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.security.sasl"
 layout: tag
-permalink: /java/tag/javax.security.sasl/
+permalink: /Java/tag/javax.security.sasl/
 date: 2020-12-29
 key: Javapaquetejavax.security.sasl
 sidebar: 

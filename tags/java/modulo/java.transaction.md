@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.transaction"
 layout: tag
-permalink: /java/tag/java.transaction/
+permalink: /Java/tag/java.transaction/
 date: 2020-12-29
 key: Javamodulojava.transaction
 sidebar: 

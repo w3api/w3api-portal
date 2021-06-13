@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.jfr"
 layout: tag
-permalink: /java/tag/jdk.jfr/
+permalink: /Java/tag/jdk.jfr/
 date: 2020-12-29
 key: Javapaquetejdk.jfr
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.openmbean"
 layout: tag
-permalink: /java/tag/javax.management.openmbean/
+permalink: /Java/tag/javax.management.openmbean/
 date: 2020-12-29
 key: Javapaquetejavax.management.openmbean
 sidebar: 

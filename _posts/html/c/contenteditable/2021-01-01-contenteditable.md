@@ -1,6 +1,6 @@
 ---
 title: contenteditable
-permalink: /html/contenteditable/
+permalink: /HTML/contenteditable/
 date: 2021-02-15 01:07:21.547919
 key: HTML.c.contenteditable
 category: html

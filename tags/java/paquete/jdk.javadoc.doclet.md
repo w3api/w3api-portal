@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.javadoc.doclet"
 layout: tag
-permalink: /java/tag/jdk.javadoc.doclet/
+permalink: /Java/tag/jdk.javadoc.doclet/
 date: 2020-12-29
 key: Javapaquetejdk.javadoc.doclet
 sidebar: 

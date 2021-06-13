@@ -1,6 +1,6 @@
 ---
 title: background-blend-mode
-permalink: /css/background-blend-mode/
+permalink: /CSS/background-blend-mode/
 date: 2021-03-07 02:57:52.645002
 key: CSS.b.background-blend-mode
 category: css

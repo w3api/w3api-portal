@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.security.auth.callback"
 layout: tag
-permalink: /java/tag/javax.security.auth.callback/
+permalink: /Java/tag/javax.security.auth.callback/
 date: 2020-12-29
 key: Javapaquetejavax.security.auth.callback
 sidebar: 

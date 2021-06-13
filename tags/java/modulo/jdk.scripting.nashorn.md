@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.scripting.nashorn"
 layout: tag
-permalink: /java/tag/jdk.scripting.nashorn/
+permalink: /Java/tag/jdk.scripting.nashorn/
 date: 2020-12-29
 key: Javamodulojdk.scripting.nashorn
 sidebar: 

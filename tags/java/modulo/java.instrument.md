@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.instrument"
 layout: tag
-permalink: /java/tag/java.instrument/
+permalink: /Java/tag/java.instrument/
 date: 2020-12-29
 key: Javamodulojava.instrument
 sidebar: 

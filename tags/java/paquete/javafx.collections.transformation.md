@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.collections.transformation"
 layout: tag
-permalink: /java/tag/javafx.collections.transformation/
+permalink: /Java/tag/javafx.collections.transformation/
 date: 2020-12-29
 key: Javapaquetejavafx.collections.transformation
 sidebar: 

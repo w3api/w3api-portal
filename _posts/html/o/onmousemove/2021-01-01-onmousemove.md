@@ -1,6 +1,6 @@
 ---
 title: onmousemove
-permalink: /html/onmousemove/
+permalink: /HTML/onmousemove/
 date: 2021-02-15 01:07:21.568933
 key: HTML.o.onmousemove
 category: html

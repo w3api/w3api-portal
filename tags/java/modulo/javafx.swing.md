@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.swing"
 layout: tag
-permalink: /java/tag/javafx.swing/
+permalink: /Java/tag/javafx.swing/
 date: 2020-12-29
 key: Javamodulojavafx.swing
 sidebar: 

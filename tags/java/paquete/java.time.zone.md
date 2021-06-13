@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.time.zone"
 layout: tag
-permalink: /java/tag/java.time.zone/
+permalink: /Java/tag/java.time.zone/
 date: 2020-12-29
 key: Javapaquetejava.time.zone
 sidebar: 

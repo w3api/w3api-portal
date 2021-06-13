@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.zip"
 layout: tag
-permalink: /java/tag/java.util.zip/
+permalink: /Java/tag/java.util.zip/
 date: 2020-12-29
 key: Javapaquetejava.util.zip
 sidebar: 

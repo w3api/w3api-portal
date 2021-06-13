@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.net.httpserver"
 layout: tag
-permalink: /java/tag/com.sun.net.httpserver/
+permalink: /Java/tag/com.sun.net.httpserver/
 date: 2020-12-29
 key: Javapaquetecom.sun.net.httpserver
 sidebar: 

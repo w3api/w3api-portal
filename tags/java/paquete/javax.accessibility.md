@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.accessibility"
 layout: tag
-permalink: /java/tag/javax.accessibility/
+permalink: /Java/tag/javax.accessibility/
 date: 2020-12-29
 key: Javapaquetejavax.accessibility
 sidebar: 

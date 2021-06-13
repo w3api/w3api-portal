@@ -1,6 +1,6 @@
 ---
 title: onseeking
-permalink: /html/onseeking/
+permalink: /HTML/onseeking/
 date: 2021-02-15 01:07:21.571341
 key: HTML.o.onseeking
 category: html

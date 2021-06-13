@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.compiler"
 layout: tag
-permalink: /java/tag/java.compiler/
+permalink: /Java/tag/java.compiler/
 date: 2020-12-29
 key: Javamodulojava.compiler
 sidebar: 

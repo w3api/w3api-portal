@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.jfr.consumer"
 layout: tag
-permalink: /java/tag/jdk.jfr.consumer/
+permalink: /Java/tag/jdk.jfr.consumer/
 date: 2020-12-29
 key: Javapaquetejdk.jfr.consumer
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.print.attribute"
 layout: tag
-permalink: /java/tag/javax.print.attribute/
+permalink: /Java/tag/javax.print.attribute/
 date: 2020-12-29
 key: Javapaquetejavax.print.attribute
 sidebar: 

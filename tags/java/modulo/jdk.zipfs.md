@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.zipfs"
 layout: tag
-permalink: /java/tag/jdk.zipfs/
+permalink: /Java/tag/jdk.zipfs/
 date: 2020-12-29
 key: Javamodulojdk.zipfs
 sidebar: 

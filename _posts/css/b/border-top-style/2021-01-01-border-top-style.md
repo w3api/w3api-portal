@@ -1,6 +1,6 @@
 ---
 title: border-top-style
-permalink: /css/border-top-style/
+permalink: /CSS/border-top-style/
 date: 2021-03-07 02:59:51.252139
 key: CSS.b.border-top-style
 category: css

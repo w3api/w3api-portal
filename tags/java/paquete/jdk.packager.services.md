@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.packager.services"
 layout: tag
-permalink: /java/tag/jdk.packager.services/
+permalink: /Java/tag/jdk.packager.services/
 date: 2020-12-29
 key: Javapaquetejdk.packager.services
 sidebar: 

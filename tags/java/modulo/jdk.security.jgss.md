@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.security.jgss"
 layout: tag
-permalink: /java/tag/jdk.security.jgss/
+permalink: /Java/tag/jdk.security.jgss/
 date: 2020-12-29
 key: Javamodulojdk.security.jgss
 sidebar: 

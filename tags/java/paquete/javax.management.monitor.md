@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.monitor"
 layout: tag
-permalink: /java/tag/javax.management.monitor/
+permalink: /Java/tag/javax.management.monitor/
 date: 2020-12-29
 key: Javapaquetejavax.management.monitor
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.prefs"
 layout: tag
-permalink: /java/tag/java.util.prefs/
+permalink: /Java/tag/java.util.prefs/
 date: 2020-12-29
 key: Javapaquetejava.util.prefs
 sidebar: 

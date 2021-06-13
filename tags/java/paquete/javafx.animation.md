@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.animation"
 layout: tag
-permalink: /java/tag/javafx.animation/
+permalink: /Java/tag/javafx.animation/
 date: 2020-12-29
 key: Javapaquetejavafx.animation
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: onplaying
-permalink: /html/onplaying/
+permalink: /HTML/onplaying/
 date: 2021-02-15 01:07:21.569947
 key: HTML.o.onplaying
 category: html

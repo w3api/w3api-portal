@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.controls"
 layout: tag
-permalink: /java/tag/javafx.controls/
+permalink: /Java/tag/javafx.controls/
 date: 2020-12-29
 key: Javamodulojavafx.controls
 sidebar: 

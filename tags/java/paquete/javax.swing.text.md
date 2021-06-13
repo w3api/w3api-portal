@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.text"
 layout: tag
-permalink: /java/tag/javax.swing.text/
+permalink: /Java/tag/javax.swing.text/
 date: 2020-12-29
 key: Javapaquetejavax.swing.text
 sidebar: 

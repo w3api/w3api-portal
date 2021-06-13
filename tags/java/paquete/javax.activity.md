@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.activity"
 layout: tag
-permalink: /java/tag/javax.activity/
+permalink: /Java/tag/javax.activity/
 date: 2020-12-29
 key: Javapaquetejavax.activity
 sidebar: 

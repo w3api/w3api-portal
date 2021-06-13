@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.nio.file.spi"
 layout: tag
-permalink: /java/tag/java.nio.file.spi/
+permalink: /Java/tag/java.nio.file.spi/
 date: 2020-12-29
 key: Javapaquetejava.nio.file.spi
 sidebar: 

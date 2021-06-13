@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jartool"
 layout: tag
-permalink: /java/tag/jdk.jartool/
+permalink: /Java/tag/jdk.jartool/
 date: 2020-12-29
 key: Javamodulojdk.jartool
 sidebar: 

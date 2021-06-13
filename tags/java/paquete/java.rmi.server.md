@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.rmi.server"
 layout: tag
-permalink: /java/tag/java.rmi.server/
+permalink: /Java/tag/java.rmi.server/
 date: 2020-12-29
 key: Javapaquetejava.rmi.server
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.httpserver"
 layout: tag
-permalink: /java/tag/jdk.httpserver/
+permalink: /Java/tag/jdk.httpserver/
 date: 2020-12-29
 key: Javamodulojdk.httpserver
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: onemptied
-permalink: /html/onemptied/
+permalink: /HTML/onemptied/
 date: 2021-02-15 01:07:21.566406
 key: HTML.o.onemptied
 category: html

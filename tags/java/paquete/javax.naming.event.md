@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.naming.event"
 layout: tag
-permalink: /java/tag/javax.naming.event/
+permalink: /Java/tag/javax.naming.event/
 date: 2020-12-29
 key: Javapaquetejavax.naming.event
 sidebar: 

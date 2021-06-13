@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.print.event"
 layout: tag
-permalink: /java/tag/javax.print.event/
+permalink: /Java/tag/javax.print.event/
 date: 2020-12-29
 key: Javapaquetejavax.print.event
 sidebar: 

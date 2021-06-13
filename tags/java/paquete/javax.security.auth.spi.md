@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.security.auth.spi"
 layout: tag
-permalink: /java/tag/javax.security.auth.spi/
+permalink: /Java/tag/javax.security.auth.spi/
 date: 2020-12-29
 key: Javapaquetejavax.security.auth.spi
 sidebar: 

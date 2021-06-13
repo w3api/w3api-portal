@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.border"
 layout: tag
-permalink: /java/tag/javax.swing.border/
+permalink: /Java/tag/javax.swing.border/
 date: 2020-12-29
 key: Javapaquetejavax.swing.border
 sidebar: 

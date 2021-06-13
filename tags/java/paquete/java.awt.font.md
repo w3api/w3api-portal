@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.font"
 layout: tag
-permalink: /java/tag/java.awt.font/
+permalink: /Java/tag/java.awt.font/
 date: 2020-12-29
 key: Javapaquetejava.awt.font
 sidebar: 

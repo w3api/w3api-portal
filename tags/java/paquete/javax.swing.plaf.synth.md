@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.plaf.synth"
 layout: tag
-permalink: /java/tag/javax.swing.plaf.synth/
+permalink: /Java/tag/javax.swing.plaf.synth/
 date: 2020-12-29
 key: Javapaquetejavax.swing.plaf.synth
 sidebar: 

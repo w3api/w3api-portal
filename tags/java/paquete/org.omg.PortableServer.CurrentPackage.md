@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.PortableServer.CurrentPackage"
 layout: tag
-permalink: /java/tag/org.omg.PortableServer.CurrentPackage/
+permalink: /Java/tag/org.omg.PortableServer.CurrentPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.PortableServer.CurrentPackage
 sidebar: 

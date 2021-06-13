@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.embed.swing"
 layout: tag
-permalink: /java/tag/javafx.embed.swing/
+permalink: /Java/tag/javafx.embed.swing/
 date: 2020-12-29
 key: Javapaquetejavafx.embed.swing
 sidebar: 

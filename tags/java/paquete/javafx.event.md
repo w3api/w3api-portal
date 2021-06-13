@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.event"
 layout: tag
-permalink: /java/tag/javafx.event/
+permalink: /Java/tag/javafx.event/
 date: 2020-12-29
 key: Javapaquetejavafx.event
 sidebar: 

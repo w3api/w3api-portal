@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.media"
 layout: tag
-permalink: /java/tag/javafx.scene.media/
+permalink: /Java/tag/javafx.scene.media/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.media
 sidebar: 

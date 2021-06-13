@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Campo Java"
-permalink: /java/tag/campo-java/
+permalink: /Java/tag/campo-java/
 date: 2011-06-23T18:38:52+00:00
 key: MetodoJava
 show_date: false

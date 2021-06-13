@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.spi"
 layout: tag
-permalink: /java/tag/java.util.spi/
+permalink: /Java/tag/java.util.spi/
 date: 2020-12-29
 key: Javapaquetejava.util.spi
 sidebar: 

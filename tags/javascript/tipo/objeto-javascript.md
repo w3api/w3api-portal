@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Objeto Javascript"
-permalink: /javascript/tag/objeto-javascript/
+permalink: /Javascript/tag/objeto-javascript/
 date: 2011-06-23T18:38:52+00:00
 key: ObjetoJavascript
 show_date: false

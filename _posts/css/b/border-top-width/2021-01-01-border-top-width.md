@@ -1,6 +1,6 @@
 ---
 title: border-top-width
-permalink: /css/border-top-width/
+permalink: /CSS/border-top-width/
 date: 2021-03-07 02:59:54.048650
 key: CSS.b.border-top-width
 category: css

@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.jdi.request"
 layout: tag
-permalink: /java/tag/com.sun.jdi.request/
+permalink: /Java/tag/com.sun.jdi.request/
 date: 2020-12-29
 key: Javapaquetecom.sun.jdi.request
 sidebar: 

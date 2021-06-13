@@ -1,6 +1,6 @@
 ---
 title: draggable
-permalink: /html/draggable/
+permalink: /HTML/draggable/
 date: 2021-02-15 01:07:21.548189
 key: HTML.d.draggable
 category: html

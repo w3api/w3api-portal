@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.Messaging"
 layout: tag
-permalink: /java/tag/org.omg.Messaging/
+permalink: /Java/tag/org.omg.Messaging/
 date: 2020-12-29
 key: Javapaqueteorg.omg.Messaging
 sidebar: 

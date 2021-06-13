@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.geometry"
 layout: tag
-permalink: /java/tag/javafx.geometry/
+permalink: /Java/tag/javafx.geometry/
 date: 2020-12-29
 key: Javapaquetejavafx.geometry
 sidebar: 

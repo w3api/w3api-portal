@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt"
 layout: tag
-permalink: /java/tag/java.awt/
+permalink: /Java/tag/java.awt/
 date: 2020-12-29
 key: Javapaquetejava.awt
 sidebar: 

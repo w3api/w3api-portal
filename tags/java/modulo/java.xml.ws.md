@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.xml.ws"
 layout: tag
-permalink: /java/tag/java.xml.ws/
+permalink: /Java/tag/java.xml.ws/
 date: 2020-12-29
 key: Javamodulojava.xml.ws
 sidebar: 

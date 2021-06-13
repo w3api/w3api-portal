@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jlink"
 layout: tag
-permalink: /java/tag/jdk.jlink/
+permalink: /Java/tag/jdk.jlink/
 date: 2020-12-29
 key: Javamodulojdk.jlink
 sidebar: 

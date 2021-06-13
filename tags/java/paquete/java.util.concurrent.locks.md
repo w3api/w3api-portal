@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.concurrent.locks"
 layout: tag
-permalink: /java/tag/java.util.concurrent.locks/
+permalink: /Java/tag/java.util.concurrent.locks/
 date: 2020-12-29
 key: Javapaquetejava.util.concurrent.locks
 sidebar: 

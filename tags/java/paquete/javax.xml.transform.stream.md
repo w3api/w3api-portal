@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.transform.stream"
 layout: tag
-permalink: /java/tag/javax.xml.transform.stream/
+permalink: /Java/tag/javax.xml.transform.stream/
 date: 2020-12-29
 key: Javapaquetejavax.xml.transform.stream
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.management"
 layout: tag
-permalink: /java/tag/com.sun.management/
+permalink: /Java/tag/com.sun.management/
 date: 2020-12-29
 key: Javapaquetecom.sun.management
 sidebar: 

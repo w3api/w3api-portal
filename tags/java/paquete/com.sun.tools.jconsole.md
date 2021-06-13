@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.tools.jconsole"
 layout: tag
-permalink: /java/tag/com.sun.tools.jconsole/
+permalink: /Java/tag/com.sun.tools.jconsole/
 date: 2020-12-29
 key: Javapaquetecom.sun.tools.jconsole
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.ws.soap"
 layout: tag
-permalink: /java/tag/javax.xml.ws.soap/
+permalink: /Java/tag/javax.xml.ws.soap/
 date: 2020-12-29
 key: Javapaquetejavax.xml.ws.soap
 sidebar: 

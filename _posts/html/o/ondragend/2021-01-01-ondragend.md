@@ -1,6 +1,6 @@
 ---
 title: ondragend
-permalink: /html/ondragend/
+permalink: /HTML/ondragend/
 date: 2021-02-15 01:07:21.565191
 key: HTML.o.ondragend
 category: html

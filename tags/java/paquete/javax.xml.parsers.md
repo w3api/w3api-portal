@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.parsers"
 layout: tag
-permalink: /java/tag/javax.xml.parsers/
+permalink: /Java/tag/javax.xml.parsers/
 date: 2020-12-29
 key: Javapaquetejavax.xml.parsers
 sidebar: 

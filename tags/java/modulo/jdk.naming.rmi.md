@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.naming.rmi"
 layout: tag
-permalink: /java/tag/jdk.naming.rmi/
+permalink: /Java/tag/jdk.naming.rmi/
 date: 2020-12-29
 key: Javamodulojdk.naming.rmi
 sidebar: 

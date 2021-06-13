@@ -1,6 +1,6 @@
 ---
 title: onmousedown
-permalink: /html/onmousedown/
+permalink: /HTML/onmousedown/
 date: 2021-02-15 01:07:21.568409
 key: HTML.o.onmousedown
 category: html

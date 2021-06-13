@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.bind.annotation"
 layout: tag
-permalink: /java/tag/javax.xml.bind.annotation/
+permalink: /Java/tag/javax.xml.bind.annotation/
 date: 2020-12-29
 key: Javapaquetejavax.xml.bind.annotation
 sidebar: 

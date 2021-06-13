@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.stage"
 layout: tag
-permalink: /java/tag/javafx.stage/
+permalink: /Java/tag/javafx.stage/
 date: 2020-12-29
 key: Javapaquetejavafx.stage
 sidebar: 

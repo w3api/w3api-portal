@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.xml.sax.helpers"
 layout: tag
-permalink: /java/tag/org.xml.sax.helpers/
+permalink: /Java/tag/org.xml.sax.helpers/
 date: 2020-12-29
 key: Javapaqueteorg.xml.sax.helpers
 sidebar: 

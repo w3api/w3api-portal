@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.CORBA.DynAnyPackage"
 layout: tag
-permalink: /java/tag/org.omg.CORBA.DynAnyPackage/
+permalink: /Java/tag/org.omg.CORBA.DynAnyPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.CORBA.DynAnyPackage
 sidebar: 

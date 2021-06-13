@@ -20,7 +20,7 @@ get ArrayBuffer[@@species]
 ~~~
 
 ## Objeto Padre
-[ArrayBuffer](/javascript/ArrayBuffer/)
+[ArrayBuffer](/Javascript/ArrayBuffer/)
 
 ## Ejemplo
 ~~~java

@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.PortableServer.ServantLocatorPackage"
 layout: tag
-permalink: /java/tag/org.omg.PortableServer.ServantLocatorPackage/
+permalink: /Java/tag/org.omg.PortableServer.ServantLocatorPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.PortableServer.ServantLocatorPackage
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.transform"
 layout: tag
-permalink: /java/tag/javafx.scene.transform/
+permalink: /Java/tag/javafx.scene.transform/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.transform
 sidebar: 

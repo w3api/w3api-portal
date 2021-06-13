@@ -1,6 +1,6 @@
 ---
 title: box-shadow
-permalink: /css/box-shadow/
+permalink: /CSS/box-shadow/
 date: 2021-03-07 03:00:09.132207
 key: CSS.b.box-shadow
 category: css

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.relation"
 layout: tag
-permalink: /java/tag/javax.management.relation/
+permalink: /Java/tag/javax.management.relation/
 date: 2020-12-29
 key: Javapaquetejavax.management.relation
 sidebar: 

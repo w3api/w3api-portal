@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.security.auth.x500"
 layout: tag
-permalink: /java/tag/javax.security.auth.x500/
+permalink: /Java/tag/javax.security.auth.x500/
 date: 2020-12-29
 key: Javapaquetejavax.security.auth.x500
 sidebar: 

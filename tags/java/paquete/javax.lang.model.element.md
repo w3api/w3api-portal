@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.lang.model.element"
 layout: tag
-permalink: /java/tag/javax.lang.model.element/
+permalink: /Java/tag/javax.lang.model.element/
 date: 2020-12-29
 key: Javapaquetejavax.lang.model.element
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.rmi.dgc"
 layout: tag
-permalink: /java/tag/java.rmi.dgc/
+permalink: /Java/tag/java.rmi.dgc/
 date: 2020-12-29
 key: Javapaquetejava.rmi.dgc
 sidebar: 

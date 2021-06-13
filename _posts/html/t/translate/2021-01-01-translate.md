@@ -1,6 +1,6 @@
 ---
 title: translate
-permalink: /html/translate/
+permalink: /HTML/translate/
 date: 2021-02-15 01:07:21.550692
 key: HTML.t.translate
 category: html

@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.sql.rowset"
 layout: tag
-permalink: /java/tag/java.sql.rowset/
+permalink: /Java/tag/java.sql.rowset/
 date: 2020-12-29
 key: Javamodulojava.sql.rowset
 sidebar: 

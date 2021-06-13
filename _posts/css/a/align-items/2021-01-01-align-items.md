@@ -1,6 +1,6 @@
 ---
 title: align-items
-permalink: /css/align-items/
+permalink: /CSS/align-items/
 date: 2021-03-07 02:57:18.098474
 key: CSS.a.align-items
 category: css

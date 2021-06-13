@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.lang.instrument"
 layout: tag
-permalink: /java/tag/java.lang.instrument/
+permalink: /Java/tag/java.lang.instrument/
 date: 2020-12-29
 key: Javapaquetejava.lang.instrument
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.graphics"
 layout: tag
-permalink: /java/tag/javafx.graphics/
+permalink: /Java/tag/javafx.graphics/
 date: 2020-12-29
 key: Javamodulojavafx.graphics
 sidebar: 

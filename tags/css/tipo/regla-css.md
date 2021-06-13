@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Regla CSS"
-permalink: /css/tag/regla-css/
+permalink: /CSS/tag/regla-css/
 date: 2021-03-07T03:07:52+00:00
 key: ReglaCSS
 show_date: false

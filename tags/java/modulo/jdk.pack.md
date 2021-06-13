@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.pack"
 layout: tag
-permalink: /java/tag/jdk.pack/
+permalink: /Java/tag/jdk.pack/
 date: 2020-12-29
 key: Javamodulojdk.pack
 sidebar: 

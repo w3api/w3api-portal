@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.lang.invoke"
 layout: tag
-permalink: /java/tag/java.lang.invoke/
+permalink: /Java/tag/java.lang.invoke/
 date: 2020-12-29
 key: Javapaquetejava.lang.invoke
 sidebar: 

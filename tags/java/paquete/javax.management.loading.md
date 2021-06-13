@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.loading"
 layout: tag
-permalink: /java/tag/javax.management.loading/
+permalink: /Java/tag/javax.management.loading/
 date: 2020-12-29
 key: Javapaquetejavax.management.loading
 sidebar: 

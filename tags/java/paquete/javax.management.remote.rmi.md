@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.remote.rmi"
 layout: tag
-permalink: /java/tag/javax.management.remote.rmi/
+permalink: /Java/tag/javax.management.remote.rmi/
 date: 2020-12-29
 key: Javapaquetejavax.management.remote.rmi
 sidebar: 

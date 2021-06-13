@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.color"
 layout: tag
-permalink: /java/tag/java.awt.color/
+permalink: /Java/tag/java.awt.color/
 date: 2020-12-29
 key: Javapaquetejava.awt.color
 sidebar: 

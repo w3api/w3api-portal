@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.naming.ldap"
 layout: tag
-permalink: /java/tag/javax.naming.ldap/
+permalink: /Java/tag/javax.naming.ldap/
 date: 2020-12-29
 key: Javapaquetejavax.naming.ldap
 sidebar: 

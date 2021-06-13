@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.media"
 layout: tag
-permalink: /java/tag/javafx.media/
+permalink: /Java/tag/javafx.media/
 date: 2020-12-29
 key: Javamodulojavafx.media
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.javadoc"
 layout: tag
-permalink: /java/tag/jdk.javadoc/
+permalink: /Java/tag/jdk.javadoc/
 date: 2020-12-29
 key: Javamodulojdk.javadoc
 sidebar: 

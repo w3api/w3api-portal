@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.datatype"
 layout: tag
-permalink: /java/tag/javax.xml.datatype/
+permalink: /Java/tag/javax.xml.datatype/
 date: 2020-12-29
 key: Javapaquetejavax.xml.datatype
 sidebar: 

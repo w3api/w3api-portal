@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.geom"
 layout: tag
-permalink: /java/tag/java.awt.geom/
+permalink: /Java/tag/java.awt.geom/
 date: 2020-12-29
 key: Javapaquetejava.awt.geom
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.xml.crypto"
 layout: tag
-permalink: /java/tag/java.xml.crypto/
+permalink: /Java/tag/java.xml.crypto/
 date: 2020-12-29
 key: Javamodulojava.xml.crypto
 sidebar: 

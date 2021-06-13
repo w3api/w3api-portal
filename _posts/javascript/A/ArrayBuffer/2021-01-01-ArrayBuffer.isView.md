@@ -23,7 +23,7 @@ ArrayBuffer.isView(value)
 * **value**,  {% include w3api/param_description.html metodo=_dato parametro="value" %}
 
 ## Objeto Padre
-[ArrayBuffer](/javascript/ArrayBuffer/)
+[ArrayBuffer](/Javascript/ArrayBuffer/)
 
 ## Ejemplo
 ~~~java

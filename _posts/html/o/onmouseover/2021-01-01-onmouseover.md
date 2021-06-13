@@ -1,6 +1,6 @@
 ---
 title: onmouseover
-permalink: /html/onmouseover/
+permalink: /HTML/onmouseover/
 date: 2021-02-15 01:07:21.569201
 key: HTML.o.onmouseover
 category: html

@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.lang.ref"
 layout: tag
-permalink: /java/tag/java.lang.ref/
+permalink: /Java/tag/java.lang.ref/
 date: 2020-12-29
 key: Javapaquetejava.lang.ref
 sidebar: 

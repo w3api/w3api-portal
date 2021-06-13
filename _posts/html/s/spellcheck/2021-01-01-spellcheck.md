@@ -1,6 +1,6 @@
 ---
 title: spellcheck
-permalink: /html/spellcheck/
+permalink: /HTML/spellcheck/
 date: 2021-02-15 01:07:21.550015
 key: HTML.s.spellcheck
 category: html

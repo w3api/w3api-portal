@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.rmi.activation"
 layout: tag
-permalink: /java/tag/java.rmi.activation/
+permalink: /Java/tag/java.rmi.activation/
 date: 2020-12-29
 key: Javapaquetejava.rmi.activation
 sidebar: 

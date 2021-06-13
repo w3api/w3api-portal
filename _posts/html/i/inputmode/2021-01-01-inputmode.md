@@ -1,6 +1,6 @@
 ---
 title: inputmode
-permalink: /html/inputmode/
+permalink: /HTML/inputmode/
 date: 2021-02-15 01:07:21.548601
 key: HTML.i.inputmode
 category: html

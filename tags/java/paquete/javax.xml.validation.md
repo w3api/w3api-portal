@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.validation"
 layout: tag
-permalink: /java/tag/javax.xml.validation/
+permalink: /Java/tag/javax.xml.validation/
 date: 2020-12-29
 key: Javapaquetejavax.xml.validation
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ondragover
-permalink: /html/ondragover/
+permalink: /HTML/ondragover/
 date: 2021-02-15 01:07:21.565696
 key: HTML.o.ondragover
 category: html

@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.Dynamic"
 layout: tag
-permalink: /java/tag/org.omg.Dynamic/
+permalink: /Java/tag/org.omg.Dynamic/
 date: 2020-12-29
 key: Javapaqueteorg.omg.Dynamic
 sidebar: 

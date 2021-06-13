@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.snmp"
 layout: tag
-permalink: /java/tag/jdk.snmp/
+permalink: /Java/tag/jdk.snmp/
 date: 2020-12-29
 key: Javamodulojdk.snmp
 sidebar: 

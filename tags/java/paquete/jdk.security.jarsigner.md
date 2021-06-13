@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.security.jarsigner"
 layout: tag
-permalink: /java/tag/jdk.security.jarsigner/
+permalink: /Java/tag/jdk.security.jarsigner/
 date: 2020-12-29
 key: Javapaquetejdk.security.jarsigner
 sidebar: 

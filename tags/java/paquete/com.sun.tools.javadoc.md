@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.tools.javadoc"
 layout: tag
-permalink: /java/tag/com.sun.tools.javadoc/
+permalink: /Java/tag/com.sun.tools.javadoc/
 date: 2020-12-29
 key: Javapaquetecom.sun.tools.javadoc
 sidebar: 

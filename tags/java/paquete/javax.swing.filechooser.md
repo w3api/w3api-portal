@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.filechooser"
 layout: tag
-permalink: /java/tag/javax.swing.filechooser/
+permalink: /Java/tag/javax.swing.filechooser/
 date: 2020-12-29
 key: Javapaquetejavax.swing.filechooser
 sidebar: 

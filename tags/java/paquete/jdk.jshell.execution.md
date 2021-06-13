@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.jshell.execution"
 layout: tag
-permalink: /java/tag/jdk.jshell.execution/
+permalink: /Java/tag/jdk.jshell.execution/
 date: 2020-12-29
 key: Javapaquetejdk.jshell.execution
 sidebar: 

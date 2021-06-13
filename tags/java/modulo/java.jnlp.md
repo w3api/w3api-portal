@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.jnlp"
 layout: tag
-permalink: /java/tag/java.jnlp/
+permalink: /Java/tag/java.jnlp/
 date: 2020-12-29
 key: Javamodulojava.jnlp
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: border-left-style
-permalink: /css/border-left-style/
+permalink: /CSS/border-left-style/
 date: 2021-03-07 02:59:09.332587
 key: CSS.b.border-left-style
 category: css

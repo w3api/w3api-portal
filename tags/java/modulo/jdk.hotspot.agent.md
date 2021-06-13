@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.hotspot.agent"
 layout: tag
-permalink: /java/tag/jdk.hotspot.agent/
+permalink: /Java/tag/jdk.hotspot.agent/
 date: 2020-12-29
 key: Javamodulojdk.hotspot.agent
 sidebar: 

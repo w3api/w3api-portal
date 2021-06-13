@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "JavaFX 2.0"
-permalink: /java/tag/javafx-2.0/
+permalink: /Java/tag/javafx-2.0/
 date: 2011-06-23T18:38:52+00:00
 key: JavaFX2.0
 show_date: false

@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.security.auth"
 layout: tag
-permalink: /java/tag/jdk.security.auth/
+permalink: /Java/tag/jdk.security.auth/
 date: 2020-12-29
 key: Javamodulojdk.security.auth
 sidebar: 

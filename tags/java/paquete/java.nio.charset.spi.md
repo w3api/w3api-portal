@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.nio.charset.spi"
 layout: tag
-permalink: /java/tag/java.nio.charset.spi/
+permalink: /Java/tag/java.nio.charset.spi/
 date: 2020-12-29
 key: Javapaquetejava.nio.charset.spi
 sidebar: 

@@ -3,17 +3,17 @@
     "code": "const cantidad = 1235.64;\n\nconsole.log(new Intl.NumberFormat('es-ES', { style: 'currency', currency: 'EUR' }).format(cantidad)); \n\nconsole.log(new Intl.NumberFormat('ja-JP', { style: 'currency', currency: 'JPY' }).format(cantidad)); \n\nconsole.log(new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(cantidad));",
     "ldc": [{
         "nombre": "Formatear divisas en Javascript",
-        "url": "http://lineadecodigo.com/javascript/formatear-divisas-en-javascript/"
+        "url": "http://lineadecodigo.com/Javascript/formatear-divisas-en-javascript/"
     }],
     "constructores": [
         {
             "nombre": "Intl.NumberFormat",
-            "description": "Constructor del objeto [Intl.NumberFormat](/javascript/Intl/NumberFormat) a partir de un dato de localización y de un JSON con opciones de formato.",
+            "description": "Constructor del objeto [Intl.NumberFormat](/Javascript/Intl/NumberFormat) a partir de un dato de localización y de un JSON con opciones de formato.",
             "code": "const cantidad = 1235.64;\n\nconsole.log(new Intl.NumberFormat('es-ES', { style: 'currency', currency: 'EUR' }).format(cantidad)); \n\nconsole.log(new Intl.NumberFormat('ja-JP', { style: 'currency', currency: 'JPY' }).format(cantidad)); \n\nconsole.log(new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(cantidad));",
             "parametros": [
                 {
                     "nombre": "locales",
-                    "description": "Etiqueta de localización representada por un [código BCP 47](http://tools.ietf.org/html/rfc5646) en la que los dos primero caracteres representan el idioma, luego encontraremos un guión y luego dos caracteres que representan al país. Así encontraremos ‘es-ES’, ‘ca-ES’, ‘en-UK’, ‘en-US’, ‘ar-EG’,…"
+                    "description": "Etiqueta de localización representada por un [código BCP 47](http://tools.ietf.org/HTML/rfc5646) en la que los dos primero caracteres representan el idioma, luego encontraremos un guión y luego dos caracteres que representan al país. Así encontraremos ‘es-ES’, ‘ca-ES’, ‘en-UK’, ‘en-US’, ‘ar-EG’,…"
                 },
                 {
                     "nombre": "options",
@@ -22,7 +22,7 @@
             ],
             "ldc": [{
                 "nombre": "Formatear divisas en Javascript",
-                "url": "http://lineadecodigo.com/javascript/formatear-divisas-en-javascript/"
+                "url": "http://lineadecodigo.com/Javascript/formatear-divisas-en-javascript/"
             }]
         }
     ],
@@ -54,7 +54,7 @@
             ],
             "ldc": [{
                 "nombre": "Formatear divisas en Javascript",
-                "url": "http://lineadecodigo.com/javascript/formatear-divisas-en-javascript/"
+                "url": "http://lineadecodigo.com/Javascript/formatear-divisas-en-javascript/"
             }]
         },
         {

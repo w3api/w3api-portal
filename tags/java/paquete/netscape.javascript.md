@@ -1,7 +1,7 @@
 ---
 title: "Paquete netscape.javascript"
 layout: tag
-permalink: /java/tag/netscape.javascript/
+permalink: /Java/tag/netscape.javascript/
 date: 2020-12-29
 key: Javapaquetenetscape.javascript
 sidebar: 

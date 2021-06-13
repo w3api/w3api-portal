@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.IOP.CodecPackage"
 layout: tag
-permalink: /java/tag/org.omg.IOP.CodecPackage/
+permalink: /Java/tag/org.omg.IOP.CodecPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.IOP.CodecPackage
 sidebar: 

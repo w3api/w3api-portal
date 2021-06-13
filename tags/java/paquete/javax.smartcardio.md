@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.smartcardio"
 layout: tag
-permalink: /java/tag/javax.smartcardio/
+permalink: /Java/tag/javax.smartcardio/
 date: 2020-12-29
 key: Javapaquetejavax.smartcardio
 sidebar: 

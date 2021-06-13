@@ -1,7 +1,7 @@
 ---
 title: "Módulo javafx.web"
 layout: tag
-permalink: /java/tag/javafx.web/
+permalink: /Java/tag/javafx.web/
 date: 2020-12-29
 key: Javamodulojavafx.web
 sidebar: 

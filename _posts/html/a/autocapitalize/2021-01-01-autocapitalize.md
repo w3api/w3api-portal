@@ -1,6 +1,6 @@
 ---
 title: autocapitalize
-permalink: /html/autocapitalize/
+permalink: /HTML/autocapitalize/
 date: 2021-02-15 01:07:21.547640
 key: HTML.a.autocapitalize
 category: html

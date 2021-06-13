@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.crypto.dom"
 layout: tag
-permalink: /java/tag/javax.xml.crypto.dom/
+permalink: /Java/tag/javax.xml.crypto.dom/
 date: 2020-12-29
 key: Javapaquetejavax.xml.crypto.dom
 sidebar: 

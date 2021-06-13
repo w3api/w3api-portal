@@ -1,6 +1,6 @@
 ---
 title: onmouseenter
-permalink: /html/onmouseenter/
+permalink: /HTML/onmouseenter/
 date: 2021-02-15 01:07:21.568552
 key: HTML.o.onmouseenter
 category: html

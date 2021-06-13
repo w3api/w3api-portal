@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.beans"
 layout: tag
-permalink: /java/tag/java.beans/
+permalink: /Java/tag/java.beans/
 date: 2020-12-29
 key: Javapaquetejava.beans
 sidebar: 

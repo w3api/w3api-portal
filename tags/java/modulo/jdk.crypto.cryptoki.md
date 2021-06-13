@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.crypto.cryptoki"
 layout: tag
-permalink: /java/tag/jdk.crypto.cryptoki/
+permalink: /Java/tag/jdk.crypto.cryptoki/
 date: 2020-12-29
 key: Javamodulojdk.crypto.cryptoki
 sidebar: 

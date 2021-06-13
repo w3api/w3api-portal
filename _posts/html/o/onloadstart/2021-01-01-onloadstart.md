@@ -1,6 +1,6 @@
 ---
 title: onloadstart
-permalink: /html/onloadstart/
+permalink: /HTML/onloadstart/
 date: 2021-02-15 01:07:21.568271
 key: HTML.o.onloadstart
 category: html

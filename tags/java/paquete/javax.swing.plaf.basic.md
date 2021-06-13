@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.plaf.basic"
 layout: tag
-permalink: /java/tag/javax.swing.plaf.basic/
+permalink: /Java/tag/javax.swing.plaf.basic/
 date: 2020-12-29
 key: Javapaquetejavax.swing.plaf.basic
 sidebar: 

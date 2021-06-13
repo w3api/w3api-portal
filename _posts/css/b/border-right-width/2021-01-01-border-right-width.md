@@ -1,6 +1,6 @@
 ---
 title: border-right-width
-permalink: /css/border-right-width/
+permalink: /CSS/border-right-width/
 date: 2021-03-07 02:59:26.820859
 key: CSS.b.border-right-width
 category: css

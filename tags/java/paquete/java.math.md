@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.math"
 layout: tag
-permalink: /java/tag/java.math/
+permalink: /Java/tag/java.math/
 date: 2020-12-29
 key: Javapaquetejava.math
 sidebar: 

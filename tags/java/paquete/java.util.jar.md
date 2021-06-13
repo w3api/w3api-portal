@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.jar"
 layout: tag
-permalink: /java/tag/java.util.jar/
+permalink: /Java/tag/java.util.jar/
 date: 2020-12-29
 key: Javapaquetejava.util.jar
 sidebar: 

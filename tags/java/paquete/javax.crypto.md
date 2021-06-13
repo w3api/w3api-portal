@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.crypto"
 layout: tag
-permalink: /java/tag/javax.crypto/
+permalink: /Java/tag/javax.crypto/
 date: 2020-12-29
 key: Javapaquetejavax.crypto
 sidebar: 

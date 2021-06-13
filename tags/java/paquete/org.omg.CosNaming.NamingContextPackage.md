@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.CosNaming.NamingContextPackage"
 layout: tag
-permalink: /java/tag/org.omg.CosNaming.NamingContextPackage/
+permalink: /Java/tag/org.omg.CosNaming.NamingContextPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.CosNaming.NamingContextPackage
 sidebar: 

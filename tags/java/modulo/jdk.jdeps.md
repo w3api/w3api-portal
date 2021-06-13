@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jdeps"
 layout: tag
-permalink: /java/tag/jdk.jdeps/
+permalink: /Java/tag/jdk.jdeps/
 date: 2020-12-29
 key: Javamodulojdk.jdeps
 sidebar: 

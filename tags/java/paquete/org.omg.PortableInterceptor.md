@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.PortableInterceptor"
 layout: tag
-permalink: /java/tag/org.omg.PortableInterceptor/
+permalink: /Java/tag/org.omg.PortableInterceptor/
 date: 2020-12-29
 key: Javapaqueteorg.omg.PortableInterceptor
 sidebar: 

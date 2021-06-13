@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.time.temporal"
 layout: tag
-permalink: /java/tag/java.time.temporal/
+permalink: /Java/tag/java.time.temporal/
 date: 2020-12-29
 key: Javapaquetejava.time.temporal
 sidebar: 

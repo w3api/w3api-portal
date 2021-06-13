@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.beans.property.adapter"
 layout: tag
-permalink: /java/tag/javafx.beans.property.adapter/
+permalink: /Java/tag/javafx.beans.property.adapter/
 date: 2020-12-29
 key: Javapaquetejavafx.beans.property.adapter
 sidebar: 

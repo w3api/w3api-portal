@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.stream"
 layout: tag
-permalink: /java/tag/java.util.stream/
+permalink: /Java/tag/java.util.stream/
 date: 2020-12-29
 key: Javapaquetejava.util.stream
 sidebar: 

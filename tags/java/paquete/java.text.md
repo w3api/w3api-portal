@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.text"
 layout: tag
-permalink: /java/tag/java.text/
+permalink: /Java/tag/java.text/
 date: 2020-12-29
 key: Javapaquetejava.text
 sidebar: 

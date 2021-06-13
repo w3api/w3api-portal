@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.text.rtf"
 layout: tag
-permalink: /java/tag/javax.swing.text.rtf/
+permalink: /Java/tag/javax.swing.text.rtf/
 date: 2020-12-29
 key: Javapaquetejavax.swing.text.rtf
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.text"
 layout: tag
-permalink: /java/tag/javafx.scene.text/
+permalink: /Java/tag/javafx.scene.text/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.text
 sidebar: 

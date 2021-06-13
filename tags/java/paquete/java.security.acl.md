@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.security.acl"
 layout: tag
-permalink: /java/tag/java.security.acl/
+permalink: /Java/tag/java.security.acl/
 date: 2020-12-29
 key: Javapaquetejava.security.acl
 sidebar: 

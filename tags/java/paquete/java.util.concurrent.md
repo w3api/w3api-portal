@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.concurrent"
 layout: tag
-permalink: /java/tag/java.util.concurrent/
+permalink: /Java/tag/java.util.concurrent/
 date: 2020-12-29
 key: Javapaquetejava.util.concurrent
 sidebar: 

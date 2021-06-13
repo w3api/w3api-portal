@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Atributo HTML"
-permalink: /html/tag/atributo-html/
+permalink: /HTML/tag/atributo-html/
 date: 2011-06-23T18:38:52+00:00
 key: AtributoHTML
 show_date: false

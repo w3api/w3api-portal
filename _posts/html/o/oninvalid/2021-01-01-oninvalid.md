@@ -1,6 +1,6 @@
 ---
 title: oninvalid
-permalink: /html/oninvalid/
+permalink: /HTML/oninvalid/
 date: 2021-02-15 01:07:21.567258
 key: HTML.o.oninvalid
 category: html

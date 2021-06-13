@@ -1,6 +1,6 @@
 ---
 title: box-sizing
-permalink: /css/box-sizing/
+permalink: /CSS/box-sizing/
 date: 2021-03-07 03:00:11.296638
 key: CSS.b.box-sizing
 category: css

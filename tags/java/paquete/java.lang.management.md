@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.lang.management"
 layout: tag
-permalink: /java/tag/java.lang.management/
+permalink: /Java/tag/java.lang.management/
 date: 2020-12-29
 key: Javapaquetejava.lang.management
 sidebar: 

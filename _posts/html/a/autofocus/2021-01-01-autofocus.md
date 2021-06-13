@@ -1,6 +1,6 @@
 ---
 title: autofocus
-permalink: /html/autofocus/
+permalink: /HTML/autofocus/
 date: 2021-02-15 01:07:21.547782
 key: HTML.a.autofocus
 category: html

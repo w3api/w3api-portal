@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.net"
 layout: tag
-permalink: /java/tag/javax.net/
+permalink: /Java/tag/javax.net/
 date: 2020-12-29
 key: Javapaquetejavax.net
 sidebar: 

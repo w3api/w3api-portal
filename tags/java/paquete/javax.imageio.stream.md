@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.imageio.stream"
 layout: tag
-permalink: /java/tag/javax.imageio.stream/
+permalink: /Java/tag/javax.imageio.stream/
 date: 2020-12-29
 key: Javapaquetejavax.imageio.stream
 sidebar: 

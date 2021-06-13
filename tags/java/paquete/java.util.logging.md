@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.logging"
 layout: tag
-permalink: /java/tag/java.util.logging/
+permalink: /Java/tag/java.util.logging/
 date: 2020-12-29
 key: Javapaquetejava.util.logging
 sidebar: 

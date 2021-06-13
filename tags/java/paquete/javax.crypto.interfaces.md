@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.crypto.interfaces"
 layout: tag
-permalink: /java/tag/javax.crypto.interfaces/
+permalink: /Java/tag/javax.crypto.interfaces/
 date: 2020-12-29
 key: Javapaquetejavax.crypto.interfaces
 sidebar: 

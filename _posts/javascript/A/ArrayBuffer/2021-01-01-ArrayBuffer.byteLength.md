@@ -20,7 +20,7 @@ ArrayBuffer.prototype.byteLength
 ~~~
 
 ## Objeto Padre
-[ArrayBuffer](/javascript/ArrayBuffer/)
+[ArrayBuffer](/Javascript/ArrayBuffer/)
 
 ## Ejemplo
 ~~~java

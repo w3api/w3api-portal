@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.sql"
 layout: tag
-permalink: /java/tag/java.sql/
+permalink: /Java/tag/java.sql/
 date: 2020-12-29
 key: Javamodulojava.sql
 sidebar: 

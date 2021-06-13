@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.util.converter"
 layout: tag
-permalink: /java/tag/javafx.util.converter/
+permalink: /Java/tag/javafx.util.converter/
 date: 2020-12-29
 key: Javapaquetejavafx.util.converter
 sidebar: 

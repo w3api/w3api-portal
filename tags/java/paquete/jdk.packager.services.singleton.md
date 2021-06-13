@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.packager.services.singleton"
 layout: tag
-permalink: /java/tag/jdk.packager.services.singleton/
+permalink: /Java/tag/jdk.packager.services.singleton/
 date: 2020-12-29
 key: Javapaquetejdk.packager.services.singleton
 sidebar: 

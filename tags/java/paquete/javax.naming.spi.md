@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.naming.spi"
 layout: tag
-permalink: /java/tag/javax.naming.spi/
+permalink: /Java/tag/javax.naming.spi/
 date: 2020-12-29
 key: Javapaquetejavax.naming.spi
 sidebar: 

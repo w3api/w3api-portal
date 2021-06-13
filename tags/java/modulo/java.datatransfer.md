@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.datatransfer"
 layout: tag
-permalink: /java/tag/java.datatransfer/
+permalink: /Java/tag/java.datatransfer/
 date: 2020-12-29
 key: Javamodulojava.datatransfer
 sidebar: 

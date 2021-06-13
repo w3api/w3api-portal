@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jdi"
 layout: tag
-permalink: /java/tag/jdk.jdi/
+permalink: /Java/tag/jdk.jdi/
 date: 2020-12-29
 key: Javamodulojdk.jdi
 sidebar: 

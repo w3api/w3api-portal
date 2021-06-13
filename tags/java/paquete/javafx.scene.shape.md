@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.shape"
 layout: tag
-permalink: /java/tag/javafx.scene.shape/
+permalink: /Java/tag/javafx.scene.shape/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.shape
 sidebar: 

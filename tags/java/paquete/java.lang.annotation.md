@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.lang.annotation"
 layout: tag
-permalink: /java/tag/java.lang.annotation/
+permalink: /Java/tag/java.lang.annotation/
 date: 2020-12-29
 key: Javapaquetejava.lang.annotation
 sidebar: 

@@ -18,11 +18,11 @@ AggregateError
 ~~~
 
 ## Constructores
-* [AggregateError()](/javascript/AggregateError/AggregateError/)
+* [AggregateError()](/Javascript/AggregateError/AggregateError/)
 
 ## Propiedades
-* [message](/javascript/AggregateError/message)
-* [name](/javascript/AggregateError/name)
+* [message](/Javascript/AggregateError/message)
+* [name](/Javascript/AggregateError/name)
 
 ## Ejemplo
 ~~~java

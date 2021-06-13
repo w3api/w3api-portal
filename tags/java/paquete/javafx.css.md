@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.css"
 layout: tag
-permalink: /java/tag/javafx.css/
+permalink: /Java/tag/javafx.css/
 date: 2020-12-29
 key: Javapaquetejavafx.css
 sidebar: 

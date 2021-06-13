@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.annotation"
 layout: tag
-permalink: /java/tag/javax.annotation/
+permalink: /Java/tag/javax.annotation/
 date: 2020-12-29
 key: Javapaquetejavax.annotation
 sidebar: 

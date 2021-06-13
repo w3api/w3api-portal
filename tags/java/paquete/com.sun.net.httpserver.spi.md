@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.net.httpserver.spi"
 layout: tag
-permalink: /java/tag/com.sun.net.httpserver.spi/
+permalink: /Java/tag/com.sun.net.httpserver.spi/
 date: 2020-12-29
 key: Javapaquetecom.sun.net.httpserver.spi
 sidebar: 

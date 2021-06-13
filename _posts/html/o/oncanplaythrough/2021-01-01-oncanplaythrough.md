@@ -1,6 +1,6 @@
 ---
 title: oncanplaythrough
-permalink: /html/oncanplaythrough/
+permalink: /HTML/oncanplaythrough/
 date: 2021-02-15 01:07:21.563554
 key: HTML.o.oncanplaythrough
 category: html

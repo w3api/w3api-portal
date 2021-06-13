@@ -1,6 +1,6 @@
 ---
 title: animation
-permalink: /css/animation/
+permalink: /CSS/animation/
 date: 2021-03-07 02:57:25.898628
 key: CSS.a.animation
 category: css

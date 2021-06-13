@@ -1,6 +1,6 @@
 ---
 title: border-bottom-style
-permalink: /css/border-bottom-style/
+permalink: /CSS/border-bottom-style/
 date: 2021-03-07 02:58:30.515639
 key: CSS.b.border-bottom-style
 category: css

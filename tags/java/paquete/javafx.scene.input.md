@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.input"
 layout: tag
-permalink: /java/tag/javafx.scene.input/
+permalink: /Java/tag/javafx.scene.input/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.input
 sidebar: 

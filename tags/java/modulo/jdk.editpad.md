@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.editpad"
 layout: tag
-permalink: /java/tag/jdk.editpad/
+permalink: /Java/tag/jdk.editpad/
 date: 2020-12-29
 key: Javamodulojdk.editpad
 sidebar: 

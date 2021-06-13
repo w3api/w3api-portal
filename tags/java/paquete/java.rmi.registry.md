@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.rmi.registry"
 layout: tag
-permalink: /java/tag/java.rmi.registry/
+permalink: /Java/tag/java.rmi.registry/
 date: 2020-12-29
 key: Javapaquetejava.rmi.registry
 sidebar: 

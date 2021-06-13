@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.print"
 layout: tag
-permalink: /java/tag/javax.print/
+permalink: /Java/tag/javax.print/
 date: 2020-12-29
 key: Javapaquetejavax.print
 sidebar: 

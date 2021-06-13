@@ -1,6 +1,6 @@
 ---
 title: ondblclick
-permalink: /html/ondblclick/
+permalink: /HTML/ondblclick/
 date: 2021-02-15 01:07:21.564879
 key: HTML.o.ondblclick
 category: html

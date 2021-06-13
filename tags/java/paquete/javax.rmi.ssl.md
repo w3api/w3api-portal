@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.rmi.ssl"
 layout: tag
-permalink: /java/tag/javax.rmi.ssl/
+permalink: /Java/tag/javax.rmi.ssl/
 date: 2020-12-29
 key: Javapaquetejavax.rmi.ssl
 sidebar: 

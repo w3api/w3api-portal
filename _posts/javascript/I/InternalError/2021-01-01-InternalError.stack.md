@@ -20,7 +20,7 @@ InternalError.prototype.stack
 ~~~
 
 ## Objeto Padre
-[InternalError](/javascript/InternalError/)
+[InternalError](/Javascript/InternalError/)
 
 ## Ejemplo
 ~~~java

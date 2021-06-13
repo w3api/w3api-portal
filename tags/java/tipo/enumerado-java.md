@@ -2,7 +2,7 @@
 ---
 layout: tag
 title: "Enumerado Java"
-permalink: /java/tag/enumerado-java/
+permalink: /Java/tag/enumerado-java/
 date: 2011-06-23T18:38:52+00:00
 key: EnumeradoJava
 show_date: false

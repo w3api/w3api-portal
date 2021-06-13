@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.undo"
 layout: tag
-permalink: /java/tag/javax.swing.undo/
+permalink: /Java/tag/javax.swing.undo/
 date: 2020-12-29
 key: Javapaquetejavax.swing.undo
 sidebar: 

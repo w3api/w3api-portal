@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.naming.dns"
 layout: tag
-permalink: /java/tag/jdk.naming.dns/
+permalink: /Java/tag/jdk.naming.dns/
 date: 2020-12-29
 key: Javamodulojdk.naming.dns
 sidebar: 

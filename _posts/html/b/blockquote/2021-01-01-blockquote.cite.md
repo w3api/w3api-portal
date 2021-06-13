@@ -1,6 +1,6 @@
 ---
 title: blockquote.cite
-permalink: /html/blockquote/cite/
+permalink: /HTML/blockquote/cite/
 date: 2021-02-15 01:07:21.111279
 key: HTML.b.blockquote.cite
 category: html
@@ -19,7 +19,7 @@ sidebar:
 ~~~
 
 ## Elemento Padre
-[blockquote](/html/blockquote/)
+[blockquote](/HTML/blockquote/)
 
 ## Ejemplo
 ~~~java

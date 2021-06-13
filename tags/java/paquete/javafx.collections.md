@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.collections"
 layout: tag
-permalink: /java/tag/javafx.collections/
+permalink: /Java/tag/javafx.collections/
 date: 2020-12-29
 key: Javapaquetejavafx.collections
 sidebar: 

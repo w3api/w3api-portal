@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.source.doctree"
 layout: tag
-permalink: /java/tag/com.sun.source.doctree/
+permalink: /Java/tag/com.sun.source.doctree/
 date: 2020-12-29
 key: Javapaquetecom.sun.source.doctree
 sidebar: 

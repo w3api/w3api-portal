@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.beans.property"
 layout: tag
-permalink: /java/tag/javafx.beans.property/
+permalink: /Java/tag/javafx.beans.property/
 date: 2020-12-29
 key: Javapaquetejavafx.beans.property
 sidebar: 

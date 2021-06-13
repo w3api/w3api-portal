@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Constructor Javascript"
-permalink: /javascript/tag/constructor-javascript/
+permalink: /Javascript/tag/constructor-javascript/
 date: 2011-06-23T18:38:52+00:00
 key: ConstructorJavascript
 show_date: false

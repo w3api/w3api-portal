@@ -1,6 +1,6 @@
 ---
 title: border-bottom-width
-permalink: /css/border-bottom-width/
+permalink: /CSS/border-bottom-width/
 date: 2021-03-07 02:58:33.236081
 key: CSS.b.border-bottom-width
 category: css

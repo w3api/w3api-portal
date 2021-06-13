@@ -23,7 +23,7 @@ new ArrayBuffer(length)
 * **length**,  {% include w3api/param_description.html metodo=_dato parametro="length" %}
 
 ## Objeto Padre
-[ArrayBuffer](/javascript/ArrayBuffer/)
+[ArrayBuffer](/Javascript/ArrayBuffer/)
 
 ## Ejemplo
 ~~~java

@@ -1,6 +1,6 @@
 ---
 title: background
-permalink: /css/background/
+permalink: /CSS/background/
 date: 2021-03-07 02:57:47.558688
 key: CSS.b.background
 category: css

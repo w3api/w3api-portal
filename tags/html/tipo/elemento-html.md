@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Elemento HTML"
-permalink: /html/tag/elemento-html/
+permalink: /HTML/tag/elemento-html/
 date: 2011-06-23T18:38:52+00:00
 key: ElementoHTML
 show_date: false

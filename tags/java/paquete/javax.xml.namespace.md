@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.namespace"
 layout: tag
-permalink: /java/tag/javax.xml.namespace/
+permalink: /Java/tag/javax.xml.namespace/
 date: 2020-12-29
 key: Javapaquetejavax.xml.namespace
 sidebar: 

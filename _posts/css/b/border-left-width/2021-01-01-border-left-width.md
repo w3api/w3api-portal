@@ -1,6 +1,6 @@
 ---
 title: border-left-width
-permalink: /css/border-left-width/
+permalink: /CSS/border-left-width/
 date: 2021-03-07 02:59:12.092624
 key: CSS.b.border-left-width
 category: css

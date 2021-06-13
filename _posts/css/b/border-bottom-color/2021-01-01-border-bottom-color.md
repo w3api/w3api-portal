@@ -1,6 +1,6 @@
 ---
 title: border-bottom-color
-permalink: /css/border-bottom-color/
+permalink: /CSS/border-bottom-color/
 date: 2021-03-07 02:58:21.959464
 key: CSS.b.border-bottom-color
 category: css

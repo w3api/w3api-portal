@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.management"
 layout: tag
-permalink: /java/tag/java.management/
+permalink: /Java/tag/java.management/
 date: 2020-12-29
 key: Javamodulojava.management
 sidebar: 

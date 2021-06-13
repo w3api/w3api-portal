@@ -1,6 +1,6 @@
 ---
 title: ondragstart
-permalink: /html/ondragstart/
+permalink: /HTML/ondragstart/
 date: 2021-02-15 01:07:21.565845
 key: HTML.o.ondragstart
 category: html

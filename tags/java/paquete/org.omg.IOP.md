@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.IOP"
 layout: tag
-permalink: /java/tag/org.omg.IOP/
+permalink: /Java/tag/org.omg.IOP/
 date: 2020-12-29
 key: Javapaqueteorg.omg.IOP
 sidebar: 

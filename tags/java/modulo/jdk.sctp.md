@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.sctp"
 layout: tag
-permalink: /java/tag/jdk.sctp/
+permalink: /Java/tag/jdk.sctp/
 date: 2020-12-29
 key: Javamodulojdk.sctp
 sidebar: 

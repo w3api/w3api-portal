@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.activation"
 layout: tag
-permalink: /java/tag/javax.activation/
+permalink: /Java/tag/javax.activation/
 date: 2020-12-29
 key: Javapaquetejavax.activation
 sidebar: 

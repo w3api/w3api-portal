@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.security.jgss"
 layout: tag
-permalink: /java/tag/com.sun.security.jgss/
+permalink: /Java/tag/com.sun.security.jgss/
 date: 2020-12-29
 key: Javapaquetecom.sun.security.jgss
 sidebar: 

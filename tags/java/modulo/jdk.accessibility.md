@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.accessibility"
 layout: tag
-permalink: /java/tag/jdk.accessibility/
+permalink: /Java/tag/jdk.accessibility/
 date: 2020-12-29
 key: Javamodulojdk.accessibility
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: oncuechange
-permalink: /html/oncuechange/
+permalink: /HTML/oncuechange/
 date: 2021-02-15 01:07:21.564402
 key: HTML.o.oncuechange
 category: html

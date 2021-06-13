@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.imageio.metadata"
 layout: tag
-permalink: /java/tag/javax.imageio.metadata/
+permalink: /Java/tag/javax.imageio.metadata/
 date: 2020-12-29
 key: Javapaquetejavax.imageio.metadata
 sidebar: 

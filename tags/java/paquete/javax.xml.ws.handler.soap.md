@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.ws.handler.soap"
 layout: tag
-permalink: /java/tag/javax.xml.ws.handler.soap/
+permalink: /Java/tag/javax.xml.ws.handler.soap/
 date: 2020-12-29
 key: Javapaquetejavax.xml.ws.handler.soap
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.chart"
 layout: tag
-permalink: /java/tag/javafx.scene.chart/
+permalink: /Java/tag/javafx.scene.chart/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.chart
 sidebar: 

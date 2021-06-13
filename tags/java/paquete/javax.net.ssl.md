@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.net.ssl"
 layout: tag
-permalink: /java/tag/javax.net.ssl/
+permalink: /Java/tag/javax.net.ssl/
 date: 2020-12-29
 key: Javapaquetejavax.net.ssl
 sidebar: 

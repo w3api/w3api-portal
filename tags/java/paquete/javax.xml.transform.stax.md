@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.transform.stax"
 layout: tag
-permalink: /java/tag/javax.xml.transform.stax/
+permalink: /Java/tag/javax.xml.transform.stax/
 date: 2020-12-29
 key: Javapaquetejavax.xml.transform.stax
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.lang.module"
 layout: tag
-permalink: /java/tag/java.lang.module/
+permalink: /Java/tag/java.lang.module/
 date: 2020-12-29
 key: Javapaquetejava.lang.module
 sidebar: 

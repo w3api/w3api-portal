@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.corba"
 layout: tag
-permalink: /java/tag/java.corba/
+permalink: /Java/tag/java.corba/
 date: 2020-12-29
 key: Javamodulojava.corba
 sidebar: 

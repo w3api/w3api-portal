@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.sql.rowset.spi"
 layout: tag
-permalink: /java/tag/javax.sql.rowset.spi/
+permalink: /Java/tag/javax.sql.rowset.spi/
 date: 2020-12-29
 key: Javapaquetejavax.sql.rowset.spi
 sidebar: 

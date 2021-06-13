@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.charsets"
 layout: tag
-permalink: /java/tag/jdk.charsets/
+permalink: /Java/tag/jdk.charsets/
 date: 2020-12-29
 key: Javamodulojdk.charsets
 sidebar: 

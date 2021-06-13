@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.css.converter"
 layout: tag
-permalink: /java/tag/javafx.css.converter/
+permalink: /Java/tag/javafx.css.converter/
 date: 2020-12-29
 key: Javapaquetejavafx.css.converter
 sidebar: 

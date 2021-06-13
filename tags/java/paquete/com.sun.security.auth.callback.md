@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.security.auth.callback"
 layout: tag
-permalink: /java/tag/com.sun.security.auth.callback/
+permalink: /Java/tag/com.sun.security.auth.callback/
 date: 2020-12-29
 key: Javapaquetecom.sun.security.auth.callback
 sidebar: 

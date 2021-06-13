@@ -1,6 +1,6 @@
 ---
 title: onkeypress
-permalink: /html/onkeypress/
+permalink: /HTML/onkeypress/
 date: 2021-02-15 01:07:21.567553
 key: HTML.o.onkeypress
 category: html

@@ -1,6 +1,6 @@
 ---
 title: background-attachment
-permalink: /css/background-attachment/
+permalink: /CSS/background-attachment/
 date: 2021-03-07 02:57:50.602134
 key: CSS.b.background-attachment
 category: css

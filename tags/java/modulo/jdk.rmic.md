@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.rmic"
 layout: tag
-permalink: /java/tag/jdk.rmic/
+permalink: /Java/tag/jdk.rmic/
 date: 2020-12-29
 key: Javamodulojdk.rmic
 sidebar: 

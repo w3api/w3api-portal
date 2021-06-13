@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.logging"
 layout: tag
-permalink: /java/tag/java.logging/
+permalink: /Java/tag/java.logging/
 date: 2020-12-29
 key: Javamodulojava.logging
 sidebar: 

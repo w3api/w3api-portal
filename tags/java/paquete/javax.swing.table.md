@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.table"
 layout: tag
-permalink: /java/tag/javax.swing.table/
+permalink: /Java/tag/javax.swing.table/
 date: 2020-12-29
 key: Javapaquetejavax.swing.table
 sidebar: 

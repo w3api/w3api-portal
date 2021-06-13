@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.PortableServer.POAPackage"
 layout: tag
-permalink: /java/tag/org.omg.PortableServer.POAPackage/
+permalink: /Java/tag/org.omg.PortableServer.POAPackage/
 date: 2020-12-29
 key: Javapaqueteorg.omg.PortableServer.POAPackage
 sidebar: 

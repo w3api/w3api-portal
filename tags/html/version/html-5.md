@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "HTML 5"
-permalink: /html/tag/html-5/
+permalink: /HTML/tag/html-5/
 date: 2011-06-23T18:38:52+00:00
 key: html
 show_date: false

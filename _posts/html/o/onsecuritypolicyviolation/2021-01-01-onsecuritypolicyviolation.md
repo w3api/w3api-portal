@@ -1,6 +1,6 @@
 ---
 title: onsecuritypolicyviolation
-permalink: /html/onsecuritypolicyviolation/
+permalink: /HTML/onsecuritypolicyviolation/
 date: 2021-02-15 01:07:21.571017
 key: HTML.o.onsecuritypolicyviolation
 category: html

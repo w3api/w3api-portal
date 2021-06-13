@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.imageio.plugins.bmp"
 layout: tag
-permalink: /java/tag/javax.imageio.plugins.bmp/
+permalink: /Java/tag/javax.imageio.plugins.bmp/
 date: 2020-12-29
 key: Javapaquetejavax.imageio.plugins.bmp
 sidebar: 

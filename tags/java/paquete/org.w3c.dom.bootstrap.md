@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.w3c.dom.bootstrap"
 layout: tag
-permalink: /java/tag/org.w3c.dom.bootstrap/
+permalink: /Java/tag/org.w3c.dom.bootstrap/
 date: 2020-12-29
 key: Javapaqueteorg.w3c.dom.bootstrap
 sidebar: 

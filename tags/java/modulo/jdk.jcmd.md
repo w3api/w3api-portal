@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jcmd"
 layout: tag
-permalink: /java/tag/jdk.jcmd/
+permalink: /Java/tag/jdk.jcmd/
 date: 2020-12-29
 key: Javamodulojdk.jcmd
 sidebar: 

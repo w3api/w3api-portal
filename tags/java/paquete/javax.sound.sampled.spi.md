@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.sound.sampled.spi"
 layout: tag
-permalink: /java/tag/javax.sound.sampled.spi/
+permalink: /Java/tag/javax.sound.sampled.spi/
 date: 2020-12-29
 key: Javapaquetejavax.sound.sampled.spi
 sidebar: 

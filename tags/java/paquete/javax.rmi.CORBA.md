@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.rmi.CORBA"
 layout: tag
-permalink: /java/tag/javax.rmi.CORBA/
+permalink: /Java/tag/javax.rmi.CORBA/
 date: 2020-12-29
 key: Javapaquetejavax.rmi.CORBA
 sidebar: 

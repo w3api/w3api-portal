@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.ws"
 layout: tag
-permalink: /java/tag/javax.xml.ws/
+permalink: /Java/tag/javax.xml.ws/
 date: 2020-12-29
 key: Javapaquetejavax.xml.ws
 sidebar: 

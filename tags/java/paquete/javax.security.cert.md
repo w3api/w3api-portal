@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.security.cert"
 layout: tag
-permalink: /java/tag/javax.security.cert/
+permalink: /Java/tag/javax.security.cert/
 date: 2020-12-29
 key: Javapaquetejavax.security.cert
 sidebar: 

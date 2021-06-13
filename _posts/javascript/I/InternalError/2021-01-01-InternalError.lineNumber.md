@@ -20,7 +20,7 @@ InternalError.prototype.lineNumber
 ~~~
 
 ## Objeto Padre
-[InternalError](/javascript/InternalError/)
+[InternalError](/Javascript/InternalError/)
 
 ## Ejemplo
 ~~~java

@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.xml"
 layout: tag
-permalink: /java/tag/java.xml/
+permalink: /Java/tag/java.xml/
 date: 2020-12-29
 key: Javamodulojava.xml
 sidebar: 

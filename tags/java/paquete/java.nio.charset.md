@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.nio.charset"
 layout: tag
-permalink: /java/tag/java.nio.charset/
+permalink: /Java/tag/java.nio.charset/
 date: 2020-12-29
 key: Javapaquetejava.nio.charset
 sidebar: 

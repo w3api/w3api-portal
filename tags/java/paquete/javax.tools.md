@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.tools"
 layout: tag
-permalink: /java/tag/javax.tools/
+permalink: /Java/tag/javax.tools/
 date: 2020-12-29
 key: Javapaquetejavax.tools
 sidebar: 

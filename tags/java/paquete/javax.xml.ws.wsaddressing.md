@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.ws.wsaddressing"
 layout: tag
-permalink: /java/tag/javax.xml.ws.wsaddressing/
+permalink: /Java/tag/javax.xml.ws.wsaddressing/
 date: 2020-12-29
 key: Javapaquetejavax.xml.ws.wsaddressing
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.tools.attach"
 layout: tag
-permalink: /java/tag/com.sun.tools.attach/
+permalink: /Java/tag/com.sun.tools.attach/
 date: 2020-12-29
 key: Javapaquetecom.sun.tools.attach
 sidebar: 

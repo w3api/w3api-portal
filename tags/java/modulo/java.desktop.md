@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.desktop"
 layout: tag
-permalink: /java/tag/java.desktop/
+permalink: /Java/tag/java.desktop/
 date: 2020-12-29
 key: Javamodulojava.desktop
 sidebar: 

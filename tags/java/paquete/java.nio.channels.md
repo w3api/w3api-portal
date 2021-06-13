@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.nio.channels"
 layout: tag
-permalink: /java/tag/java.nio.channels/
+permalink: /Java/tag/java.nio.channels/
 date: 2020-12-29
 key: Javapaquetejava.nio.channels
 sidebar: 

@@ -18,15 +18,15 @@ ArrayBuffer
 ~~~
 
 ## Constructores
-* [ArrayBuffer()](/javascript/ArrayBuffer/ArrayBuffer/)
+* [ArrayBuffer()](/Javascript/ArrayBuffer/ArrayBuffer/)
 
 ## Propiedades
-* [@@species](/javascript/ArrayBuffer/@@species)
-* [byteLength](/javascript/ArrayBuffer/byteLength)
+* [@@species](/Javascript/ArrayBuffer/@@species)
+* [byteLength](/Javascript/ArrayBuffer/byteLength)
 
 ## Métodos
-* [isView()](/javascript/ArrayBuffer/isView)
-* [slice()](/javascript/ArrayBuffer/slice)
+* [isView()](/Javascript/ArrayBuffer/isView)
+* [slice()](/Javascript/ArrayBuffer/slice)
 
 ## Ejemplo
 ~~~java

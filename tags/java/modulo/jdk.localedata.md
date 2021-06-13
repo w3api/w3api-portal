@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.localedata"
 layout: tag
-permalink: /java/tag/jdk.localedata/
+permalink: /Java/tag/jdk.localedata/
 date: 2020-12-29
 key: Javamodulojdk.localedata
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete com.sun.jarsigner"
 layout: tag
-permalink: /java/tag/com.sun.jarsigner/
+permalink: /Java/tag/com.sun.jarsigner/
 date: 2020-12-29
 key: Javapaquetecom.sun.jarsigner
 sidebar: 

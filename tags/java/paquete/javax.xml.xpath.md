@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.xpath"
 layout: tag
-permalink: /java/tag/javax.xml.xpath/
+permalink: /Java/tag/javax.xml.xpath/
 date: 2020-12-29
 key: Javapaquetejavax.xml.xpath
 sidebar: 

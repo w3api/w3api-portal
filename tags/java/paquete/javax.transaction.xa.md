@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.transaction.xa"
 layout: tag
-permalink: /java/tag/javax.transaction.xa/
+permalink: /Java/tag/javax.transaction.xa/
 date: 2020-12-29
 key: Javapaquetejavax.transaction.xa
 sidebar: 

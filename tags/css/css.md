@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "CSS"
-permalink: /css/
+permalink: /CSS/
 date: 2021-03-07T03:07:52+00:00
 key: CSS
 show_date: false

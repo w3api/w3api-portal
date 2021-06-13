@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.print"
 layout: tag
-permalink: /java/tag/java.awt.print/
+permalink: /Java/tag/java.awt.print/
 date: 2020-12-29
 key: Javapaquetejava.awt.print
 sidebar: 

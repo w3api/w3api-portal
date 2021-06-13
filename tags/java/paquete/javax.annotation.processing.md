@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.annotation.processing"
 layout: tag
-permalink: /java/tag/javax.annotation.processing/
+permalink: /Java/tag/javax.annotation.processing/
 date: 2020-12-29
 key: Javapaquetejavax.annotation.processing
 sidebar: 

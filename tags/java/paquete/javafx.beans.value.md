@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.beans.value"
 layout: tag
-permalink: /java/tag/javafx.beans.value/
+permalink: /Java/tag/javafx.beans.value/
 date: 2020-12-29
 key: Javapaquetejavafx.beans.value
 sidebar: 

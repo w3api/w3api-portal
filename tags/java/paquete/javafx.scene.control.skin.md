@@ -1,7 +1,7 @@
 ---
 title: "Paquete javafx.scene.control.skin"
 layout: tag
-permalink: /java/tag/javafx.scene.control.skin/
+permalink: /Java/tag/javafx.scene.control.skin/
 date: 2020-12-29
 key: Javapaquetejavafx.scene.control.skin
 sidebar: 

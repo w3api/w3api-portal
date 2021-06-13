@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.attach"
 layout: tag
-permalink: /java/tag/jdk.attach/
+permalink: /Java/tag/jdk.attach/
 date: 2020-12-29
 key: Javamodulojdk.attach
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.applet"
 layout: tag
-permalink: /java/tag/java.applet/
+permalink: /Java/tag/java.applet/
 date: 2020-12-29
 key: Javapaquetejava.applet
 sidebar: 

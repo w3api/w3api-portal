@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.util.regex"
 layout: tag
-permalink: /java/tag/java.util.regex/
+permalink: /Java/tag/java.util.regex/
 date: 2020-12-29
 key: Javapaquetejava.util.regex
 sidebar: 

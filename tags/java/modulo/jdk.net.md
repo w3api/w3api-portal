@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.net"
 layout: tag
-permalink: /java/tag/jdk.net/
+permalink: /Java/tag/jdk.net/
 date: 2020-12-29
 key: Javamodulojdk.net
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete jdk.management.cmm"
 layout: tag
-permalink: /java/tag/jdk.management.cmm/
+permalink: /Java/tag/jdk.management.cmm/
 date: 2020-12-29
 key: Javapaquetejdk.management.cmm
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.crypto.dsig.dom"
 layout: tag
-permalink: /java/tag/javax.xml.crypto.dsig.dom/
+permalink: /Java/tag/javax.xml.crypto.dsig.dom/
 date: 2020-12-29
 key: Javapaquetejavax.xml.crypto.dsig.dom
 sidebar: 

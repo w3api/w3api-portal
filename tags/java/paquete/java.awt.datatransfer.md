@@ -1,7 +1,7 @@
 ---
 title: "Paquete java.awt.datatransfer"
 layout: tag
-permalink: /java/tag/java.awt.datatransfer/
+permalink: /Java/tag/java.awt.datatransfer/
 date: 2020-12-29
 key: Javapaquetejava.awt.datatransfer
 sidebar: 

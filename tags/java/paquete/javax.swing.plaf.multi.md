@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.plaf.multi"
 layout: tag
-permalink: /java/tag/javax.swing.plaf.multi/
+permalink: /Java/tag/javax.swing.plaf.multi/
 date: 2020-12-29
 key: Javapaquetejavax.swing.plaf.multi
 sidebar: 

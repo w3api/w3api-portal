@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.xml.crypto.dsig.spec"
 layout: tag
-permalink: /java/tag/javax.xml.crypto.dsig.spec/
+permalink: /Java/tag/javax.xml.crypto.dsig.spec/
 date: 2020-12-29
 key: Javapaquetejavax.xml.crypto.dsig.spec
 sidebar: 

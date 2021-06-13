@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.timer"
 layout: tag
-permalink: /java/tag/javax.management.timer/
+permalink: /Java/tag/javax.management.timer/
 date: 2020-12-29
 key: Javapaquetejavax.management.timer
 sidebar: 

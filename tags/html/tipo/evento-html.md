@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Evento HTML"
-permalink: /html/tag/evento-html/
+permalink: /HTML/tag/evento-html/
 date: 2011-06-23T18:38:52+00:00
 key: EventoHTML
 show_date: false

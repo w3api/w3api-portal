@@ -20,7 +20,7 @@ AggregateError.prototype.name
 ~~~
 
 ## Objeto Padre
-[AggregateError](/javascript/AggregateError/)
+[AggregateError](/Javascript/AggregateError/)
 
 ## Ejemplo
 ~~~java

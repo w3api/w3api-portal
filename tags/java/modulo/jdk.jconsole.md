@@ -1,7 +1,7 @@
 ---
 title: "Módulo jdk.jconsole"
 layout: tag
-permalink: /java/tag/jdk.jconsole/
+permalink: /Java/tag/jdk.jconsole/
 date: 2020-12-29
 key: Javamodulojdk.jconsole
 sidebar: 

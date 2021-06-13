@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.swing.tree"
 layout: tag
-permalink: /java/tag/javax.swing.tree/
+permalink: /Java/tag/javax.swing.tree/
 date: 2020-12-29
 key: Javapaquetejavax.swing.tree
 sidebar: 

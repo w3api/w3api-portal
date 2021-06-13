@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.management.modelmbean"
 layout: tag
-permalink: /java/tag/javax.management.modelmbean/
+permalink: /Java/tag/javax.management.modelmbean/
 date: 2020-12-29
 key: Javapaquetejavax.management.modelmbean
 sidebar: 

@@ -1,7 +1,7 @@
 ---
 title: "Paquete javax.imageio.event"
 layout: tag
-permalink: /java/tag/javax.imageio.event/
+permalink: /Java/tag/javax.imageio.event/
 date: 2020-12-29
 key: Javapaquetejavax.imageio.event
 sidebar: 

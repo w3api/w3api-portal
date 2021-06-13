@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "HTML 2.0"
-permalink: /html/tag/html-2.0/
+permalink: /HTML/tag/html-2.0/
 date: 2011-06-23T18:38:52+00:00
 key: html
 show_date: false

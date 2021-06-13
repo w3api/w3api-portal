@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.naming"
 layout: tag
-permalink: /java/tag/java.naming/
+permalink: /Java/tag/java.naming/
 date: 2020-12-29
 key: Javamodulojava.naming
 sidebar: 

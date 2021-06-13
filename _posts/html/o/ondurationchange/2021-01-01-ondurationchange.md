@@ -1,6 +1,6 @@
 ---
 title: ondurationchange
-permalink: /html/ondurationchange/
+permalink: /HTML/ondurationchange/
 date: 2021-02-15 01:07:21.566125
 key: HTML.o.ondurationchange
 category: html

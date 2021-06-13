@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.SendingContext"
 layout: tag
-permalink: /java/tag/org.omg.SendingContext/
+permalink: /Java/tag/org.omg.SendingContext/
 date: 2020-12-29
 key: Javapaqueteorg.omg.SendingContext
 sidebar: 

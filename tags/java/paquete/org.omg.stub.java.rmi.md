@@ -1,7 +1,7 @@
 ---
 title: "Paquete org.omg.stub.java.rmi"
 layout: tag
-permalink: /java/tag/org.omg.stub.java.rmi/
+permalink: /Java/tag/org.omg.stub.java.rmi/
 date: 2020-12-29
 key: Javapaqueteorg.omg.stub.java.rmi
 sidebar: 

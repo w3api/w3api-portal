@@ -1,6 +1,6 @@
 ---
 title: border-top-left-radius
-permalink: /css/border-top-left-radius/
+permalink: /CSS/border-top-left-radius/
 date: 2021-03-07 02:59:44.917885
 key: CSS.b.border-top-left-radius
 category: css

@@ -1,7 +1,7 @@
 ---
 title: "Módulo java.base"
 layout: tag
-permalink: /java/tag/java.base/
+permalink: /Java/tag/java.base/
 date: 2020-12-29
 key: Javamodulojava.base
 sidebar: 
