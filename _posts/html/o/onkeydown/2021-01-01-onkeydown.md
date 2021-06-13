@@ -3,7 +3,7 @@ title: onkeydown
 permalink: /HTML/onkeydown/
 date: 2021-02-15 01:07:21.567409
 key: HTML.o.onkeydown
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

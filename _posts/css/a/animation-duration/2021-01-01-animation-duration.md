@@ -3,7 +3,7 @@ title: animation-duration
 permalink: /CSS/animation-duration/
 date: 2021-03-07 02:57:32.640666
 key: CSS.a.animation-duration
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

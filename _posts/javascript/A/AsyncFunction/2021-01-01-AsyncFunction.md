@@ -3,7 +3,7 @@ title: AsyncFunction
 permalink: /Javascript/AsyncFunction/
 date: 2021-01-11
 key: Javascript.A.AsyncFunction
-category: javascript
+category: Javascript
 tags: ['objeto javascript']
 sidebar: 
   nav: javascript

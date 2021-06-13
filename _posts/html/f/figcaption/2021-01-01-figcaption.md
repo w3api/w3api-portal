@@ -3,7 +3,7 @@ title: figcaption
 permalink: /HTML/figcaption/
 date: 2021-02-15 01:07:21.196309
 key: HTML.f.figcaption
-category: html
+category: HTML
 tags: ['elemento html', 'html 5', 'html 5.1', 'html 5.2']
 sidebar: 
   nav: html

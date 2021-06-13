@@ -3,7 +3,7 @@ title: onslotchange
 permalink: /HTML/onslotchange/
 date: 2021-02-15 01:07:21.571654
 key: HTML.o.onslotchange
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

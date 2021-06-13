@@ -3,7 +3,7 @@ title: background-clip
 permalink: /CSS/background-clip/
 date: 2021-03-07 02:57:55.518098
 key: CSS.b.background-clip
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

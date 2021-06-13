@@ -3,7 +3,7 @@ title: animation-iteration-count
 permalink: /CSS/animation-iteration-count/
 date: 2021-03-07 02:57:36.878702
 key: CSS.a.animation-iteration-count
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

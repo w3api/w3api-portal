@@ -3,7 +3,7 @@ title: onstalled
 permalink: /HTML/onstalled/
 date: 2021-02-15 01:07:21.571810
 key: HTML.o.onstalled
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

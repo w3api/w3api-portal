@@ -3,7 +3,7 @@ title: ArrayBuffer.ArrayBuffer()
 permalink: /Javascript/ArrayBuffer/ArrayBuffer/
 date: 2021-01-11
 key: Javascript.A.ArrayBuffer
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

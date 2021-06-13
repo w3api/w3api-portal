@@ -3,7 +3,7 @@ title: border-radius
 permalink: /CSS/border-radius/
 date: 2021-03-07 02:59:14.945509
 key: CSS.b.border-radius
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: onloadedmetadata
 permalink: /HTML/onloadedmetadata/
 date: 2021-02-15 01:07:21.568123
 key: HTML.o.onloadedmetadata
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

@@ -3,7 +3,7 @@ title: ondragleave
 permalink: /HTML/ondragleave/
 date: 2021-02-15 01:07:21.565486
 key: HTML.o.ondragleave
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

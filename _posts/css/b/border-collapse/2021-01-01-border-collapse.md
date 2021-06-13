@@ -3,7 +3,7 @@ title: border-collapse
 permalink: /CSS/border-collapse/
 date: 2021-03-07 02:58:40.287340
 key: CSS.b.border-collapse
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

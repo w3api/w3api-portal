@@ -3,7 +3,7 @@ title: oncontextmenu
 permalink: /HTML/oncontextmenu/
 date: 2021-02-15 01:07:21.564121
 key: HTML.o.oncontextmenu
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

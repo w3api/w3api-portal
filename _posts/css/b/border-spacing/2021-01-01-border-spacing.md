@@ -3,7 +3,7 @@ title: border-spacing
 permalink: /CSS/border-spacing/
 date: 2021-03-07 02:59:33.637381
 key: CSS.b.border-spacing
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

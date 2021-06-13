@@ -3,7 +3,7 @@ title: animation-fill-mode
 permalink: /CSS/animation-fill-mode/
 date: 2021-03-07 02:57:34.848294
 key: CSS.a.animation-fill-mode
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

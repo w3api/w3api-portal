@@ -3,7 +3,7 @@ title: border-width
 permalink: /CSS/border-width/
 date: 2021-03-07 02:59:56.974652
 key: CSS.b.border-width
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

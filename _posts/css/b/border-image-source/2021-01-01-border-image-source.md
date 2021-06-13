@@ -3,7 +3,7 @@ title: border-image-source
 permalink: /CSS/border-image-source/
 date: 2021-03-07 02:58:57.767384
 key: CSS.b.border-image-source
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

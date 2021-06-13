@@ -3,7 +3,7 @@ title: animation-delay
 permalink: /CSS/animation-delay/
 date: 2021-03-07 02:57:28.317271
 key: CSS.a.animation-delay
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

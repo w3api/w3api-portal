@@ -3,7 +3,7 @@ title: align-self
 permalink: /CSS/align-self/
 date: 2021-03-07 02:57:20.937846
 key: CSS.a.align-self
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

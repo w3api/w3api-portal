@@ -3,7 +3,7 @@ title: animation-timing-function
 permalink: /CSS/animation-timing-function/
 date: 2021-03-07 02:57:43.898828
 key: CSS.a.animation-timing-function
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

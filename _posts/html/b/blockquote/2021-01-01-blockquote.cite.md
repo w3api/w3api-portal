@@ -3,7 +3,7 @@ title: blockquote.cite
 permalink: /HTML/blockquote/cite/
 date: 2021-02-15 01:07:21.111279
 key: HTML.b.blockquote.cite
-category: html
+category: HTML
 tags: ['atributo html']
 sidebar: 
   nav: html

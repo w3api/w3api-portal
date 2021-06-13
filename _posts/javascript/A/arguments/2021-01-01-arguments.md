@@ -3,7 +3,7 @@ title: arguments
 permalink: /Javascript/arguments/
 date: 2021-01-11
 key: Javascript.A.arguments
-category: javascript
+category: Javascript
 tags: ['funcion javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: align-content
 permalink: /CSS/align-content/
 date: 2021-03-07 02:57:15.180438
 key: CSS.a.align-content
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

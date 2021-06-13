@@ -3,7 +3,7 @@ title: border-top-right-radius
 permalink: /CSS/border-top-right-radius/
 date: 2021-03-07 02:59:48.200313
 key: CSS.b.border-top-right-radius
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

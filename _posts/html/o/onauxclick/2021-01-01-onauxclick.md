@@ -3,7 +3,7 @@ title: onauxclick
 permalink: /HTML/onauxclick/
 date: 2021-02-15 01:07:21.562965
 key: HTML.o.onauxclick
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

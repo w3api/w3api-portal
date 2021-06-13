@@ -3,7 +3,7 @@ title: HTMLElement
 permalink: /HTML/HTMLElement/
 date: 2021-02-15 01:07:21.547071
 key: HTML.H.HTMLElement
-category: html
+category: HTML
 tags: ['elemento html']
 sidebar: 
   nav: html

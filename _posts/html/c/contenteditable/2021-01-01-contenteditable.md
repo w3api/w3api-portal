@@ -3,7 +3,7 @@ title: contenteditable
 permalink: /HTML/contenteditable/
 date: 2021-02-15 01:07:21.547919
 key: HTML.c.contenteditable
-category: html
+category: HTML
 tags: ['atributo html']
 sidebar: 
   nav: html

@@ -3,7 +3,7 @@ title: oncuechange
 permalink: /HTML/oncuechange/
 date: 2021-02-15 01:07:21.564402
 key: HTML.o.oncuechange
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

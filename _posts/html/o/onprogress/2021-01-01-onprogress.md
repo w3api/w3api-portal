@@ -3,7 +3,7 @@ title: onprogress
 permalink: /HTML/onprogress/
 date: 2021-02-15 01:07:21.570232
 key: HTML.o.onprogress
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

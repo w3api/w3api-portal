@@ -3,7 +3,7 @@ title: border-right-style
 permalink: /CSS/border-right-style/
 date: 2021-03-07 02:59:23.998482
 key: CSS.b.border-right-style
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

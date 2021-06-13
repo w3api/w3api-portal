@@ -3,7 +3,7 @@ title: onratechange
 permalink: /HTML/onratechange/
 date: 2021-02-15 01:07:21.570383
 key: HTML.o.onratechange
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

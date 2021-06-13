@@ -3,7 +3,7 @@ title: ArrayBuffer
 permalink: /Javascript/ArrayBuffer/
 date: 2021-01-11
 key: Javascript.A.ArrayBuffer
-category: javascript
+category: Javascript
 tags: ['objeto javascript']
 sidebar: 
   nav: javascript

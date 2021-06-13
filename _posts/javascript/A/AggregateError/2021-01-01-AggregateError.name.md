@@ -3,7 +3,7 @@ title: AggregateError.name
 permalink: /Javascript/AggregateError/name/
 date: 2021-01-11
 key: Javascript.A.AggregateError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: border-right-color
 permalink: /CSS/border-right-color/
 date: 2021-03-07 02:59:20.486942
 key: CSS.b.border-right-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

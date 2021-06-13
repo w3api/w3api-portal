@@ -3,7 +3,7 @@ title: background-position
 permalink: /CSS/background-position/
 date: 2021-03-07 02:58:07.119803
 key: CSS.b.background-position
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: background-origin
 permalink: /CSS/background-origin/
 date: 2021-03-07 02:58:04.292449
 key: CSS.b.background-origin
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

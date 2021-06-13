@@ -3,7 +3,7 @@ title: border-bottom-left-radius
 permalink: /CSS/border-bottom-left-radius/
 date: 2021-03-07 02:58:24.680436
 key: CSS.b.border-bottom-left-radius
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

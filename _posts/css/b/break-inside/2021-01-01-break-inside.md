@@ -3,7 +3,7 @@ title: break-inside
 permalink: /CSS/break-inside/
 date: 2021-03-07 03:00:18.896973
 key: CSS.b.break-inside
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: AggregateError.AggregateError()
 permalink: /Javascript/AggregateError/AggregateError/
 date: 2021-01-11
 key: Javascript.A.AggregateError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

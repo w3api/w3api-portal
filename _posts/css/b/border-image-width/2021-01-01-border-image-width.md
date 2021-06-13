@@ -3,7 +3,7 @@ title: border-image-width
 permalink: /CSS/border-image-width/
 date: 2021-03-07 02:59:00.856730
 key: CSS.b.border-image-width
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: itemscope
 permalink: /HTML/itemscope/
 date: 2021-02-15 01:07:21.549313
 key: HTML.i.itemscope
-category: html
+category: HTML
 tags: ['atributo html']
 sidebar: 
   nav: html

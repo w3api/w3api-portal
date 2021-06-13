@@ -3,7 +3,7 @@ title: box-shadow
 permalink: /CSS/box-shadow/
 date: 2021-03-07 03:00:09.132207
 key: CSS.b.box-shadow
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -11,7 +11,7 @@ aside:
   toc: true
 pagination: 
   enabled: true
-  category: html
+  category: HTML
   permalink: /:num/    
 ---
 

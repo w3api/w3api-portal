@@ -3,7 +3,7 @@ title: onwaiting
 permalink: /HTML/onwaiting/
 date: 2021-02-15 01:07:21.573067
 key: HTML.o.onwaiting
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

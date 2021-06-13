@@ -3,7 +3,7 @@ title: animation-name
 permalink: /CSS/animation-name/
 date: 2021-03-07 02:57:38.962290
 key: CSS.a.animation-name
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

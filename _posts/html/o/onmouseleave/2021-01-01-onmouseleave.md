@@ -3,7 +3,7 @@ title: onmouseleave
 permalink: /HTML/onmouseleave/
 date: 2021-02-15 01:07:21.568793
 key: HTML.o.onmouseleave
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

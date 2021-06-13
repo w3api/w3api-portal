@@ -3,7 +3,7 @@ title: border-left-color
 permalink: /CSS/border-left-color/
 date: 2021-03-07 02:59:06.502318
 key: CSS.b.border-left-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

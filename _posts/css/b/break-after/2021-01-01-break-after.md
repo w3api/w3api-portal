@@ -3,7 +3,7 @@ title: break-after
 permalink: /CSS/break-after/
 date: 2021-03-07 03:00:13.427921
 key: CSS.b.break-after
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

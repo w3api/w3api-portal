@@ -3,7 +3,7 @@ title: background-image
 permalink: /CSS/background-image/
 date: 2021-03-07 02:58:01.464872
 key: CSS.b.background-image
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

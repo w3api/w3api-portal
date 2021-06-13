@@ -3,7 +3,7 @@ title: background-size
 permalink: /CSS/background-size/
 date: 2021-03-07 02:58:13.102257
 key: CSS.b.background-size
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

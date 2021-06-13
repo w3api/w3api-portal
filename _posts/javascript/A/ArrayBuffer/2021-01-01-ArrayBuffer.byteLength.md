@@ -3,7 +3,7 @@ title: ArrayBuffer.byteLength
 permalink: /Javascript/ArrayBuffer/byteLength/
 date: 2021-01-11
 key: Javascript.A.ArrayBuffer
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

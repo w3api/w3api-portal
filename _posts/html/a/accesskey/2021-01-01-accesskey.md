@@ -3,7 +3,7 @@ title: accesskey
 permalink: /HTML/accesskey/
 date: 2021-02-15 01:07:21.547490
 key: HTML.a.accesskey
-category: html
+category: HTML
 tags: ['atributo html']
 sidebar: 
   nav: html

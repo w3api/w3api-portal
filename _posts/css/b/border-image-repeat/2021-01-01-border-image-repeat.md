@@ -3,7 +3,7 @@ title: border-image-repeat
 permalink: /CSS/border-image-repeat/
 date: 2021-03-07 02:58:51.617059
 key: CSS.b.border-image-repeat
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

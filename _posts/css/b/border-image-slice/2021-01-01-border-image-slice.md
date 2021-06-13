@@ -3,7 +3,7 @@ title: border-image-slice
 permalink: /CSS/border-image-slice/
 date: 2021-03-07 02:58:54.456800
 key: CSS.b.border-image-slice
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

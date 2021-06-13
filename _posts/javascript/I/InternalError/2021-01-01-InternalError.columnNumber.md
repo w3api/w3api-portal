@@ -3,7 +3,7 @@ title: InternalError.columnNumber
 permalink: /Javascript/InternalError/columnNumber/
 date: 2021-01-11
 key: Javascript.I.InternalError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

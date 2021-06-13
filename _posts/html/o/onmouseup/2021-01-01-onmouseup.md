@@ -3,7 +3,7 @@ title: onmouseup
 permalink: /HTML/onmouseup/
 date: 2021-02-15 01:07:21.569340
 key: HTML.o.onmouseup
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

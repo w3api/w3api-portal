@@ -3,7 +3,7 @@ title: border-style
 permalink: /CSS/border-style/
 date: 2021-03-07 02:59:36.502953
 key: CSS.b.border-style
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

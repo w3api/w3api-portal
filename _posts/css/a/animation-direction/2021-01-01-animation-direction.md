@@ -3,7 +3,7 @@ title: animation-direction
 permalink: /CSS/animation-direction/
 date: 2021-03-07 02:57:30.552252
 key: CSS.a.animation-direction
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

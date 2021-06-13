@@ -3,7 +3,7 @@ title: animation-play-state
 permalink: /CSS/animation-play-state/
 date: 2021-03-07 02:57:41.236677
 key: CSS.a.animation-play-state
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

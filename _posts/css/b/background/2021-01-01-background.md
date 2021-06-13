@@ -3,7 +3,7 @@ title: background
 permalink: /CSS/background/
 date: 2021-03-07 02:57:47.558688
 key: CSS.b.background
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

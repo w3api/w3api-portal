@@ -3,7 +3,7 @@ title: onformdata
 permalink: /HTML/onformdata/
 date: 2021-02-15 01:07:21.566979
 key: HTML.o.onformdata
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

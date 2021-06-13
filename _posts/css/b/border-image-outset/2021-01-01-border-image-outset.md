@@ -3,7 +3,7 @@ title: border-image-outset
 permalink: /CSS/border-image-outset/
 date: 2021-03-07 02:58:48.698152
 key: CSS.b.border-image-outset
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: border-top-color
 permalink: /CSS/border-top-color/
 date: 2021-03-07 02:59:42.227509
 key: CSS.b.border-top-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

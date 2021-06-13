@@ -3,7 +3,7 @@ title: background-color
 permalink: /CSS/background-color/
 date: 2021-03-07 02:57:58.369845
 key: CSS.b.background-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

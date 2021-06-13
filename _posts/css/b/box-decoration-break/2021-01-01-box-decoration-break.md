@@ -3,7 +3,7 @@ title: box-decoration-break
 permalink: /CSS/box-decoration-break/
 date: 2021-03-07 03:00:06.258433
 key: CSS.b.box-decoration-break
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

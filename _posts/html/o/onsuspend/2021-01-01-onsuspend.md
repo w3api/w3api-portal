@@ -3,7 +3,7 @@ title: onsuspend
 permalink: /HTML/onsuspend/
 date: 2021-02-15 01:07:21.572230
 key: HTML.o.onsuspend
-category: html
+category: HTML
 tags: ['evento html']
 sidebar: 
   nav: html

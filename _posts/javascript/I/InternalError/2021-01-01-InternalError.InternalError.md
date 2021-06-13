@@ -3,7 +3,7 @@ title: InternalError.InternalError()
 permalink: /Javascript/InternalError/InternalError/
 date: 2021-01-11
 key: Javascript.I.InternalError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

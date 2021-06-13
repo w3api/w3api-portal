@@ -3,7 +3,7 @@ title: TabableView
 permalink: /Java/TabableView/
 date: 2021-01-11
 key: Java.T.TabableView
-category: java
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java
