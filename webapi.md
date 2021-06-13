@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Web API"
-permalink: /webapi/
+permalink: /WebAPI/
 date: 2011-06-23T18:38:52+00:00
 key: WebAPI
 show_date: false

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Tecnologías"
-permalink: /tecnologias/
+permalink: /Tecnologias/
 date: 2011-06-23T18:38:52+00:00
 key: Tecnologías
 show_date: false
@@ -11,7 +11,7 @@ show_date: false
 
     <div class="main-tech-item">
 
-      <a href="/java">
+      <a href="/Java">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/java.png"/>
@@ -25,7 +25,7 @@ show_date: false
 
     <div class="main-tech-item">
 
-      <a href="/html">
+      <a href="/HTML">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/html.png"/>
@@ -38,7 +38,7 @@ show_date: false
     </div>
 
     <div class="main-tech-item">
-    <a href="/jquery">
+    <a href="/jQuery">
       <div class="card">
           <div class="card__image">
             <img class="image" src="/assets/images/jquery.png"/>
@@ -51,7 +51,7 @@ show_date: false
     </div>
 
     <div class="main-tech-item">
-      <a href="/php">
+      <a href="/PHP">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/php.png"/>
@@ -65,7 +65,7 @@ show_date: false
 
     </div>
     <div class="main-tech-item">
-      <a href="/css">
+      <a href="/CSS">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/css.png"/>
@@ -77,7 +77,7 @@ show_date: false
       </a>
     </div>
     <div class="main-tech-item">
-      <a href="/javascript">
+      <a href="/Javascript">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/javascript.png"/>
@@ -90,7 +90,7 @@ show_date: false
     </div>
     
     <div class="main-tech-item">
-      <a href="/mongodb">
+      <a href="/MongoDB">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/mongodb.png"/>
@@ -103,7 +103,7 @@ show_date: false
     </div>
 
     <div class="main-tech-item">
-      <a href="/svg">
+      <a href="/SVG">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/svg.png"/>
@@ -116,7 +116,7 @@ show_date: false
     </div>
 
     <div class="main-tech-item">
-      <a href="/asp">
+      <a href="/ASP">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/asp.png"/>
@@ -129,7 +129,7 @@ show_date: false
     </div>
 
     <div class="main-tech-item">
-      <a href="/google">
+      <a href="/Google">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/google.png"/>
@@ -143,7 +143,7 @@ show_date: false
 
     <div class="main-tech-item">
 
-      <a href="/groovy">
+      <a href="/Groovy">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/groovy.png"/>
@@ -157,7 +157,7 @@ show_date: false
 
     <div class="main-tech-item">
 
-      <a href="/vbscript">
+      <a href="/VBScript">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/vbscript.png"/>
@@ -171,7 +171,7 @@ show_date: false
 
     <div class="main-tech-item">
 
-      <a href="/xslt">
+      <a href="/XSLT">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/xslt.png"/>
@@ -185,7 +185,7 @@ show_date: false
 
     <div class="main-tech-item">
 
-      <a href="/webapi">
+      <a href="/WebAPI">
         <div class="card">
             <div class="card__image">
               <img class="image" src="/assets/images/webapi.png"/>

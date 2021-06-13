@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "XForms"
-permalink: /xforms/
+permalink: /XForms/
 date: 2011-06-23T18:38:52+00:00
 key: XForms
 show_date: false

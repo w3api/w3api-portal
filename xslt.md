@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "XSLT"
-permalink: /xslt/
+permalink: /XSLT/
 date: 2011-06-23T18:38:52+00:00
 key: XSLT
 show_date: false

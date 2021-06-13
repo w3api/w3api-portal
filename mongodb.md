@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "MongoDB"
-permalink: /mongodb/
+permalink: /MongoDB/
 date: 2011-06-23T18:38:52+00:00
 key: MongoDB
 show_date: false

@@ -10,9 +10,9 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(230, 75, 28, .4), rgba(0, 0, 0 , .4))'
-    src: /assets/images/covers/cover1.jpeg
-cover: /assets/images/covers/cover1.jpeg
+    gradient: 'linear-gradient(135deg, rgba(255, 255, 255, .4), rgba(0, 0, 0 , .4))'
+    src: /assets/images/covers/history.png
+cover: /assets/images/covers/history.png
 ---
 La andadura del **proyecto W3Api** empieza en noviembre 2009. La idea era **intentar prorporcionar un API estándar de los diferenres lenguajes de programación** que nos facilitase el buscar los elementos de programación y que la información que nos diese fuese siempre la misma y sobre todo que fuese la justa y necesaria.
 
@@ -32,6 +32,7 @@ Además permite seguir introduciendo información de forma colaborativa mediante
 
 Veamos como se sigue escribiendo la historia de W3Api de los próximos años. Esperamos que la sigais disfrutando.
 
+<span>Foto de <a href="https://unsplash.com/@foxfox?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Natalia Y</a> en <a href="https://unsplash.com/s/photos/history?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 [JLD]: https://www.linkedin.com/in/jos%C3%A9-luis-david-84bb3a5
 [W3ApiGitHub]: https://github.com/w3api/

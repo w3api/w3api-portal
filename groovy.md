@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Groovy"
-permalink: /groovy/
+permalink: /Groovy/
 date: 2021-02-14
 key: Groovy
 show_date: false

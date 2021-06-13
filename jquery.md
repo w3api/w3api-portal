@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "jQuery"
-permalink: /jquery/
+permalink: /jQuery/
 date: 2011-06-23T18:38:52+00:00
 key: jQuery
 show_date: false

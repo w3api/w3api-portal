@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Google"
-permalink: /google/
+permalink: /Google/
 date: 2011-06-23T18:38:52+00:00
 key: Google
 show_date: false

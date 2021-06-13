@@ -1,22 +1,22 @@
 header:
   - title: CSS
-    url: /css/
+    url: /CSS/
   - title: HTML
-    url: /html/
+    url: /HTML/
   - title: Java
-    url: /java/
+    url: /Java/
   - title: Javascript
-    url: /javascript/
+    url: /Javascript/
   - title: Más...
-    url: /tecnologias/
+    url: /Tecnologias/
   - title: Blog
-    url: /blog/
+    url: /Blog/
 
 css:
   - title: CSS
     children:
       - title:  Elementos CSS
-        url:    /css/elementos-css/
+        url:    /CSS/elementos-css/
 google:
   - title: Google
 
@@ -27,29 +27,29 @@ html:
   - title: HTML
     children:
       - title:  Elementos HTML
-        url:    /html/elementos-html/
+        url:    /HTML/elementos-html/
       - title:  Versiones HTML
-        url:    /html/versiones-html/
+        url:    /HTML/versiones-html/
 
 java:
   - title : Java
     children:
       - title:  Tecnologías Java
-        url:    /java/tecnologias-java/
+        url:    /Java/tecnologias-java/
       - title:  Elementos Java
-        url:    /java/elementos-java/
+        url:    /Java/elementos-java/
       - title:  Versiones Java
-        url:    /java/versiones-java/
+        url:    /Java/versiones-java/
       - title:  Paquetes Java
-        url:    /java/paquetes-java/
+        url:    /Java/paquetes-java/
       - title:  Módulos Java
-        url:    /java/modulos-java/
+        url:    /Java/modulos-java/
 
 javascript:
   - title: Javascript
     children:
       - title:  Elementos Javascript
-        url:    /javascript/elementos-javascript/
+        url:    /Javascript/elementos-javascript/
 
 jquery:
   - title: jQuery
