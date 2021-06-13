@@ -3,7 +3,7 @@ title: "Paquete java.lang.management"
 layout: tag
 permalink: /Java/tag/java.lang.management/
 date: 2020-12-29
-key: Javapaquetejava.lang.management
+key: Java.quetejava.lang.management
 sidebar: 
   nav: java
 aside: 

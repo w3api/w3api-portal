@@ -3,7 +3,7 @@ title: "Paquete javax.swing.undo"
 layout: tag
 permalink: /Java/tag/javax.swing.undo/
 date: 2020-12-29
-key: Javapaquetejavax.swing.undo
+key: Java.quetejavax.swing.undo
 sidebar: 
   nav: java
 aside: 

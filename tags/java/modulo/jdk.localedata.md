@@ -3,7 +3,7 @@ title: "Módulo jdk.localedata"
 layout: tag
 permalink: /Java/tag/jdk.localedata/
 date: 2020-12-29
-key: Javamodulojdk.localedata
+key: Java.dulojdk.localedata
 sidebar: 
   nav: java
 aside: 

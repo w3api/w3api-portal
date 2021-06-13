@@ -3,7 +3,7 @@ title: "Paquete com.sun.jdi"
 layout: tag
 permalink: /Java/tag/com.sun.jdi/
 date: 2020-12-29
-key: Javapaquetecom.sun.jdi
+key: Java.quetecom.sun.jdi
 sidebar: 
   nav: java
 aside: 

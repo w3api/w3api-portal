@@ -3,7 +3,7 @@ title: "Paquete javafx.css"
 layout: tag
 permalink: /Java/tag/javafx.css/
 date: 2020-12-29
-key: Javapaquetejavafx.css
+key: Java.quetejavafx.css
 sidebar: 
   nav: java
 aside: 

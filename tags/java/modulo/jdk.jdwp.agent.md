@@ -3,7 +3,7 @@ title: "Módulo jdk.jdwp.agent"
 layout: tag
 permalink: /Java/tag/jdk.jdwp.agent/
 date: 2020-12-29
-key: Javamodulojdk.jdwp.agent
+key: Java.dulojdk.jdwp.agent
 sidebar: 
   nav: java
 aside: 

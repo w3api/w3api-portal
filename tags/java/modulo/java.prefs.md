@@ -3,7 +3,7 @@ title: "Módulo java.prefs"
 layout: tag
 permalink: /Java/tag/java.prefs/
 date: 2020-12-29
-key: Javamodulojava.prefs
+key: Java.dulojava.prefs
 sidebar: 
   nav: java
 aside: 

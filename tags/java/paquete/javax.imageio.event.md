@@ -3,7 +3,7 @@ title: "Paquete javax.imageio.event"
 layout: tag
 permalink: /Java/tag/javax.imageio.event/
 date: 2020-12-29
-key: Javapaquetejavax.imageio.event
+key: Java.quetejavax.imageio.event
 sidebar: 
   nav: java
 aside: 

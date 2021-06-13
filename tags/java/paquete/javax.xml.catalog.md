@@ -3,7 +3,7 @@ title: "Paquete javax.xml.catalog"
 layout: tag
 permalink: /Java/tag/javax.xml.catalog/
 date: 2020-12-29
-key: Javapaquetejavax.xml.catalog
+key: Java.quetejavax.xml.catalog
 sidebar: 
   nav: java
 aside: 

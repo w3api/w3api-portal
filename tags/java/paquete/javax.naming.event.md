@@ -3,7 +3,7 @@ title: "Paquete javax.naming.event"
 layout: tag
 permalink: /Java/tag/javax.naming.event/
 date: 2020-12-29
-key: Javapaquetejavax.naming.event
+key: Java.quetejavax.naming.event
 sidebar: 
   nav: java
 aside: 

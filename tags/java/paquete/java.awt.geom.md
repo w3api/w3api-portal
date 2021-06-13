@@ -3,7 +3,7 @@ title: "Paquete java.awt.geom"
 layout: tag
 permalink: /Java/tag/java.awt.geom/
 date: 2020-12-29
-key: Javapaquetejava.awt.geom
+key: Java.quetejava.awt.geom
 sidebar: 
   nav: java
 aside: 

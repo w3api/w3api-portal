@@ -3,7 +3,7 @@ title: "Paquete javax.sql.rowset"
 layout: tag
 permalink: /Java/tag/javax.sql.rowset/
 date: 2020-12-29
-key: Javapaquetejavax.sql.rowset
+key: Java.quetejavax.sql.rowset
 sidebar: 
   nav: java
 aside: 

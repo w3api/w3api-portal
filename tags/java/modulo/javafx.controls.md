@@ -3,7 +3,7 @@ title: "Módulo javafx.controls"
 layout: tag
 permalink: /Java/tag/javafx.controls/
 date: 2020-12-29
-key: Javamodulojavafx.controls
+key: Java.dulojavafx.controls
 sidebar: 
   nav: java
 aside: 

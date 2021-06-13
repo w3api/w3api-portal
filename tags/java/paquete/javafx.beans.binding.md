@@ -3,7 +3,7 @@ title: "Paquete javafx.beans.binding"
 layout: tag
 permalink: /Java/tag/javafx.beans.binding/
 date: 2020-12-29
-key: Javapaquetejavafx.beans.binding
+key: Java.quetejavafx.beans.binding
 sidebar: 
   nav: java
 aside: 

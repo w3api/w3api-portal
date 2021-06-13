@@ -3,7 +3,7 @@ title: "Paquete javax.swing.plaf.nimbus"
 layout: tag
 permalink: /Java/tag/javax.swing.plaf.nimbus/
 date: 2020-12-29
-key: Javapaquetejavax.swing.plaf.nimbus
+key: Java.quetejavax.swing.plaf.nimbus
 sidebar: 
   nav: java
 aside: 

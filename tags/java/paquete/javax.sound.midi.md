@@ -3,7 +3,7 @@ title: "Paquete javax.sound.midi"
 layout: tag
 permalink: /Java/tag/javax.sound.midi/
 date: 2020-12-29
-key: Javapaquetejavax.sound.midi
+key: Java.quetejavax.sound.midi
 sidebar: 
   nav: java
 aside: 

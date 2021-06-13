@@ -3,7 +3,7 @@ title: "Paquete javafx.geometry"
 layout: tag
 permalink: /Java/tag/javafx.geometry/
 date: 2020-12-29
-key: Javapaquetejavafx.geometry
+key: Java.quetejavafx.geometry
 sidebar: 
   nav: java
 aside: 

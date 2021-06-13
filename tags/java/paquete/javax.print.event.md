@@ -3,7 +3,7 @@ title: "Paquete javax.print.event"
 layout: tag
 permalink: /Java/tag/javax.print.event/
 date: 2020-12-29
-key: Javapaquetejavax.print.event
+key: Java.quetejavax.print.event
 sidebar: 
   nav: java
 aside: 

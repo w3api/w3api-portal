@@ -3,7 +3,7 @@ title: "Paquete java.awt"
 layout: tag
 permalink: /Java/tag/java.awt/
 date: 2020-12-29
-key: Javapaquetejava.awt
+key: Java.quetejava.awt
 sidebar: 
   nav: java
 aside: 

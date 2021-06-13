@@ -1,8 +1,8 @@
 ---
 title: AggregateError.name
-permalink: Javascript/AggregateError/name
+permalink: /Javascript/AggregateError/name/
 date: 2021-01-11
-key: JavascriptJavascript.A.AggregateError
+key: Javascript.A.AggregateError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

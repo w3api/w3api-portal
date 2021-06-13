@@ -3,7 +3,7 @@ title: "Paquete netscape.javascript"
 layout: tag
 permalink: /Java/tag/netscape.javascript/
 date: 2020-12-29
-key: Javapaquetenetscape.javascript
+key: Java.quetenetscape.javascript
 sidebar: 
   nav: java
 aside: 

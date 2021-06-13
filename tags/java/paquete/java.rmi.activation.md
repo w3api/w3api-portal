@@ -3,7 +3,7 @@ title: "Paquete java.rmi.activation"
 layout: tag
 permalink: /Java/tag/java.rmi.activation/
 date: 2020-12-29
-key: Javapaquetejava.rmi.activation
+key: Java.quetejava.rmi.activation
 sidebar: 
   nav: java
 aside: 

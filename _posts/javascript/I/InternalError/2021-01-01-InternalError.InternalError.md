@@ -1,8 +1,8 @@
 ---
 title: InternalError.InternalError()
-permalink: Javascript/InternalError/InternalError
+permalink: /Javascript/InternalError/InternalError/
 date: 2021-01-11
-key: JavascriptJavascript.I.InternalError
+key: Javascript.I.InternalError
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

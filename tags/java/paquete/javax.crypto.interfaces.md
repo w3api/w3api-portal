@@ -3,7 +3,7 @@ title: "Paquete javax.crypto.interfaces"
 layout: tag
 permalink: /Java/tag/javax.crypto.interfaces/
 date: 2020-12-29
-key: Javapaquetejavax.crypto.interfaces
+key: Java.quetejavax.crypto.interfaces
 sidebar: 
   nav: java
 aside: 

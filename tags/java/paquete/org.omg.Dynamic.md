@@ -3,7 +3,7 @@ title: "Paquete org.omg.Dynamic"
 layout: tag
 permalink: /Java/tag/org.omg.Dynamic/
 date: 2020-12-29
-key: Javapaqueteorg.omg.Dynamic
+key: Java.queteorg.omg.Dynamic
 sidebar: 
   nav: java
 aside: 

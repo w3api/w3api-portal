@@ -3,7 +3,7 @@ title: "Módulo jdk.jconsole"
 layout: tag
 permalink: /Java/tag/jdk.jconsole/
 date: 2020-12-29
-key: Javamodulojdk.jconsole
+key: Java.dulojdk.jconsole
 sidebar: 
   nav: java
 aside: 

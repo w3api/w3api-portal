@@ -3,7 +3,7 @@ title: "Paquete javafx.fxml"
 layout: tag
 permalink: /Java/tag/javafx.fxml/
 date: 2020-12-29
-key: Javapaquetejavafx.fxml
+key: Java.quetejavafx.fxml
 sidebar: 
   nav: java
 aside: 

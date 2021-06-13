@@ -1,9 +1,9 @@
 ---
 title: "Paquete org.w3c.dom"
 layout: tag
-permalink: /Java/tag/org.w3c.dom/
+permalink: /Java/tag/org.w/3c.dom/
 date: 2020-12-29
-key: Javapaqueteorg.w3c.dom
+key: Java.queteorg.w3c.dom
 sidebar: 
   nav: java
 aside: 

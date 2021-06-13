@@ -1,9 +1,9 @@
 ---
 layout: tag
 title: "Java 1.4"
-permalink: /Java/tag/java-1.4/
+permalink: /Java/tag/java/-1.4/
 date: 2011-06-23T18:38:52+00:00
-key: Java1.4
+key: Java.4
 show_date: false
 sidebar:
   nav: java

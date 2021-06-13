@@ -3,7 +3,7 @@ title: "Paquete java.nio.charset.spi"
 layout: tag
 permalink: /Java/tag/java.nio.charset.spi/
 date: 2020-12-29
-key: Javapaquetejava.nio.charset.spi
+key: Java.quetejava.nio.charset.spi
 sidebar: 
   nav: java
 aside: 

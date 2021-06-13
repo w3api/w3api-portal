@@ -3,7 +3,7 @@ title: "Paquete java.util.prefs"
 layout: tag
 permalink: /Java/tag/java.util.prefs/
 date: 2020-12-29
-key: Javapaquetejava.util.prefs
+key: Java.quetejava.util.prefs
 sidebar: 
   nav: java
 aside: 

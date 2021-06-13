@@ -3,7 +3,7 @@ title: "Módulo java.smartcardio"
 layout: tag
 permalink: /Java/tag/java.smartcardio/
 date: 2020-12-29
-key: Javamodulojava.smartcardio
+key: Java.dulojava.smartcardio
 sidebar: 
   nav: java
 aside: 

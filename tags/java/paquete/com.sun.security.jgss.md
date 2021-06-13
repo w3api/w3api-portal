@@ -3,7 +3,7 @@ title: "Paquete com.sun.security.jgss"
 layout: tag
 permalink: /Java/tag/com.sun.security.jgss/
 date: 2020-12-29
-key: Javapaquetecom.sun.security.jgss
+key: Java.quetecom.sun.security.jgss
 sidebar: 
   nav: java
 aside: 

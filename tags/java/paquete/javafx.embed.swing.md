@@ -3,7 +3,7 @@ title: "Paquete javafx.embed.swing"
 layout: tag
 permalink: /Java/tag/javafx.embed.swing/
 date: 2020-12-29
-key: Javapaquetejavafx.embed.swing
+key: Java.quetejavafx.embed.swing
 sidebar: 
   nav: java
 aside: 

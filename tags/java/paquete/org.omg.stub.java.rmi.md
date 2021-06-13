@@ -3,7 +3,7 @@ title: "Paquete org.omg.stub.java.rmi"
 layout: tag
 permalink: /Java/tag/org.omg.stub.java.rmi/
 date: 2020-12-29
-key: Javapaqueteorg.omg.stub.java.rmi
+key: Java.queteorg.omg.stub.java.rmi
 sidebar: 
   nav: java
 aside: 

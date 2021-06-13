@@ -3,7 +3,7 @@ title: "Paquete javax.sound.sampled.spi"
 layout: tag
 permalink: /Java/tag/javax.sound.sampled.spi/
 date: 2020-12-29
-key: Javapaquetejavax.sound.sampled.spi
+key: Java.quetejavax.sound.sampled.spi
 sidebar: 
   nav: java
 aside: 

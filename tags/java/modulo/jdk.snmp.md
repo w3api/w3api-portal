@@ -3,7 +3,7 @@ title: "Módulo jdk.snmp"
 layout: tag
 permalink: /Java/tag/jdk.snmp/
 date: 2020-12-29
-key: Javamodulojdk.snmp
+key: Java.dulojdk.snmp
 sidebar: 
   nav: java
 aside: 

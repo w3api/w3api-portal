@@ -3,7 +3,7 @@ title: "Paquete org.omg.CORBA.DynAnyPackage"
 layout: tag
 permalink: /Java/tag/org.omg.CORBA.DynAnyPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.CORBA.DynAnyPackage
+key: Java.queteorg.omg.CORBA.DynAnyPackage
 sidebar: 
   nav: java
 aside: 

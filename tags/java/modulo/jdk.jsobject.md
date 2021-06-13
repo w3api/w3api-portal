@@ -3,7 +3,7 @@ title: "Módulo jdk.jsobject"
 layout: tag
 permalink: /Java/tag/jdk.jsobject/
 date: 2020-12-29
-key: Javamodulojdk.jsobject
+key: Java.dulojdk.jsobject
 sidebar: 
   nav: java
 aside: 

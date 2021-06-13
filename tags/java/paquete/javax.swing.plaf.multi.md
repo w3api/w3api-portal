@@ -3,7 +3,7 @@ title: "Paquete javax.swing.plaf.multi"
 layout: tag
 permalink: /Java/tag/javax.swing.plaf.multi/
 date: 2020-12-29
-key: Javapaquetejavax.swing.plaf.multi
+key: Java.quetejavax.swing.plaf.multi
 sidebar: 
   nav: java
 aside: 

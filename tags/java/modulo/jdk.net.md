@@ -3,7 +3,7 @@ title: "Módulo jdk.net"
 layout: tag
 permalink: /Java/tag/jdk.net/
 date: 2020-12-29
-key: Javamodulojdk.net
+key: Java.dulojdk.net
 sidebar: 
   nav: java
 aside: 

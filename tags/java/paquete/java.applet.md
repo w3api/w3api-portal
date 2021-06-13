@@ -3,7 +3,7 @@ title: "Paquete java.applet"
 layout: tag
 permalink: /Java/tag/java.applet/
 date: 2020-12-29
-key: Javapaquetejava.applet
+key: Java.quetejava.applet
 sidebar: 
   nav: java
 aside: 

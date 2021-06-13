@@ -3,7 +3,7 @@ title: "Módulo jdk.dynalink"
 layout: tag
 permalink: /Java/tag/jdk.dynalink/
 date: 2020-12-29
-key: Javamodulojdk.dynalink
+key: Java.dulojdk.dynalink
 sidebar: 
   nav: java
 aside: 

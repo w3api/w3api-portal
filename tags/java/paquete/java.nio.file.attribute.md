@@ -3,7 +3,7 @@ title: "Paquete java.nio.file.attribute"
 layout: tag
 permalink: /Java/tag/java.nio.file.attribute/
 date: 2020-12-29
-key: Javapaquetejava.nio.file.attribute
+key: Java.quetejava.nio.file.attribute
 sidebar: 
   nav: java
 aside: 

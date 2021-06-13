@@ -3,7 +3,7 @@ title: "Paquete java.security.spec"
 layout: tag
 permalink: /Java/tag/java.security.spec/
 date: 2020-12-29
-key: Javapaquetejava.security.spec
+key: Java.quetejava.security.spec
 sidebar: 
   nav: java
 aside: 

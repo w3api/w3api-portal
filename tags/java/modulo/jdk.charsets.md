@@ -3,7 +3,7 @@ title: "Módulo jdk.charsets"
 layout: tag
 permalink: /Java/tag/jdk.charsets/
 date: 2020-12-29
-key: Javamodulojdk.charsets
+key: Java.dulojdk.charsets
 sidebar: 
   nav: java
 aside: 

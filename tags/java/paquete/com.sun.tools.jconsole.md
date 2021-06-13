@@ -3,7 +3,7 @@ title: "Paquete com.sun.tools.jconsole"
 layout: tag
 permalink: /Java/tag/com.sun.tools.jconsole/
 date: 2020-12-29
-key: Javapaquetecom.sun.tools.jconsole
+key: Java.quetecom.sun.tools.jconsole
 sidebar: 
   nav: java
 aside: 

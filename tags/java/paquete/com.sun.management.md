@@ -3,7 +3,7 @@ title: "Paquete com.sun.management"
 layout: tag
 permalink: /Java/tag/com.sun.management/
 date: 2020-12-29
-key: Javapaquetecom.sun.management
+key: Java.quetecom.sun.management
 sidebar: 
   nav: java
 aside: 

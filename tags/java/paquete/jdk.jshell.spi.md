@@ -3,7 +3,7 @@ title: "Paquete jdk.jshell.spi"
 layout: tag
 permalink: /Java/tag/jdk.jshell.spi/
 date: 2020-12-29
-key: Javapaquetejdk.jshell.spi
+key: Java.quetejdk.jshell.spi
 sidebar: 
   nav: java
 aside: 

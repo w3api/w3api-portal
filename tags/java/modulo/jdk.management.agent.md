@@ -3,7 +3,7 @@ title: "Módulo jdk.management.agent"
 layout: tag
 permalink: /Java/tag/jdk.management.agent/
 date: 2020-12-29
-key: Javamodulojdk.management.agent
+key: Java.dulojdk.management.agent
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javax.accessibility"
 layout: tag
 permalink: /Java/tag/javax.accessibility/
 date: 2020-12-29
-key: Javapaquetejavax.accessibility
+key: Java.quetejavax.accessibility
 sidebar: 
   nav: java
 aside: 

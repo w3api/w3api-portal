@@ -3,7 +3,7 @@ title: "Paquete com.sun.tools.attach.spi"
 layout: tag
 permalink: /Java/tag/com.sun.tools.attach.spi/
 date: 2020-12-29
-key: Javapaquetecom.sun.tools.attach.spi
+key: Java.quetecom.sun.tools.attach.spi
 sidebar: 
   nav: java
 aside: 

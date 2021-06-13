@@ -3,7 +3,7 @@ title: "Paquete javax.xml.bind.annotation.adapters"
 layout: tag
 permalink: /Java/tag/javax.xml.bind.annotation.adapters/
 date: 2020-12-29
-key: Javapaquetejavax.xml.bind.annotation.adapters
+key: Java.quetejavax.xml.bind.annotation.adapters
 sidebar: 
   nav: java
 aside: 

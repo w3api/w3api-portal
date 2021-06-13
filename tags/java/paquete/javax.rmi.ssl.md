@@ -3,7 +3,7 @@ title: "Paquete javax.rmi.ssl"
 layout: tag
 permalink: /Java/tag/javax.rmi.ssl/
 date: 2020-12-29
-key: Javapaquetejavax.rmi.ssl
+key: Java.quetejavax.rmi.ssl
 sidebar: 
   nav: java
 aside: 

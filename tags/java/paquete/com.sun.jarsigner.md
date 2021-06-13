@@ -3,7 +3,7 @@ title: "Paquete com.sun.jarsigner"
 layout: tag
 permalink: /Java/tag/com.sun.jarsigner/
 date: 2020-12-29
-key: Javapaquetecom.sun.jarsigner
+key: Java.quetecom.sun.jarsigner
 sidebar: 
   nav: java
 aside: 

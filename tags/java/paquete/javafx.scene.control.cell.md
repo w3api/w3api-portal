@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.control.cell"
 layout: tag
 permalink: /Java/tag/javafx.scene.control.cell/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.control.cell
+key: Java.quetejavafx.scene.control.cell
 sidebar: 
   nav: java
 aside: 

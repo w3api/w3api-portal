@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Módulos Java"
-permalink: /Java/modulos-java/
+permalink: /Java/modulos/-java/
 date: 2011-06-23T18:38:52+00:00
 key: ModulosJava
 show_date: false

@@ -3,7 +3,7 @@ title: "Paquete java.util.logging"
 layout: tag
 permalink: /Java/tag/java.util.logging/
 date: 2020-12-29
-key: Javapaquetejava.util.logging
+key: Java.quetejava.util.logging
 sidebar: 
   nav: java
 aside: 

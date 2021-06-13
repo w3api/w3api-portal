@@ -3,7 +3,7 @@ title: "Paquete javax.imageio.plugins.tiff"
 layout: tag
 permalink: /Java/tag/javax.imageio.plugins.tiff/
 date: 2020-12-29
-key: Javapaquetejavax.imageio.plugins.tiff
+key: Java.quetejavax.imageio.plugins.tiff
 sidebar: 
   nav: java
 aside: 

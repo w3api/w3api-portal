@@ -3,7 +3,7 @@ title: "Paquete java.nio.channels.spi"
 layout: tag
 permalink: /Java/tag/java.nio.channels.spi/
 date: 2020-12-29
-key: Javapaquetejava.nio.channels.spi
+key: Java.quetejava.nio.channels.spi
 sidebar: 
   nav: java
 aside: 

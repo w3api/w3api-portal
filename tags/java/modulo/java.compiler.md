@@ -3,7 +3,7 @@ title: "Módulo java.compiler"
 layout: tag
 permalink: /Java/tag/java.compiler/
 date: 2020-12-29
-key: Javamodulojava.compiler
+key: Java.dulojava.compiler
 sidebar: 
   nav: java
 aside: 

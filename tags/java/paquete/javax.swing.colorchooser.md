@@ -3,7 +3,7 @@ title: "Paquete javax.swing.colorchooser"
 layout: tag
 permalink: /Java/tag/javax.swing.colorchooser/
 date: 2020-12-29
-key: Javapaquetejavax.swing.colorchooser
+key: Java.quetejavax.swing.colorchooser
 sidebar: 
   nav: java
 aside: 

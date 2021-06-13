@@ -3,7 +3,7 @@ title: "Paquete java.net"
 layout: tag
 permalink: /Java/tag/java.net/
 date: 2020-12-29
-key: Javapaquetejava.net
+key: Java.quetejava.net
 sidebar: 
   nav: java
 aside: 

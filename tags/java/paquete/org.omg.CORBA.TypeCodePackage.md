@@ -3,7 +3,7 @@ title: "Paquete org.omg.CORBA.TypeCodePackage"
 layout: tag
 permalink: /Java/tag/org.omg.CORBA.TypeCodePackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.CORBA.TypeCodePackage
+key: Java.queteorg.omg.CORBA.TypeCodePackage
 sidebar: 
   nav: java
 aside: 

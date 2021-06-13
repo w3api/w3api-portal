@@ -3,7 +3,7 @@ title: "Módulo jdk.jartool"
 layout: tag
 permalink: /Java/tag/jdk.jartool/
 date: 2020-12-29
-key: Javamodulojdk.jartool
+key: Java.dulojdk.jartool
 sidebar: 
   nav: java
 aside: 

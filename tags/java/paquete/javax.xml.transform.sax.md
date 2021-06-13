@@ -3,7 +3,7 @@ title: "Paquete javax.xml.transform.sax"
 layout: tag
 permalink: /Java/tag/javax.xml.transform.sax/
 date: 2020-12-29
-key: Javapaquetejavax.xml.transform.sax
+key: Java.quetejavax.xml.transform.sax
 sidebar: 
   nav: java
 aside: 

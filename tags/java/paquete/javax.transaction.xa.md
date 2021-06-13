@@ -3,7 +3,7 @@ title: "Paquete javax.transaction.xa"
 layout: tag
 permalink: /Java/tag/javax.transaction.xa/
 date: 2020-12-29
-key: Javapaquetejavax.transaction.xa
+key: Java.quetejavax.transaction.xa
 sidebar: 
   nav: java
 aside: 

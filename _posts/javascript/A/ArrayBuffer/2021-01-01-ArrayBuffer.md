@@ -1,8 +1,8 @@
 ---
 title: ArrayBuffer
-permalink: Javascript/ArrayBuffer
+permalink: /Javascript/ArrayBuffer/
 date: 2021-01-11
-key: JavascriptJavascript.A.ArrayBuffer
+key: Javascript.A.ArrayBuffer
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

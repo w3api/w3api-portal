@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.transform"
 layout: tag
 permalink: /Java/tag/javafx.scene.transform/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.transform
+key: Java.quetejavafx.scene.transform
 sidebar: 
   nav: java
 aside: 

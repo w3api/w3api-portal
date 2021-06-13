@@ -3,7 +3,7 @@ title: "Paquete java.beans.beancontext"
 layout: tag
 permalink: /Java/tag/java.beans.beancontext/
 date: 2020-12-29
-key: Javapaquetejava.beans.beancontext
+key: Java.quetejava.beans.beancontext
 sidebar: 
   nav: java
 aside: 

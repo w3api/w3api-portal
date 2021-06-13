@@ -3,7 +3,7 @@ title: "Paquete jdk.packager.services.singleton"
 layout: tag
 permalink: /Java/tag/jdk.packager.services.singleton/
 date: 2020-12-29
-key: Javapaquetejdk.packager.services.singleton
+key: Java.quetejdk.packager.services.singleton
 sidebar: 
   nav: java
 aside: 

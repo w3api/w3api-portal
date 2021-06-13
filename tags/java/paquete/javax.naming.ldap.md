@@ -3,7 +3,7 @@ title: "Paquete javax.naming.ldap"
 layout: tag
 permalink: /Java/tag/javax.naming.ldap/
 date: 2020-12-29
-key: Javapaquetejavax.naming.ldap
+key: Java.quetejavax.naming.ldap
 sidebar: 
   nav: java
 aside: 

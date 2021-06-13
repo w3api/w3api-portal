@@ -3,7 +3,7 @@ title: "Paquete java.lang.instrument"
 layout: tag
 permalink: /Java/tag/java.lang.instrument/
 date: 2020-12-29
-key: Javapaquetejava.lang.instrument
+key: Java.quetejava.lang.instrument
 sidebar: 
   nav: java
 aside: 

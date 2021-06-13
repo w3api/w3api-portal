@@ -1,8 +1,8 @@
 ---
 title: InternalError.stack
-permalink: Javascript/InternalError/stack
+permalink: /Javascript/InternalError/stack/
 date: 2021-01-11
-key: JavascriptJavascript.I.InternalError
+key: Javascript.I.InternalError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

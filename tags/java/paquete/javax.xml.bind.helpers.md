@@ -3,7 +3,7 @@ title: "Paquete javax.xml.bind.helpers"
 layout: tag
 permalink: /Java/tag/javax.xml.bind.helpers/
 date: 2020-12-29
-key: Javapaquetejavax.xml.bind.helpers
+key: Java.quetejavax.xml.bind.helpers
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.shape"
 layout: tag
 permalink: /Java/tag/javafx.scene.shape/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.shape
+key: Java.quetejavafx.scene.shape
 sidebar: 
   nav: java
 aside: 

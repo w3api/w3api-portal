@@ -3,7 +3,7 @@ title: "Paquete javax.management.relation"
 layout: tag
 permalink: /Java/tag/javax.management.relation/
 date: 2020-12-29
-key: Javapaquetejavax.management.relation
+key: Java.quetejavax.management.relation
 sidebar: 
   nav: java
 aside: 

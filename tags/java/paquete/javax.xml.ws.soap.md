@@ -3,7 +3,7 @@ title: "Paquete javax.xml.ws.soap"
 layout: tag
 permalink: /Java/tag/javax.xml.ws.soap/
 date: 2020-12-29
-key: Javapaquetejavax.xml.ws.soap
+key: Java.quetejavax.xml.ws.soap
 sidebar: 
   nav: java
 aside: 

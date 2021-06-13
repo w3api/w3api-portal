@@ -3,7 +3,7 @@ title: "Paquete javafx.stage"
 layout: tag
 permalink: /Java/tag/javafx.stage/
 date: 2020-12-29
-key: Javapaquetejavafx.stage
+key: Java.quetejavafx.stage
 sidebar: 
   nav: java
 aside: 

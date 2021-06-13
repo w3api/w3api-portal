@@ -3,7 +3,7 @@ title: "Módulo jdk.management.cmm"
 layout: tag
 permalink: /Java/tag/jdk.management.cmm/
 date: 2020-12-29
-key: Javamodulojdk.management.cmm
+key: Java.dulojdk.management.cmm
 sidebar: 
   nav: java
 aside: 

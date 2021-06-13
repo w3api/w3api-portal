@@ -3,7 +3,7 @@ title: "Paquete java.awt.datatransfer"
 layout: tag
 permalink: /Java/tag/java.awt.datatransfer/
 date: 2020-12-29
-key: Javapaquetejava.awt.datatransfer
+key: Java.quetejava.awt.datatransfer
 sidebar: 
   nav: java
 aside: 

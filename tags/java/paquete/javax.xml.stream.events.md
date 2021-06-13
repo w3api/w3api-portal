@@ -3,7 +3,7 @@ title: "Paquete javax.xml.stream.events"
 layout: tag
 permalink: /Java/tag/javax.xml.stream.events/
 date: 2020-12-29
-key: Javapaquetejavax.xml.stream.events
+key: Java.quetejavax.xml.stream.events
 sidebar: 
   nav: java
 aside: 

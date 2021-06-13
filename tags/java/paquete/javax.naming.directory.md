@@ -3,7 +3,7 @@ title: "Paquete javax.naming.directory"
 layout: tag
 permalink: /Java/tag/javax.naming.directory/
 date: 2020-12-29
-key: Javapaquetejavax.naming.directory
+key: Java.quetejavax.naming.directory
 sidebar: 
   nav: java
 aside: 

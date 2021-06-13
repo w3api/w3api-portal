@@ -3,7 +3,7 @@ title: "Módulo javafx.media"
 layout: tag
 permalink: /Java/tag/javafx.media/
 date: 2020-12-29
-key: Javamodulojavafx.media
+key: Java.dulojavafx.media
 sidebar: 
   nav: java
 aside: 

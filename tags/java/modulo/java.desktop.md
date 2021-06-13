@@ -3,7 +3,7 @@ title: "Módulo java.desktop"
 layout: tag
 permalink: /Java/tag/java.desktop/
 date: 2020-12-29
-key: Javamodulojava.desktop
+key: Java.dulojava.desktop
 sidebar: 
   nav: java
 aside: 

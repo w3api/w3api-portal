@@ -3,7 +3,7 @@ title: "Paquete java.util"
 layout: tag
 permalink: /Java/tag/java.util/
 date: 2020-12-29
-key: Javapaquetejava.util
+key: Java.quetejava.util
 sidebar: 
   nav: java
 aside: 

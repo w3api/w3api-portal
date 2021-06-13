@@ -3,7 +3,7 @@ title: "Paquete javax.sql.rowset.serial"
 layout: tag
 permalink: /Java/tag/javax.sql.rowset.serial/
 date: 2020-12-29
-key: Javapaquetejavax.sql.rowset.serial
+key: Java.quetejavax.sql.rowset.serial
 sidebar: 
   nav: java
 aside: 

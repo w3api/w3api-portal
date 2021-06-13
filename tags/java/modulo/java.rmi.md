@@ -3,7 +3,7 @@ title: "Módulo java.rmi"
 layout: tag
 permalink: /Java/tag/java.rmi/
 date: 2020-12-29
-key: Javamodulojava.rmi
+key: Java.dulojava.rmi
 sidebar: 
   nav: java
 aside: 

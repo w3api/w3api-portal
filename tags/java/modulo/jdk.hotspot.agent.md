@@ -3,7 +3,7 @@ title: "Módulo jdk.hotspot.agent"
 layout: tag
 permalink: /Java/tag/jdk.hotspot.agent/
 date: 2020-12-29
-key: Javamodulojdk.hotspot.agent
+key: Java.dulojdk.hotspot.agent
 sidebar: 
   nav: java
 aside: 

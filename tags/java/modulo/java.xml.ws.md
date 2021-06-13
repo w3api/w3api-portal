@@ -3,7 +3,7 @@ title: "Módulo java.xml.ws"
 layout: tag
 permalink: /Java/tag/java.xml.ws/
 date: 2020-12-29
-key: Javamodulojava.xml.ws
+key: Java.dulojava.xml.ws
 sidebar: 
   nav: java
 aside: 

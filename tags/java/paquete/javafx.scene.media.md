@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.media"
 layout: tag
 permalink: /Java/tag/javafx.scene.media/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.media
+key: Java.quetejavafx.scene.media
 sidebar: 
   nav: java
 aside: 

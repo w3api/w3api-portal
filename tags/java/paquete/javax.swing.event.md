@@ -3,7 +3,7 @@ title: "Paquete javax.swing.event"
 layout: tag
 permalink: /Java/tag/javax.swing.event/
 date: 2020-12-29
-key: Javapaquetejavax.swing.event
+key: Java.quetejavax.swing.event
 sidebar: 
   nav: java
 aside: 

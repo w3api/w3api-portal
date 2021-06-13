@@ -1,8 +1,8 @@
 ---
 title: AggregateError.AggregateError()
-permalink: Javascript/AggregateError/AggregateError
+permalink: /Javascript/AggregateError/AggregateError/
 date: 2021-01-11
-key: JavascriptJavascript.A.AggregateError
+key: Javascript.A.AggregateError
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

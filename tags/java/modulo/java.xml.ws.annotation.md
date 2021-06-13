@@ -3,7 +3,7 @@ title: "Módulo java.xml.ws.annotation"
 layout: tag
 permalink: /Java/tag/java.xml.ws.annotation/
 date: 2020-12-29
-key: Javamodulojava.xml.ws.annotation
+key: Java.dulojava.xml.ws.annotation
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.activation"
 layout: tag
 permalink: /Java/tag/java.activation/
 date: 2020-12-29
-key: Javamodulojava.activation
+key: Java.dulojava.activation
 sidebar: 
   nav: java
 aside: 

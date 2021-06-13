@@ -3,7 +3,7 @@ title: "Paquete jdk.dynalink.linker.support"
 layout: tag
 permalink: /Java/tag/jdk.dynalink.linker.support/
 date: 2020-12-29
-key: Javapaquetejdk.dynalink.linker.support
+key: Java.quetejdk.dynalink.linker.support
 sidebar: 
   nav: java
 aside: 

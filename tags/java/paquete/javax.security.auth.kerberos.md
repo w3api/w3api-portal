@@ -3,7 +3,7 @@ title: "Paquete javax.security.auth.kerberos"
 layout: tag
 permalink: /Java/tag/javax.security.auth.kerberos/
 date: 2020-12-29
-key: Javapaquetejavax.security.auth.kerberos
+key: Java.quetejavax.security.auth.kerberos
 sidebar: 
   nav: java
 aside: 

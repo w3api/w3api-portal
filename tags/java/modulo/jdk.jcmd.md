@@ -3,7 +3,7 @@ title: "Módulo jdk.jcmd"
 layout: tag
 permalink: /Java/tag/jdk.jcmd/
 date: 2020-12-29
-key: Javamodulojdk.jcmd
+key: Java.dulojdk.jcmd
 sidebar: 
   nav: java
 aside: 

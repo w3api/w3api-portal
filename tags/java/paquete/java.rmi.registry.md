@@ -3,7 +3,7 @@ title: "Paquete java.rmi.registry"
 layout: tag
 permalink: /Java/tag/java.rmi.registry/
 date: 2020-12-29
-key: Javapaquetejava.rmi.registry
+key: Java.quetejava.rmi.registry
 sidebar: 
   nav: java
 aside: 

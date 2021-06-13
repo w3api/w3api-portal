@@ -3,7 +3,7 @@ title: "Paquete java.lang.invoke"
 layout: tag
 permalink: /Java/tag/java.lang.invoke/
 date: 2020-12-29
-key: Javapaquetejava.lang.invoke
+key: Java.quetejava.lang.invoke
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javax.print.attribute.standard"
 layout: tag
 permalink: /Java/tag/javax.print.attribute.standard/
 date: 2020-12-29
-key: Javapaquetejavax.print.attribute.standard
+key: Java.quetejavax.print.attribute.standard
 sidebar: 
   nav: java
 aside: 

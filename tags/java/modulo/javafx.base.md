@@ -3,7 +3,7 @@ title: "Módulo javafx.base"
 layout: tag
 permalink: /Java/tag/javafx.base/
 date: 2020-12-29
-key: Javamodulojavafx.base
+key: Java.dulojavafx.base
 sidebar: 
   nav: java
 aside: 

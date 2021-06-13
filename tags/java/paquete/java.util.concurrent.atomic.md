@@ -3,7 +3,7 @@ title: "Paquete java.util.concurrent.atomic"
 layout: tag
 permalink: /Java/tag/java.util.concurrent.atomic/
 date: 2020-12-29
-key: Javapaquetejava.util.concurrent.atomic
+key: Java.quetejava.util.concurrent.atomic
 sidebar: 
   nav: java
 aside: 

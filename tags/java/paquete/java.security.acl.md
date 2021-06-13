@@ -3,7 +3,7 @@ title: "Paquete java.security.acl"
 layout: tag
 permalink: /Java/tag/java.security.acl/
 date: 2020-12-29
-key: Javapaquetejava.security.acl
+key: Java.quetejava.security.acl
 sidebar: 
   nav: java
 aside: 

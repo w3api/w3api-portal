@@ -3,7 +3,7 @@ title: "Módulo jdk.accessibility"
 layout: tag
 permalink: /Java/tag/jdk.accessibility/
 date: 2020-12-29
-key: Javamodulojdk.accessibility
+key: Java.dulojdk.accessibility
 sidebar: 
   nav: java
 aside: 

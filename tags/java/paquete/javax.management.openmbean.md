@@ -3,7 +3,7 @@ title: "Paquete javax.management.openmbean"
 layout: tag
 permalink: /Java/tag/javax.management.openmbean/
 date: 2020-12-29
-key: Javapaquetejavax.management.openmbean
+key: Java.quetejavax.management.openmbean
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete org.omg.CORBA.portable"
 layout: tag
 permalink: /Java/tag/org.omg.CORBA.portable/
 date: 2020-12-29
-key: Javapaqueteorg.omg.CORBA.portable
+key: Java.queteorg.omg.CORBA.portable
 sidebar: 
   nav: java
 aside: 

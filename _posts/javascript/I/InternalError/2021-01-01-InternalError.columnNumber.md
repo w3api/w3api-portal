@@ -1,8 +1,8 @@
 ---
 title: InternalError.columnNumber
-permalink: Javascript/InternalError/columnNumber
+permalink: /Javascript/InternalError/columnNumber/
 date: 2021-01-11
-key: JavascriptJavascript.I.InternalError
+key: Javascript.I.InternalError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

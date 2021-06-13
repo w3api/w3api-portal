@@ -3,7 +3,7 @@ title: "Paquete jdk.management.resource"
 layout: tag
 permalink: /Java/tag/jdk.management.resource/
 date: 2020-12-29
-key: Javapaquetejdk.management.resource
+key: Java.quetejdk.management.resource
 sidebar: 
   nav: java
 aside: 

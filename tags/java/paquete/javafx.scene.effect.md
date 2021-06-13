@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.effect"
 layout: tag
 permalink: /Java/tag/javafx.scene.effect/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.effect
+key: Java.quetejavafx.scene.effect
 sidebar: 
   nav: java
 aside: 

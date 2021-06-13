@@ -3,7 +3,7 @@ title: "Paquete com.sun.jdi.connect.spi"
 layout: tag
 permalink: /Java/tag/com.sun.jdi.connect.spi/
 date: 2020-12-29
-key: Javapaquetecom.sun.jdi.connect.spi
+key: Java.quetecom.sun.jdi.connect.spi
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo javafx.web"
 layout: tag
 permalink: /Java/tag/javafx.web/
 date: 2020-12-29
-key: Javamodulojavafx.web
+key: Java.dulojavafx.web
 sidebar: 
   nav: java
 aside: 

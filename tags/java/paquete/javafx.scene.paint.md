@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.paint"
 layout: tag
 permalink: /Java/tag/javafx.scene.paint/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.paint
+key: Java.quetejavafx.scene.paint
 sidebar: 
   nav: java
 aside: 

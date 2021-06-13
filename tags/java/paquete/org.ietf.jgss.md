@@ -3,7 +3,7 @@ title: "Paquete org.ietf.jgss"
 layout: tag
 permalink: /Java/tag/org.ietf.jgss/
 date: 2020-12-29
-key: Javapaqueteorg.ietf.jgss
+key: Java.queteorg.ietf.jgss
 sidebar: 
   nav: java
 aside: 

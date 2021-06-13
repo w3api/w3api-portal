@@ -3,7 +3,7 @@ title: "Paquete jdk.packager.services"
 layout: tag
 permalink: /Java/tag/jdk.packager.services/
 date: 2020-12-29
-key: Javapaquetejdk.packager.services
+key: Java.quetejdk.packager.services
 sidebar: 
   nav: java
 aside: 

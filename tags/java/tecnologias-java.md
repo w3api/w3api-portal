@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Tecnologías Java"
-permalink: /Java/tecnologias-java/
+permalink: /Java/tecnologias/-java/
 date: 2011-06-23T18:38:52+00:00
 key: TecnologiasJava
 show_date: false

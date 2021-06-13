@@ -1,8 +1,8 @@
 ---
 title: arguments
-permalink: Javascript/arguments
+permalink: /Javascript/arguments/
 date: 2021-01-11
-key: JavascriptJavascript.A.arguments
+key: Javascript.A.arguments
 category: javascript
 tags: ['funcion javascript']
 sidebar: 

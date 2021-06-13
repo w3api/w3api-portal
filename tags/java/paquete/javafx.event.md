@@ -3,7 +3,7 @@ title: "Paquete javafx.event"
 layout: tag
 permalink: /Java/tag/javafx.event/
 date: 2020-12-29
-key: Javapaquetejavafx.event
+key: Java.quetejavafx.event
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete java.awt.color"
 layout: tag
 permalink: /Java/tag/java.awt.color/
 date: 2020-12-29
-key: Javapaquetejava.awt.color
+key: Java.quetejava.awt.color
 sidebar: 
   nav: java
 aside: 

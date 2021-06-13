@@ -3,7 +3,7 @@ title: "Paquete javax.security.cert"
 layout: tag
 permalink: /Java/tag/javax.security.cert/
 date: 2020-12-29
-key: Javapaquetejavax.security.cert
+key: Java.quetejavax.security.cert
 sidebar: 
   nav: java
 aside: 

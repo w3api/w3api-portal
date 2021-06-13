@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Elementos Java"
-permalink: /Java/elementos-java/
+permalink: /Java/elementos/-java/
 date: 2011-06-23T18:38:52+00:00
 key: ElementosJava
 show_date: false

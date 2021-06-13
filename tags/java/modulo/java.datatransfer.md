@@ -3,7 +3,7 @@ title: "Módulo java.datatransfer"
 layout: tag
 permalink: /Java/tag/java.datatransfer/
 date: 2020-12-29
-key: Javamodulojava.datatransfer
+key: Java.dulojava.datatransfer
 sidebar: 
   nav: java
 aside: 

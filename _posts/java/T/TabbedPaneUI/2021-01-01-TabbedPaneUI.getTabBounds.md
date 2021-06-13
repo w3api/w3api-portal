@@ -1,8 +1,8 @@
 ---
 title: TabbedPaneUI.getTabBounds()
-permalink: Java/TabbedPaneUI/getTabBounds
+permalink: /Java/TabbedPaneUI/getTabBounds/
 date: 2021-01-11
-key: JavaJava.T.TabbedPaneUI
+key: Java.T.TabbedPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

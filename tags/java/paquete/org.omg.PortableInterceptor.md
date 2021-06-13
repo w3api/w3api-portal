@@ -3,7 +3,7 @@ title: "Paquete org.omg.PortableInterceptor"
 layout: tag
 permalink: /Java/tag/org.omg.PortableInterceptor/
 date: 2020-12-29
-key: Javapaqueteorg.omg.PortableInterceptor
+key: Java.queteorg.omg.PortableInterceptor
 sidebar: 
   nav: java
 aside: 

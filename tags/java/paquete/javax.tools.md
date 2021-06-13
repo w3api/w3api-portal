@@ -3,7 +3,7 @@ title: "Paquete javax.tools"
 layout: tag
 permalink: /Java/tag/javax.tools/
 date: 2020-12-29
-key: Javapaquetejavax.tools
+key: Java.quetejavax.tools
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete java.util.function"
 layout: tag
 permalink: /Java/tag/java.util.function/
 date: 2020-12-29
-key: Javapaquetejava.util.function
+key: Java.quetejava.util.function
 sidebar: 
   nav: java
 aside: 

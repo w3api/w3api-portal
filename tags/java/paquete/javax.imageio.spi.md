@@ -3,7 +3,7 @@ title: "Paquete javax.imageio.spi"
 layout: tag
 permalink: /Java/tag/javax.imageio.spi/
 date: 2020-12-29
-key: Javapaquetejavax.imageio.spi
+key: Java.quetejavax.imageio.spi
 sidebar: 
   nav: java
 aside: 

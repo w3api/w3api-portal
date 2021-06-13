@@ -3,7 +3,7 @@ title: "Paquete org.omg.IOP.CodecPackage"
 layout: tag
 permalink: /Java/tag/org.omg.IOP.CodecPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.IOP.CodecPackage
+key: Java.queteorg.omg.IOP.CodecPackage
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo jdk.xml.dom"
 layout: tag
 permalink: /Java/tag/jdk.xml.dom/
 date: 2020-12-29
-key: Javamodulojdk.xml.dom
+key: Java.dulojdk.xml.dom
 sidebar: 
   nav: java
 aside: 

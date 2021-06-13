@@ -3,7 +3,7 @@ title: "Paquete javax.security.auth.login"
 layout: tag
 permalink: /Java/tag/javax.security.auth.login/
 date: 2020-12-29
-key: Javapaquetejavax.security.auth.login
+key: Java.quetejavax.security.auth.login
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javax.xml.transform.dom"
 layout: tag
 permalink: /Java/tag/javax.xml.transform.dom/
 date: 2020-12-29
-key: Javapaquetejavax.xml.transform.dom
+key: Java.quetejavax.xml.transform.dom
 sidebar: 
   nav: java
 aside: 

@@ -1,8 +1,8 @@
 ---
 title: TabableView.getPartialSpan()
-permalink: Java/TabableView/getPartialSpan
+permalink: /Java/TabableView/getPartialSpan/
 date: 2021-01-11
-key: JavaJava.T.TabableView
+key: Java.T.TabableView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

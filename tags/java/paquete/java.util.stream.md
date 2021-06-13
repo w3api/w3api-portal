@@ -3,7 +3,7 @@ title: "Paquete java.util.stream"
 layout: tag
 permalink: /Java/tag/java.util.stream/
 date: 2020-12-29
-key: Javapaquetejava.util.stream
+key: Java.quetejava.util.stream
 sidebar: 
   nav: java
 aside: 

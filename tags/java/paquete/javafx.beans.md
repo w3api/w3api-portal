@@ -3,7 +3,7 @@ title: "Paquete javafx.beans"
 layout: tag
 permalink: /Java/tag/javafx.beans/
 date: 2020-12-29
-key: Javapaquetejavafx.beans
+key: Java.quetejavafx.beans
 sidebar: 
   nav: java
 aside: 

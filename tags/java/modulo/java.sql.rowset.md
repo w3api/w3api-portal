@@ -3,7 +3,7 @@ title: "Módulo java.sql.rowset"
 layout: tag
 permalink: /Java/tag/java.sql.rowset/
 date: 2020-12-29
-key: Javamodulojava.sql.rowset
+key: Java.dulojava.sql.rowset
 sidebar: 
   nav: java
 aside: 

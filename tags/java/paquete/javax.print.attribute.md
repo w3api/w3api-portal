@@ -3,7 +3,7 @@ title: "Paquete javax.print.attribute"
 layout: tag
 permalink: /Java/tag/javax.print.attribute/
 date: 2020-12-29
-key: Javapaquetejavax.print.attribute
+key: Java.quetejavax.print.attribute
 sidebar: 
   nav: java
 aside: 

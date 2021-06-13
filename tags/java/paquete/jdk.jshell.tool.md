@@ -3,7 +3,7 @@ title: "Paquete jdk.jshell.tool"
 layout: tag
 permalink: /Java/tag/jdk.jshell.tool/
 date: 2020-12-29
-key: Javapaquetejdk.jshell.tool
+key: Java.quetejdk.jshell.tool
 sidebar: 
   nav: java
 aside: 

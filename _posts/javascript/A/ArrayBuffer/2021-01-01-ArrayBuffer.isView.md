@@ -1,8 +1,8 @@
 ---
 title: ArrayBuffer.isView()
-permalink: Javascript/ArrayBuffer/isView
+permalink: /Javascript/ArrayBuffer/isView/
 date: 2021-01-11
-key: JavascriptJavascript.A.ArrayBuffer
+key: Javascript.A.ArrayBuffer
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

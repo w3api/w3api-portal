@@ -3,7 +3,7 @@ title: "Paquete javax.crypto.spec"
 layout: tag
 permalink: /Java/tag/javax.crypto.spec/
 date: 2020-12-29
-key: Javapaquetejavax.crypto.spec
+key: Java.quetejavax.crypto.spec
 sidebar: 
   nav: java
 aside: 

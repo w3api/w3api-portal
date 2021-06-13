@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "JAX-WS 2.2"
-permalink: /Java/tag/jax-ws-2.2/
+permalink: /Java/tag/jax/-ws-2.2/
 date: 2011-06-23T18:38:52+00:00
 key: Jax-ws-2.2
 show_date: false

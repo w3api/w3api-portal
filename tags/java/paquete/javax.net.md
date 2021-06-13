@@ -3,7 +3,7 @@ title: "Paquete javax.net"
 layout: tag
 permalink: /Java/tag/javax.net/
 date: 2020-12-29
-key: Javapaquetejavax.net
+key: Java.quetejavax.net
 sidebar: 
   nav: java
 aside: 

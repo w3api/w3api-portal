@@ -3,7 +3,7 @@ title: "Módulo java.se"
 layout: tag
 permalink: /Java/tag/java.se/
 date: 2020-12-29
-key: Javamodulojava.se
+key: Java.dulojava.se
 sidebar: 
   nav: java
 aside: 

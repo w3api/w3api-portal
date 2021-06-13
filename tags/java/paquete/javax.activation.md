@@ -3,7 +3,7 @@ title: "Paquete javax.activation"
 layout: tag
 permalink: /Java/tag/javax.activation/
 date: 2020-12-29
-key: Javapaquetejavax.activation
+key: Java.quetejavax.activation
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javax.management"
 layout: tag
 permalink: /Java/tag/javax.management/
 date: 2020-12-29
-key: Javapaquetejavax.management
+key: Java.quetejavax.management
 sidebar: 
   nav: java
 aside: 

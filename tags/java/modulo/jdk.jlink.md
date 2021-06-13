@@ -3,7 +3,7 @@ title: "Módulo jdk.jlink"
 layout: tag
 permalink: /Java/tag/jdk.jlink/
 date: 2020-12-29
-key: Javamodulojdk.jlink
+key: Java.dulojdk.jlink
 sidebar: 
   nav: java
 aside: 

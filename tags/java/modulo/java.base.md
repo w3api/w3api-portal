@@ -3,7 +3,7 @@ title: "Módulo java.base"
 layout: tag
 permalink: /Java/tag/java.base/
 date: 2020-12-29
-key: Javamodulojava.base
+key: Java.dulojava.base
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.instrument"
 layout: tag
 permalink: /Java/tag/java.instrument/
 date: 2020-12-29
-key: Javamodulojava.instrument
+key: Java.dulojava.instrument
 sidebar: 
   nav: java
 aside: 

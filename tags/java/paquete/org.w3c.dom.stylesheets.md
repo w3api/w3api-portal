@@ -1,9 +1,9 @@
 ---
 title: "Paquete org.w3c.dom.stylesheets"
 layout: tag
-permalink: /Java/tag/org.w3c.dom.stylesheets/
+permalink: /Java/tag/org.w/3c.dom.stylesheets/
 date: 2020-12-29
-key: Javapaqueteorg.w3c.dom.stylesheets
+key: Java.queteorg.w3c.dom.stylesheets
 sidebar: 
   nav: java
 aside: 

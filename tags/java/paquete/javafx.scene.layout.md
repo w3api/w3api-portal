@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.layout"
 layout: tag
 permalink: /Java/tag/javafx.scene.layout/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.layout
+key: Java.quetejavafx.scene.layout
 sidebar: 
   nav: java
 aside: 

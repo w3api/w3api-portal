@@ -3,7 +3,7 @@ title: "Paquete java.rmi"
 layout: tag
 permalink: /Java/tag/java.rmi/
 date: 2020-12-29
-key: Javapaquetejava.rmi
+key: Java.quetejava.rmi
 sidebar: 
   nav: java
 aside: 

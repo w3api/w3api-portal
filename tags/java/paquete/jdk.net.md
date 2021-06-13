@@ -3,7 +3,7 @@ title: "Paquete jdk.net"
 layout: tag
 permalink: /Java/tag/jdk.net/
 date: 2020-12-29
-key: Javapaquetejdk.net
+key: Java.quetejdk.net
 sidebar: 
   nav: java
 aside: 

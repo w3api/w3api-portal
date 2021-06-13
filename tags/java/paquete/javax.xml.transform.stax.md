@@ -3,7 +3,7 @@ title: "Paquete javax.xml.transform.stax"
 layout: tag
 permalink: /Java/tag/javax.xml.transform.stax/
 date: 2020-12-29
-key: Javapaquetejavax.xml.transform.stax
+key: Java.quetejavax.xml.transform.stax
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.logging"
 layout: tag
 permalink: /Java/tag/java.logging/
 date: 2020-12-29
-key: Javamodulojava.logging
+key: Java.dulojava.logging
 sidebar: 
   nav: java
 aside: 

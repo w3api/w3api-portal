@@ -3,7 +3,7 @@ title: "Paquete javax.xml.crypto.dsig.dom"
 layout: tag
 permalink: /Java/tag/javax.xml.crypto.dsig.dom/
 date: 2020-12-29
-key: Javapaquetejavax.xml.crypto.dsig.dom
+key: Java.quetejavax.xml.crypto.dsig.dom
 sidebar: 
   nav: java
 aside: 

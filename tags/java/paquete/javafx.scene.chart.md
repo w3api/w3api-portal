@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.chart"
 layout: tag
 permalink: /Java/tag/javafx.scene.chart/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.chart
+key: Java.quetejavafx.scene.chart
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete java.net.spi"
 layout: tag
 permalink: /Java/tag/java.net.spi/
 date: 2020-12-29
-key: Javapaquetejava.net.spi
+key: Java.quetejava.net.spi
 sidebar: 
   nav: java
 aside: 

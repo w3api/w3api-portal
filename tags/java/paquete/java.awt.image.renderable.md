@@ -3,7 +3,7 @@ title: "Paquete java.awt.image.renderable"
 layout: tag
 permalink: /Java/tag/java.awt.image.renderable/
 date: 2020-12-29
-key: Javapaquetejava.awt.image.renderable
+key: Java.quetejava.awt.image.renderable
 sidebar: 
   nav: java
 aside: 

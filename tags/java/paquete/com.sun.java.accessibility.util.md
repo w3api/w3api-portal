@@ -3,7 +3,7 @@ title: "Paquete com.sun.java.accessibility.util"
 layout: tag
 permalink: /Java/tag/com.sun.java.accessibility.util/
 date: 2020-12-29
-key: Javapaquetecom.sun.java.accessibility.util
+key: Java.quetecom.sun.java.accessibility.util
 sidebar: 
   nav: java
 aside: 

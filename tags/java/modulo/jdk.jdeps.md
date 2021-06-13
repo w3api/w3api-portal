@@ -3,7 +3,7 @@ title: "Módulo jdk.jdeps"
 layout: tag
 permalink: /Java/tag/jdk.jdeps/
 date: 2020-12-29
-key: Javamodulojdk.jdeps
+key: Java.dulojdk.jdeps
 sidebar: 
   nav: java
 aside: 

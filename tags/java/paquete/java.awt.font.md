@@ -3,7 +3,7 @@ title: "Paquete java.awt.font"
 layout: tag
 permalink: /Java/tag/java.awt.font/
 date: 2020-12-29
-key: Javapaquetejava.awt.font
+key: Java.quetejava.awt.font
 sidebar: 
   nav: java
 aside: 

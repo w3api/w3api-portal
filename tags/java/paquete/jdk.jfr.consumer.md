@@ -3,7 +3,7 @@ title: "Paquete jdk.jfr.consumer"
 layout: tag
 permalink: /Java/tag/jdk.jfr.consumer/
 date: 2020-12-29
-key: Javapaquetejdk.jfr.consumer
+key: Java.quetejdk.jfr.consumer
 sidebar: 
   nav: java
 aside: 

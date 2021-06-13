@@ -3,7 +3,7 @@ title: "Paquete org.xml.sax.helpers"
 layout: tag
 permalink: /Java/tag/org.xml.sax.helpers/
 date: 2020-12-29
-key: Javapaqueteorg.xml.sax.helpers
+key: Java.queteorg.xml.sax.helpers
 sidebar: 
   nav: java
 aside: 

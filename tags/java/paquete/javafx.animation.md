@@ -3,7 +3,7 @@ title: "Paquete javafx.animation"
 layout: tag
 permalink: /Java/tag/javafx.animation/
 date: 2020-12-29
-key: Javapaquetejavafx.animation
+key: Java.quetejavafx.animation
 sidebar: 
   nav: java
 aside: 

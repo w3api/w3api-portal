@@ -3,7 +3,7 @@ title: "Paquete jdk.dynalink.beans"
 layout: tag
 permalink: /Java/tag/jdk.dynalink.beans/
 date: 2020-12-29
-key: Javapaquetejdk.dynalink.beans
+key: Java.quetejdk.dynalink.beans
 sidebar: 
   nav: java
 aside: 

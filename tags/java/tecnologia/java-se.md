@@ -1,6 +1,6 @@
 ---
 title: Java SE
-permalink: /Java/tag/java-se/
+permalink: /Java/tag/java/-se/
 key: javase
 layout: tag 
 sidebar:

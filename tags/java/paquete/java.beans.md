@@ -3,7 +3,7 @@ title: "Paquete java.beans"
 layout: tag
 permalink: /Java/tag/java.beans/
 date: 2020-12-29
-key: Javapaquetejava.beans
+key: Java.quetejava.beans
 sidebar: 
   nav: java
 aside: 

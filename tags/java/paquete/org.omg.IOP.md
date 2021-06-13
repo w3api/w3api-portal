@@ -3,7 +3,7 @@ title: "Paquete org.omg.IOP"
 layout: tag
 permalink: /Java/tag/org.omg.IOP/
 date: 2020-12-29
-key: Javapaqueteorg.omg.IOP
+key: Java.queteorg.omg.IOP
 sidebar: 
   nav: java
 aside: 

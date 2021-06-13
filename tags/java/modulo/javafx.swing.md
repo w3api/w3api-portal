@@ -3,7 +3,7 @@ title: "Módulo javafx.swing"
 layout: tag
 permalink: /Java/tag/javafx.swing/
 date: 2020-12-29
-key: Javamodulojavafx.swing
+key: Java.dulojavafx.swing
 sidebar: 
   nav: java
 aside: 

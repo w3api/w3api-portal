@@ -3,7 +3,7 @@ title: "Módulo java.jnlp"
 layout: tag
 permalink: /Java/tag/java.jnlp/
 date: 2020-12-29
-key: Javamodulojava.jnlp
+key: Java.dulojava.jnlp
 sidebar: 
   nav: java
 aside: 

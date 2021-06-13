@@ -3,7 +3,7 @@ title: "Paquete java.math"
 layout: tag
 permalink: /Java/tag/java.math/
 date: 2020-12-29
-key: Javapaquetejava.math
+key: Java.quetejava.math
 sidebar: 
   nav: java
 aside: 

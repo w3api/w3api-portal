@@ -3,7 +3,7 @@ title: "Módulo jdk.jstatd"
 layout: tag
 permalink: /Java/tag/jdk.jstatd/
 date: 2020-12-29
-key: Javamodulojdk.jstatd
+key: Java.dulojdk.jstatd
 sidebar: 
   nav: java
 aside: 

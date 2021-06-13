@@ -3,7 +3,7 @@ title: "Módulo jdk.editpad"
 layout: tag
 permalink: /Java/tag/jdk.editpad/
 date: 2020-12-29
-key: Javamodulojdk.editpad
+key: Java.dulojdk.editpad
 sidebar: 
   nav: java
 aside: 

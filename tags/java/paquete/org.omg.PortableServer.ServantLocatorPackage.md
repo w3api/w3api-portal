@@ -3,7 +3,7 @@ title: "Paquete org.omg.PortableServer.ServantLocatorPackage"
 layout: tag
 permalink: /Java/tag/org.omg.PortableServer.ServantLocatorPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.PortableServer.ServantLocatorPackage
+key: Java.queteorg.omg.PortableServer.ServantLocatorPackage
 sidebar: 
   nav: java
 aside: 

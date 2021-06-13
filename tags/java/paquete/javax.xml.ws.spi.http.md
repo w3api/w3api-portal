@@ -3,7 +3,7 @@ title: "Paquete javax.xml.ws.spi.http"
 layout: tag
 permalink: /Java/tag/javax.xml.ws.spi.http/
 date: 2020-12-29
-key: Javapaquetejavax.xml.ws.spi.http
+key: Java.quetejavax.xml.ws.spi.http
 sidebar: 
   nav: java
 aside: 

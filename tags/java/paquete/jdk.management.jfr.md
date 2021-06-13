@@ -3,7 +3,7 @@ title: "Paquete jdk.management.jfr"
 layout: tag
 permalink: /Java/tag/jdk.management.jfr/
 date: 2020-12-29
-key: Javapaquetejdk.management.jfr
+key: Java.quetejdk.management.jfr
 sidebar: 
   nav: java
 aside: 

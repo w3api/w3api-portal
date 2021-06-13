@@ -3,7 +3,7 @@ title: "Paquete javax.net.ssl"
 layout: tag
 permalink: /Java/tag/javax.net.ssl/
 date: 2020-12-29
-key: Javapaquetejavax.net.ssl
+key: Java.quetejavax.net.ssl
 sidebar: 
   nav: java
 aside: 

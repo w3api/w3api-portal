@@ -1,8 +1,8 @@
 ---
 title: ArrayBuffer.byteLength
-permalink: Javascript/ArrayBuffer/byteLength
+permalink: /Javascript/ArrayBuffer/byteLength/
 date: 2021-01-11
-key: JavascriptJavascript.A.ArrayBuffer
+key: Javascript.A.ArrayBuffer
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

@@ -3,7 +3,7 @@ title: "Paquete java.lang.reflect"
 layout: tag
 permalink: /Java/tag/java.lang.reflect/
 date: 2020-12-29
-key: Javapaquetejava.lang.reflect
+key: Java.quetejava.lang.reflect
 sidebar: 
   nav: java
 aside: 

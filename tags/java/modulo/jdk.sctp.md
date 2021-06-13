@@ -3,7 +3,7 @@ title: "Módulo jdk.sctp"
 layout: tag
 permalink: /Java/tag/jdk.sctp/
 date: 2020-12-29
-key: Javamodulojdk.sctp
+key: Java.dulojdk.sctp
 sidebar: 
   nav: java
 aside: 

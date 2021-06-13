@@ -3,7 +3,7 @@ title: "Paquete org.omg.Messaging"
 layout: tag
 permalink: /Java/tag/org.omg.Messaging/
 date: 2020-12-29
-key: Javapaqueteorg.omg.Messaging
+key: Java.queteorg.omg.Messaging
 sidebar: 
   nav: java
 aside: 

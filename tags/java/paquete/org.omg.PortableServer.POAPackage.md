@@ -3,7 +3,7 @@ title: "Paquete org.omg.PortableServer.POAPackage"
 layout: tag
 permalink: /Java/tag/org.omg.PortableServer.POAPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.PortableServer.POAPackage
+key: Java.queteorg.omg.PortableServer.POAPackage
 sidebar: 
   nav: java
 aside: 

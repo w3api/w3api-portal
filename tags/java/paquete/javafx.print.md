@@ -3,7 +3,7 @@ title: "Paquete javafx.print"
 layout: tag
 permalink: /Java/tag/javafx.print/
 date: 2020-12-29
-key: Javapaquetejavafx.print
+key: Java.quetejavafx.print
 sidebar: 
   nav: java
 aside: 

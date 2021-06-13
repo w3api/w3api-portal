@@ -3,7 +3,7 @@ title: "Paquete javax.sql"
 layout: tag
 permalink: /Java/tag/javax.sql/
 date: 2020-12-29
-key: Javapaquetejavax.sql
+key: Java.quetejavax.sql
 sidebar: 
   nav: java
 aside: 

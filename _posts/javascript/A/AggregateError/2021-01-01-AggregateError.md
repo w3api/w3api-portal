@@ -1,8 +1,8 @@
 ---
 title: AggregateError
-permalink: Javascript/AggregateError
+permalink: /Javascript/AggregateError/
 date: 2021-01-11
-key: JavascriptJavascript.A.AggregateError
+key: Javascript.A.AggregateError
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

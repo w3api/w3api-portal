@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Anotación Java"
-permalink: /Java/tag/anotacion-java/
+permalink: /Java/tag/anotacion/-java/
 date: 2011-06-23T18:38:52+00:00
 key: AnotacionJava
 show_date: false

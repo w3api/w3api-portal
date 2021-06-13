@@ -3,7 +3,7 @@ title: "Paquete jdk.management.cmm"
 layout: tag
 permalink: /Java/tag/jdk.management.cmm/
 date: 2020-12-29
-key: Javapaquetejdk.management.cmm
+key: Java.quetejdk.management.cmm
 sidebar: 
   nav: java
 aside: 

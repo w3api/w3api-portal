@@ -3,7 +3,7 @@ title: "Paquete com.sun.security.auth.login"
 layout: tag
 permalink: /Java/tag/com.sun.security.auth.login/
 date: 2020-12-29
-key: Javapaquetecom.sun.security.auth.login
+key: Java.quetecom.sun.security.auth.login
 sidebar: 
   nav: java
 aside: 

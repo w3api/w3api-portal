@@ -3,7 +3,7 @@ title: "Paquete javafx.collections"
 layout: tag
 permalink: /Java/tag/javafx.collections/
 date: 2020-12-29
-key: Javapaquetejavafx.collections
+key: Java.quetejavafx.collections
 sidebar: 
   nav: java
 aside: 

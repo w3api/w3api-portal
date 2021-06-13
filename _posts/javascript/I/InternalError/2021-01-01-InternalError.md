@@ -1,8 +1,8 @@
 ---
 title: InternalError
-permalink: Javascript/InternalError
+permalink: /Javascript/InternalError/
 date: 2021-01-11
-key: JavascriptJavascript.I.InternalError
+key: Javascript.I.InternalError
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

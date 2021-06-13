@@ -3,7 +3,7 @@ title: "Paquete java.lang.annotation"
 layout: tag
 permalink: /Java/tag/java.lang.annotation/
 date: 2020-12-29
-key: Javapaquetejava.lang.annotation
+key: Java.quetejava.lang.annotation
 sidebar: 
   nav: java
 aside: 

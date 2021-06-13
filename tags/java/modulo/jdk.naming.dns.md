@@ -3,7 +3,7 @@ title: "Módulo jdk.naming.dns"
 layout: tag
 permalink: /Java/tag/jdk.naming.dns/
 date: 2020-12-29
-key: Javamodulojdk.naming.dns
+key: Java.dulojdk.naming.dns
 sidebar: 
   nav: java
 aside: 

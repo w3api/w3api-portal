@@ -3,7 +3,7 @@ title: "Paquete javax.xml.ws"
 layout: tag
 permalink: /Java/tag/javax.xml.ws/
 date: 2020-12-29
-key: Javapaquetejavax.xml.ws
+key: Java.quetejavax.xml.ws
 sidebar: 
   nav: java
 aside: 

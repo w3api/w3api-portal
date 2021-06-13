@@ -3,7 +3,7 @@ title: "Paquete javax.swing.text.html"
 layout: tag
 permalink: /Java/tag/javax.swing.text.html/
 date: 2020-12-29
-key: Javapaquetejavax.swing.text.html
+key: Java.quetejavax.swing.text.html
 sidebar: 
   nav: java
 aside: 

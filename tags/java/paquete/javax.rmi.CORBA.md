@@ -3,7 +3,7 @@ title: "Paquete javax.rmi.CORBA"
 layout: tag
 permalink: /Java/tag/javax.rmi.CORBA/
 date: 2020-12-29
-key: Javapaquetejavax.rmi.CORBA
+key: Java.quetejavax.rmi.CORBA
 sidebar: 
   nav: java
 aside: 

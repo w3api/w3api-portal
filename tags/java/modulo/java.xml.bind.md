@@ -3,7 +3,7 @@ title: "Módulo java.xml.bind"
 layout: tag
 permalink: /Java/tag/java.xml.bind/
 date: 2020-12-29
-key: Javamodulojava.xml.bind
+key: Java.dulojava.xml.bind
 sidebar: 
   nav: java
 aside: 

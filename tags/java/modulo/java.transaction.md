@@ -3,7 +3,7 @@ title: "Módulo java.transaction"
 layout: tag
 permalink: /Java/tag/java.transaction/
 date: 2020-12-29
-key: Javamodulojava.transaction
+key: Java.dulojava.transaction
 sidebar: 
   nav: java
 aside: 

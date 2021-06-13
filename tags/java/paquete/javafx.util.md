@@ -3,7 +3,7 @@ title: "Paquete javafx.util"
 layout: tag
 permalink: /Java/tag/javafx.util/
 date: 2020-12-29
-key: Javapaquetejavafx.util
+key: Java.quetejavafx.util
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.management"
 layout: tag
 permalink: /Java/tag/java.management/
 date: 2020-12-29
-key: Javamodulojava.management
+key: Java.dulojava.management
 sidebar: 
   nav: java
 aside: 

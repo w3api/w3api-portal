@@ -3,7 +3,7 @@ title: "Paquete com.sun.tools.attach"
 layout: tag
 permalink: /Java/tag/com.sun.tools.attach/
 date: 2020-12-29
-key: Javapaquetecom.sun.tools.attach
+key: Java.quetecom.sun.tools.attach
 sidebar: 
   nav: java
 aside: 

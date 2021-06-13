@@ -3,7 +3,7 @@ title: "Paquete javafx.scene.control.skin"
 layout: tag
 permalink: /Java/tag/javafx.scene.control.skin/
 date: 2020-12-29
-key: Javapaquetejavafx.scene.control.skin
+key: Java.quetejavafx.scene.control.skin
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.scripting"
 layout: tag
 permalink: /Java/tag/java.scripting/
 date: 2020-12-29
-key: Javamodulojava.scripting
+key: Java.dulojava.scripting
 sidebar: 
   nav: java
 aside: 

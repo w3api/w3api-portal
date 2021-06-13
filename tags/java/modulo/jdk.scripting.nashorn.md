@@ -3,7 +3,7 @@ title: "Módulo jdk.scripting.nashorn"
 layout: tag
 permalink: /Java/tag/jdk.scripting.nashorn/
 date: 2020-12-29
-key: Javamodulojdk.scripting.nashorn
+key: Java.dulojdk.scripting.nashorn
 sidebar: 
   nav: java
 aside: 

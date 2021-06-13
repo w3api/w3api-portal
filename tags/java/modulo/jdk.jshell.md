@@ -3,7 +3,7 @@ title: "Módulo jdk.jshell"
 layout: tag
 permalink: /Java/tag/jdk.jshell/
 date: 2020-12-29
-key: Javamodulojdk.jshell
+key: Java.dulojdk.jshell
 sidebar: 
   nav: java
 aside: 

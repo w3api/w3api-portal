@@ -3,7 +3,7 @@ title: "Módulo jdk.pack"
 layout: tag
 permalink: /Java/tag/jdk.pack/
 date: 2020-12-29
-key: Javamodulojdk.pack
+key: Java.dulojdk.pack
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.corba"
 layout: tag
 permalink: /Java/tag/java.corba/
 date: 2020-12-29
-key: Javamodulojava.corba
+key: Java.dulojava.corba
 sidebar: 
   nav: java
 aside: 

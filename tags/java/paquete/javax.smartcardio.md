@@ -3,7 +3,7 @@ title: "Paquete javax.smartcardio"
 layout: tag
 permalink: /Java/tag/javax.smartcardio/
 date: 2020-12-29
-key: Javapaquetejavax.smartcardio
+key: Java.quetejavax.smartcardio
 sidebar: 
   nav: java
 aside: 

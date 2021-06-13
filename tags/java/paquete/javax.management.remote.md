@@ -3,7 +3,7 @@ title: "Paquete javax.management.remote"
 layout: tag
 permalink: /Java/tag/javax.management.remote/
 date: 2020-12-29
-key: Javapaquetejavax.management.remote
+key: Java.quetejavax.management.remote
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo jdk.packager.services"
 layout: tag
 permalink: /Java/tag/jdk.packager.services/
 date: 2020-12-29
-key: Javamodulojdk.packager.services
+key: Java.dulojdk.packager.services
 sidebar: 
   nav: java
 aside: 

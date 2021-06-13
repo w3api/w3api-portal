@@ -3,7 +3,7 @@ title: "Paquete java.lang.module"
 layout: tag
 permalink: /Java/tag/java.lang.module/
 date: 2020-12-29
-key: Javapaquetejava.lang.module
+key: Java.quetejava.lang.module
 sidebar: 
   nav: java
 aside: 

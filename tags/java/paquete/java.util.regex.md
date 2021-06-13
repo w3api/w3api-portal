@@ -3,7 +3,7 @@ title: "Paquete java.util.regex"
 layout: tag
 permalink: /Java/tag/java.util.regex/
 date: 2020-12-29
-key: Javapaquetejava.util.regex
+key: Java.quetejava.util.regex
 sidebar: 
   nav: java
 aside: 

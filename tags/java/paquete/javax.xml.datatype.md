@@ -3,7 +3,7 @@ title: "Paquete javax.xml.datatype"
 layout: tag
 permalink: /Java/tag/javax.xml.datatype/
 date: 2020-12-29
-key: Javapaquetejavax.xml.datatype
+key: Java.quetejavax.xml.datatype
 sidebar: 
   nav: java
 aside: 

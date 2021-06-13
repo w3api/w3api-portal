@@ -3,7 +3,7 @@ title: "Módulo jdk.attach"
 layout: tag
 permalink: /Java/tag/jdk.attach/
 date: 2020-12-29
-key: Javamodulojdk.attach
+key: Java.dulojdk.attach
 sidebar: 
   nav: java
 aside: 

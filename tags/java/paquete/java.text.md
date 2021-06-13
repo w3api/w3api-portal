@@ -3,7 +3,7 @@ title: "Paquete java.text"
 layout: tag
 permalink: /Java/tag/java.text/
 date: 2020-12-29
-key: Javapaquetejava.text
+key: Java.quetejava.text
 sidebar: 
   nav: java
 aside: 

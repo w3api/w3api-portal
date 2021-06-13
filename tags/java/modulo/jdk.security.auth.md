@@ -3,7 +3,7 @@ title: "Módulo jdk.security.auth"
 layout: tag
 permalink: /Java/tag/jdk.security.auth/
 date: 2020-12-29
-key: Javamodulojdk.security.auth
+key: Java.dulojdk.security.auth
 sidebar: 
   nav: java
 aside: 

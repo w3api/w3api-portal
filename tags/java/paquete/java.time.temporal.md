@@ -3,7 +3,7 @@ title: "Paquete java.time.temporal"
 layout: tag
 permalink: /Java/tag/java.time.temporal/
 date: 2020-12-29
-key: Javapaquetejava.time.temporal
+key: Java.quetejava.time.temporal
 sidebar: 
   nav: java
 aside: 

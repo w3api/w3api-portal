@@ -3,7 +3,7 @@ title: "Paquete javax.swing.border"
 layout: tag
 permalink: /Java/tag/javax.swing.border/
 date: 2020-12-29
-key: Javapaquetejavax.swing.border
+key: Java.quetejavax.swing.border
 sidebar: 
   nav: java
 aside: 

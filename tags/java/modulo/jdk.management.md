@@ -3,7 +3,7 @@ title: "Módulo jdk.management"
 layout: tag
 permalink: /Java/tag/jdk.management/
 date: 2020-12-29
-key: Javamodulojdk.management
+key: Java.dulojdk.management
 sidebar: 
   nav: java
 aside: 

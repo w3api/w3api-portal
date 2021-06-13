@@ -3,7 +3,7 @@ title: "Paquete javax.xml.transform.stream"
 layout: tag
 permalink: /Java/tag/javax.xml.transform.stream/
 date: 2020-12-29
-key: Javapaquetejavax.xml.transform.stream
+key: Java.quetejavax.xml.transform.stream
 sidebar: 
   nav: java
 aside: 

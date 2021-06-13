@@ -3,7 +3,7 @@ title: "Módulo java.naming"
 layout: tag
 permalink: /Java/tag/java.naming/
 date: 2020-12-29
-key: Javamodulojava.naming
+key: Java.dulojava.naming
 sidebar: 
   nav: java
 aside: 

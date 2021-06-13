@@ -1,8 +1,8 @@
 ---
 title: ArrayBuffer.slice()
-permalink: Javascript/ArrayBuffer/slice
+permalink: /Javascript/ArrayBuffer/slice/
 date: 2021-01-11
-key: JavascriptJavascript.A.ArrayBuffer
+key: Javascript.A.ArrayBuffer
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

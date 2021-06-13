@@ -3,7 +3,7 @@ title: "Paquete javax.sql.rowset.spi"
 layout: tag
 permalink: /Java/tag/javax.sql.rowset.spi/
 date: 2020-12-29
-key: Javapaquetejavax.sql.rowset.spi
+key: Java.quetejavax.sql.rowset.spi
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo java.sql"
 layout: tag
 permalink: /Java/tag/java.sql/
 date: 2020-12-29
-key: Javamodulojava.sql
+key: Java.dulojava.sql
 sidebar: 
   nav: java
 aside: 

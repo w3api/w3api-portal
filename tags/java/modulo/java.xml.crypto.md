@@ -3,7 +3,7 @@ title: "Módulo java.xml.crypto"
 layout: tag
 permalink: /Java/tag/java.xml.crypto/
 date: 2020-12-29
-key: Javamodulojava.xml.crypto
+key: Java.dulojava.xml.crypto
 sidebar: 
   nav: java
 aside: 

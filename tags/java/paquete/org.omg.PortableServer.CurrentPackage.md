@@ -3,7 +3,7 @@ title: "Paquete org.omg.PortableServer.CurrentPackage"
 layout: tag
 permalink: /Java/tag/org.omg.PortableServer.CurrentPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.PortableServer.CurrentPackage
+key: Java.queteorg.omg.PortableServer.CurrentPackage
 sidebar: 
   nav: java
 aside: 

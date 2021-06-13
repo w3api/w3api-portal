@@ -3,7 +3,7 @@ title: "Paquete java.rmi.dgc"
 layout: tag
 permalink: /Java/tag/java.rmi.dgc/
 date: 2020-12-29
-key: Javapaquetejava.rmi.dgc
+key: Java.quetejava.rmi.dgc
 sidebar: 
   nav: java
 aside: 

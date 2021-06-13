@@ -3,7 +3,7 @@ title: "Módulo jdk.security.jgss"
 layout: tag
 permalink: /Java/tag/jdk.security.jgss/
 date: 2020-12-29
-key: Javamodulojdk.security.jgss
+key: Java.dulojdk.security.jgss
 sidebar: 
   nav: java
 aside: 

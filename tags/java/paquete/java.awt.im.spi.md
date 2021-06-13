@@ -3,7 +3,7 @@ title: "Paquete java.awt.im.spi"
 layout: tag
 permalink: /Java/tag/java.awt.im.spi/
 date: 2020-12-29
-key: Javapaquetejava.awt.im.spi
+key: Java.quetejava.awt.im.spi
 sidebar: 
   nav: java
 aside: 

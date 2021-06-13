@@ -3,7 +3,7 @@ title: "Módulo jdk.jdi"
 layout: tag
 permalink: /Java/tag/jdk.jdi/
 date: 2020-12-29
-key: Javamodulojdk.jdi
+key: Java.dulojdk.jdi
 sidebar: 
   nav: java
 aside: 

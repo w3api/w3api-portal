@@ -3,7 +3,7 @@ title: "Paquete javax.management.modelmbean"
 layout: tag
 permalink: /Java/tag/javax.management.modelmbean/
 date: 2020-12-29
-key: Javapaquetejavax.management.modelmbean
+key: Java.quetejavax.management.modelmbean
 sidebar: 
   nav: java
 aside: 

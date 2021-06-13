@@ -3,7 +3,7 @@ title: "Módulo javafx.graphics"
 layout: tag
 permalink: /Java/tag/javafx.graphics/
 date: 2020-12-29
-key: Javamodulojavafx.graphics
+key: Java.dulojavafx.graphics
 sidebar: 
   nav: java
 aside: 

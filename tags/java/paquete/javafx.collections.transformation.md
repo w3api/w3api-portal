@@ -3,7 +3,7 @@ title: "Paquete javafx.collections.transformation"
 layout: tag
 permalink: /Java/tag/javafx.collections.transformation/
 date: 2020-12-29
-key: Javapaquetejavafx.collections.transformation
+key: Java.quetejavafx.collections.transformation
 sidebar: 
   nav: java
 aside: 

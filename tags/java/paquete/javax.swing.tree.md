@@ -3,7 +3,7 @@ title: "Paquete javax.swing.tree"
 layout: tag
 permalink: /Java/tag/javax.swing.tree/
 date: 2020-12-29
-key: Javapaquetejavax.swing.tree
+key: Java.quetejavax.swing.tree
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javax.xml.bind.attachment"
 layout: tag
 permalink: /Java/tag/javax.xml.bind.attachment/
 date: 2020-12-29
-key: Javapaquetejavax.xml.bind.attachment
+key: Java.quetejavax.xml.bind.attachment
 sidebar: 
   nav: java
 aside: 

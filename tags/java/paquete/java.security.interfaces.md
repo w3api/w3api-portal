@@ -3,7 +3,7 @@ title: "Paquete java.security.interfaces"
 layout: tag
 permalink: /Java/tag/java.security.interfaces/
 date: 2020-12-29
-key: Javapaquetejava.security.interfaces
+key: Java.quetejava.security.interfaces
 sidebar: 
   nav: java
 aside: 

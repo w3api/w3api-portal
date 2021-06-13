@@ -3,7 +3,7 @@ title: "Paquete java.awt.dnd"
 layout: tag
 permalink: /Java/tag/java.awt.dnd/
 date: 2020-12-29
-key: Javapaquetejava.awt.dnd
+key: Java.quetejava.awt.dnd
 sidebar: 
   nav: java
 aside: 

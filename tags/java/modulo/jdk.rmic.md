@@ -3,7 +3,7 @@ title: "Módulo jdk.rmic"
 layout: tag
 permalink: /Java/tag/jdk.rmic/
 date: 2020-12-29
-key: Javamodulojdk.rmic
+key: Java.dulojdk.rmic
 sidebar: 
   nav: java
 aside: 

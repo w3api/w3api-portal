@@ -3,7 +3,7 @@ title: "Paquete java.awt.print"
 layout: tag
 permalink: /Java/tag/java.awt.print/
 date: 2020-12-29
-key: Javapaquetejava.awt.print
+key: Java.quetejava.awt.print
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete java.lang.ref"
 layout: tag
 permalink: /Java/tag/java.lang.ref/
 date: 2020-12-29
-key: Javapaquetejava.lang.ref
+key: Java.quetejava.lang.ref
 sidebar: 
   nav: java
 aside: 

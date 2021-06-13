@@ -3,7 +3,7 @@ title: "Paquete javax.swing.text.html.parser"
 layout: tag
 permalink: /Java/tag/javax.swing.text.html.parser/
 date: 2020-12-29
-key: Javapaquetejavax.swing.text.html.parser
+key: Java.quetejavax.swing.text.html.parser
 sidebar: 
   nav: java
 aside: 

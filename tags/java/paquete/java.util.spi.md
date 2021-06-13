@@ -3,7 +3,7 @@ title: "Paquete java.util.spi"
 layout: tag
 permalink: /Java/tag/java.util.spi/
 date: 2020-12-29
-key: Javapaquetejava.util.spi
+key: Java.quetejava.util.spi
 sidebar: 
   nav: java
 aside: 

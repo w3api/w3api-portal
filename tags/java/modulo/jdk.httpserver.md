@@ -3,7 +3,7 @@ title: "Módulo jdk.httpserver"
 layout: tag
 permalink: /Java/tag/jdk.httpserver/
 date: 2020-12-29
-key: Javamodulojdk.httpserver
+key: Java.dulojdk.httpserver
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Módulo jdk.javadoc"
 layout: tag
 permalink: /Java/tag/jdk.javadoc/
 date: 2020-12-29
-key: Javamodulojdk.javadoc
+key: Java.dulojdk.javadoc
 sidebar: 
   nav: java
 aside: 

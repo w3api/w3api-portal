@@ -3,7 +3,7 @@ title: "Paquete org.omg.PortableInterceptor.ORBInitInfoPackage"
 layout: tag
 permalink: /Java/tag/org.omg.PortableInterceptor.ORBInitInfoPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.PortableInterceptor.ORBInitInfoPackage
+key: Java.queteorg.omg.PortableInterceptor.ORBInitInfoPackage
 sidebar: 
   nav: java
 aside: 

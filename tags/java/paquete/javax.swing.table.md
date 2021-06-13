@@ -3,7 +3,7 @@ title: "Paquete javax.swing.table"
 layout: tag
 permalink: /Java/tag/javax.swing.table/
 date: 2020-12-29
-key: Javapaquetejavax.swing.table
+key: Java.quetejavax.swing.table
 sidebar: 
   nav: java
 aside: 

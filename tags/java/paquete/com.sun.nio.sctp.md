@@ -3,7 +3,7 @@ title: "Paquete com.sun.nio.sctp"
 layout: tag
 permalink: /Java/tag/com.sun.nio.sctp/
 date: 2020-12-29
-key: Javapaquetecom.sun.nio.sctp
+key: Java.quetecom.sun.nio.sctp
 sidebar: 
   nav: java
 aside: 

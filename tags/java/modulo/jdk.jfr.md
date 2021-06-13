@@ -3,7 +3,7 @@ title: "Módulo jdk.jfr"
 layout: tag
 permalink: /Java/tag/jdk.jfr/
 date: 2020-12-29
-key: Javamodulojdk.jfr
+key: Java.dulojdk.jfr
 sidebar: 
   nav: java
 aside: 

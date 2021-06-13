@@ -3,7 +3,7 @@ title: "Paquete javax.imageio.plugins.bmp"
 layout: tag
 permalink: /Java/tag/javax.imageio.plugins.bmp/
 date: 2020-12-29
-key: Javapaquetejavax.imageio.plugins.bmp
+key: Java.quetejavax.imageio.plugins.bmp
 sidebar: 
   nav: java
 aside: 

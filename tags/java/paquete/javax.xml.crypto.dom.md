@@ -3,7 +3,7 @@ title: "Paquete javax.xml.crypto.dom"
 layout: tag
 permalink: /Java/tag/javax.xml.crypto.dom/
 date: 2020-12-29
-key: Javapaquetejavax.xml.crypto.dom
+key: Java.quetejavax.xml.crypto.dom
 sidebar: 
   nav: java
 aside: 

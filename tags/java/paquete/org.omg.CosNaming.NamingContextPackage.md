@@ -3,7 +3,7 @@ title: "Paquete org.omg.CosNaming.NamingContextPackage"
 layout: tag
 permalink: /Java/tag/org.omg.CosNaming.NamingContextPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.CosNaming.NamingContextPackage
+key: Java.queteorg.omg.CosNaming.NamingContextPackage
 sidebar: 
   nav: java
 aside: 

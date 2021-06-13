@@ -3,7 +3,7 @@ title: "Módulo java.se.ee"
 layout: tag
 permalink: /Java/tag/java.se.ee/
 date: 2020-12-29
-key: Javamodulojava.se.ee
+key: Java.dulojava.se.ee
 sidebar: 
   nav: java
 aside: 

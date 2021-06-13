@@ -3,7 +3,7 @@ title: "Paquete jdk.javadoc.doclet"
 layout: tag
 permalink: /Java/tag/jdk.javadoc.doclet/
 date: 2020-12-29
-key: Javapaquetejdk.javadoc.doclet
+key: Java.quetejdk.javadoc.doclet
 sidebar: 
   nav: java
 aside: 

@@ -1,8 +1,8 @@
 ---
 title: AsyncFunction
-permalink: Javascript/AsyncFunction
+permalink: /Javascript/AsyncFunction/
 date: 2021-01-11
-key: JavascriptJavascript.A.AsyncFunction
+key: Javascript.A.AsyncFunction
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

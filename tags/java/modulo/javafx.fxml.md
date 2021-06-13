@@ -3,7 +3,7 @@ title: "Módulo javafx.fxml"
 layout: tag
 permalink: /Java/tag/javafx.fxml/
 date: 2020-12-29
-key: Javamodulojavafx.fxml
+key: Java.dulojavafx.fxml
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete com.sun.tools.javadoc"
 layout: tag
 permalink: /Java/tag/com.sun.tools.javadoc/
 date: 2020-12-29
-key: Javapaquetecom.sun.tools.javadoc
+key: Java.quetecom.sun.tools.javadoc
 sidebar: 
   nav: java
 aside: 

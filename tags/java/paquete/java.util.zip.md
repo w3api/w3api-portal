@@ -3,7 +3,7 @@ title: "Paquete java.util.zip"
 layout: tag
 permalink: /Java/tag/java.util.zip/
 date: 2020-12-29
-key: Javapaquetejava.util.zip
+key: Java.quetejava.util.zip
 sidebar: 
   nav: java
 aside: 

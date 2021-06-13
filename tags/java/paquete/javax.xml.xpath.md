@@ -3,7 +3,7 @@ title: "Paquete javax.xml.xpath"
 layout: tag
 permalink: /Java/tag/javax.xml.xpath/
 date: 2020-12-29
-key: Javapaquetejavax.xml.xpath
+key: Java.quetejavax.xml.xpath
 sidebar: 
   nav: java
 aside: 

@@ -3,7 +3,7 @@ title: "Paquete javax.xml.validation"
 layout: tag
 permalink: /Java/tag/javax.xml.validation/
 date: 2020-12-29
-key: Javapaquetejavax.xml.validation
+key: Java.quetejavax.xml.validation
 sidebar: 
   nav: java
 aside: 

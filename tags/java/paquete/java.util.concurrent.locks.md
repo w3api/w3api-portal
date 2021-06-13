@@ -3,7 +3,7 @@ title: "Paquete java.util.concurrent.locks"
 layout: tag
 permalink: /Java/tag/java.util.concurrent.locks/
 date: 2020-12-29
-key: Javapaquetejava.util.concurrent.locks
+key: Java.quetejava.util.concurrent.locks
 sidebar: 
   nav: java
 aside: 

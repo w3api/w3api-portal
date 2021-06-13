@@ -3,7 +3,7 @@ title: "Módulo jdk.naming.rmi"
 layout: tag
 permalink: /Java/tag/jdk.naming.rmi/
 date: 2020-12-29
-key: Javamodulojdk.naming.rmi
+key: Java.dulojdk.naming.rmi
 sidebar: 
   nav: java
 aside: 

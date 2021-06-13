@@ -3,7 +3,7 @@ title: "Paquete javafx.concurrent"
 layout: tag
 permalink: /Java/tag/javafx.concurrent/
 date: 2020-12-29
-key: Javapaquetejavafx.concurrent
+key: Java.quetejavafx.concurrent
 sidebar: 
   nav: java
 aside: 

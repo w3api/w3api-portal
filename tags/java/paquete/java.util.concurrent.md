@@ -3,7 +3,7 @@ title: "Paquete java.util.concurrent"
 layout: tag
 permalink: /Java/tag/java.util.concurrent/
 date: 2020-12-29
-key: Javapaquetejava.util.concurrent
+key: Java.quetejava.util.concurrent
 sidebar: 
   nav: java
 aside: 

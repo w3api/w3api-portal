@@ -3,7 +3,7 @@ title: "Paquete org.omg.CORBA.ORBPackage"
 layout: tag
 permalink: /Java/tag/org.omg.CORBA.ORBPackage/
 date: 2020-12-29
-key: Javapaqueteorg.omg.CORBA.ORBPackage
+key: Java.queteorg.omg.CORBA.ORBPackage
 sidebar: 
   nav: java
 aside: 
