@@ -11,7 +11,7 @@ aside:
   toc: true
 pagination: 
   enabled: true
-  tag: "java 5"
+  tag: "java 1.5"
   permalink: /:num/    
 ---
 

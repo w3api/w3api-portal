@@ -15,6 +15,6 @@ Elementos Java organizados por **tipos de tecnologías Java**:
 
 <ul>
   <li><a href="/Java/tag/java-se/">Java SE</a></li>
-  <li><a href="/Java/tag/java-ee/">Java EE</a></li>
-  <li><a href="/Java/tag/java-me/">Java ME</a></li>
+<!--  <li><a href="/Java/tag/java-ee/">Java EE</a></li>
+  <li><a href="/Java/tag/java-me/">Java ME</a></li> -->
 </ul>

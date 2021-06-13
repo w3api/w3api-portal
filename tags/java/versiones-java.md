@@ -22,8 +22,8 @@ Elementos Java organizados por **versiones**:
   <li><a href="/Java/tag/java-1.4/">Java 1.4</a></li>
   <li><a href="/Java/tag/java-1.5/">Java 1.5</a></li>
   <li><a href="/Java/tag/java-1.6/">Java 1.6</a></li>
-  <li><a href="/Java/tag/java-7/">Java 7</a></li>
-  <li><a href="/Java/tag/java-8/">Java 8</a></li>
+  <li><a href="/Java/tag/java-1.7/">Java 1.7</a></li>
+  <li><a href="/Java/tag/java-1.8/">Java 8</a></li>
   <li><a href="/Java/tag/java-9/">Java 9</a></li>
   <li><a href="/Java/tag/java-10/">Java 10</a></li>
 </ul>

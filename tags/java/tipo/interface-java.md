@@ -15,5 +15,5 @@ aside:
   toc: true
 ---
 
-Todas los Interface Java:
+Todas los <strong>Interface Java</strong>:
 <h2>Interfaces</h2>

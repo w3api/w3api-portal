@@ -15,5 +15,5 @@ aside:
   toc: true
 ---
 
-Todas los métodos Java:
+Todas los <strong>métodos Java</strong>:
 <h2>Métodos</h2>

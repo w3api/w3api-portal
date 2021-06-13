@@ -15,5 +15,5 @@ aside:
   toc: true  
 ---
 
-Todas las clases Java:
+Todas las <strong>clases Java</strong>:
 <h2>Clases</h2>

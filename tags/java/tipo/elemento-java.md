@@ -15,5 +15,5 @@ aside:
   toc: true
 ---
 
-Todas los elementos Java:
+Todas los <strong>elementos Java</strong>:
 <h2>Elementos</h2>

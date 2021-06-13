@@ -1,9 +1,9 @@
 ---
 title: Historía de W3Api
-permalink: blog/historia-de-w3api/
+permalink: /Blog/historia-de-w3api/
 date: 2021-01-14
 key: HistoriaDeW3Api
-category: blog
+category: Blog
 layout: article
 article_header:
   type: overlay

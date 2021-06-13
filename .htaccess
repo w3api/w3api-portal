@@ -287,3 +287,6 @@ redirect 301 /wiki/Java:DriverManager /Java/DriverManager/
 
 
 redirect 301 /wiki/ http://www.w3api.com
+
+## Gestión de Errores
+ErrorDocument 404 /404.html

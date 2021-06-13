@@ -1,9 +1,9 @@
 ---
 title: Nuevo Diseño W3Api
-permalink: blog/nuevo-diseno-w3api/
+permalink: /Blog/nuevo-diseno-w3api/
 date: 2021-01-16
 key: NuevoDiseñoW3Api
-category: blog
+category: Blog
 layout: article
 article_header:
   type: overlay
