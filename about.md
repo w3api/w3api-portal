@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Acerca de
-permalink: /acerca-de
+permalink: /acerca-de/
 key: page-about
 ---
 
