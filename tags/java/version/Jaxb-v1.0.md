@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "JAXB 1.0"
-permalink: /Java/tag/jaxb/-1.0/
+permalink: /Java/tag/jaxb-1.0/
 date: 2011-06-23T18:38:52+00:00
 key: Jaxb1.0
 show_date: false

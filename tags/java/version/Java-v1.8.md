@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Java 8"
-permalink: /Java/tag/java/-1.8/
+permalink: /Java/tag/java-1.8/
 date: 2011-06-23T18:38:52+00:00
 key: Java8
 show_date: false

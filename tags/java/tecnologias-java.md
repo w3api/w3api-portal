@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Tecnologías Java"
-permalink: /Java/tecnologias/-java/
+permalink: /Java/tecnologias-java/
 date: 2011-06-23T18:38:52+00:00
 key: TecnologiasJava
 show_date: false
@@ -11,7 +11,7 @@ aside:
   toc: true
 ---
 
-Elementos Java organizados por **tipos de tecnologías Java***: 
+Elementos Java organizados por **tipos de tecnologías Java**: 
 
 <ul>
   <li><a href="/Java/tag/java-se/">Java SE</a></li>

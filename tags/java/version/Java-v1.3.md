@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Java 1.3"
-permalink: /Java/tag/java/-1.3/
+permalink: /Java/tag/java-1.3/
 date: 2011-06-23T18:38:52+00:00
 key: Java.3
 show_date: false

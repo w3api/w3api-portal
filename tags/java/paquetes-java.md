@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Paquetes Java"
-permalink: /Java/paquetes/-java/
+permalink: /Java/paquetes-java/
 date: 2011-06-23T18:38:52+00:00
 key: PaquetesJava
 show_date: false

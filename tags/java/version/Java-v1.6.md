@@ -1,7 +1,7 @@
 ---
 layout: tag
 title: "Java 1.6"
-permalink: /Java/tag/java/-1.6/
+permalink: /Java/tag/java-1.6/
 date: 2011-06-23T18:38:52+00:00
 key: Java6
 show_date: false

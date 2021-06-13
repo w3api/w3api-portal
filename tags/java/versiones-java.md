@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Versiones Java"
-permalink: /Java/versiones/-java/
+permalink: /Java/versiones-java/
 date: 2011-06-23T18:38:52+00:00
 key: VersionesJava
 show_date: false
