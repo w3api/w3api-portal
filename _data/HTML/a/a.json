@@ -1,19 +1,30 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "El **elemento a** viene del inglés anchor (ancla). De ahí su abreviatura como elemento a. En elemento a nos sirve para crear un enlace entre dos páginas web. Estos hiperenlaces o hipervínculos son la base de Internet",
+    "sintaxis": "<a>link</a>",
+    "code": "<a href=\"paginaB.htm\" title=\"Mi enlace\">Mi enlace<\/a>",
+    "ldc": [
+        {"nombre":"Hipervinculos: enlazar dos páginas web","url":"http://lineadecodigo.com/html/hipervinculos-enlazar-dos-paginas-web/"},
+        {"nombre":"Abrir enlace sobre varios frames","url":"http://lineadecodigo.com/html/abrir-enlace-sobre-varios-frames/"},
+        {"nombre":"Abrir enlace en una nueva ventana","url":"http://lineadecodigo.com/html/abrir-enlace-en-una-nueva-ventana/"}
+    ],
     "atributos": [
         {
-            "nombre": "href",
-            "description": "",
-            "code": "",
-            "ldc": []
+            "nombre": "href",        
+            "description": "Atributo que nos sirve para identificar la página con la que queremos enlazarnos. La dirección puede ser **absoluta**, en este caso indicaremos el nombre del servidor, dominio y el path de la página o **relativa**, para los enlaces que estén en el mismo servidor dónde se ejecuta la página.",
+            "sintaxis": "<a href='path'>link</a>",
+            "code": "<a href=\"paginaB.htm\" title=\"Mi enlace\">Mi enlace<\/a>",
+            "ldc": [
+                {"nombre":"Hipervinculos: enlazar dos páginas web","url":"http://lineadecodigo.com/html/hipervinculos-enlazar-dos-paginas-web/"},
+                {"nombre":"Abrir enlace sobre varios frames","url":"http://lineadecodigo.com/html/abrir-enlace-sobre-varios-frames/"},
+                {"nombre":"Abrir enlace en una nueva ventana","url":"http://lineadecodigo.com/html/abrir-enlace-en-una-nueva-ventana/"}
+            ]
         },
         {
             "nombre": "target",
-            "description": "",
-            "code": "",
-            "ldc": []
+            "description": "El atributo **target** indica la forma en la que se tiene que abrir el enlace. Las formas en las que podemos abrirlo son:\r\n\r\n* **_blank**, el enlace se abre en una nueva p\u00E1gina.\r\n* **_parent**, el enlace se abre sobre la p\u00E1gina padre.\r\n* **_self**, el enlace se abre en la misma p\u00E1gina.\r\n* **_top**, el enlace se abre sobre la ventana superior. En este caso es si estamos en un frame o iframe. Se abrir\u00EDa sobre la p\u00E1gina que lo contiene.\r\n",
+            "sintaxis": "<a target='_blank|_top|_self|_parent'>link</a>",
+            "code": "<a target=\"_blank\" href=\"http:\/\/www.w3api.com\">Abrir W3Api.com en una nueva ventana<\/a>",
+            "ldc": [{"nombre":"Abrir enlace en una nueva ventana","url":"http://lineadecodigo.com/html/abrir-enlace-en-una-nueva-ventana/"}]
         },
         {
             "nombre": "download",
