@@ -1,5 +1,5 @@
 {
-    "description": "El **elemento a** viene del inglés anchor (ancla). De ahí su abreviatura como elemento a. En elemento a nos sirve para crear un enlace entre dos páginas web. Estos hiperenlaces o hipervínculos son la base de Internet",
+    "description": "El **elemento a** viene del inglés anchor (ancla). De ahí su abreviatura como **elemento a**. En **elemento a** nos sirve para crear un enlace entre dos páginas web. Estos hiperenlaces o hipervínculos son la base de Internet",
     "sintaxis": "<a>link</a>",
     "code": "<a href=\"paginaB.htm\" title=\"Mi enlace\">Mi enlace<\/a>",
     "ldc": [
