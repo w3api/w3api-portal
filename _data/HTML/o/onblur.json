@@ -1,5 +1,0 @@
-{
-    "description": "Hago blur y aparezco a tu lado",
-    "code": "<input type=\"text\" onblur=\"myFunction()\">",
-    "ldc": []
-}
