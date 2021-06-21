@@ -1,9 +1,9 @@
 ---
 layout: tag
-title: "HTML"
-permalink: /HTML/
+title: "HTML My Test"
+permalink: /HTML/mytest/
 date: 2011-06-23T18:38:52+00:00
-key: HTML
+key: HTML.MyTest
 show_date: false
 sidebar:
   nav: html
