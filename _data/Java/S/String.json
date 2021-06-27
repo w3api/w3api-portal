@@ -877,14 +877,14 @@
     "metodos": [
         {
             "nombre": "charAt",
-            "description": "Devuelve el car\u00e1cter situado en la posici\u00f3n 'index' pasada por par\u00e1metro. La primera posici\u00f3n es la 0.\n",
+            "description": "Devuelve el car\u00e1cter situado en la posici\u00f3n **index** pasada por par\u00e1metro. La primera posici\u00f3n de la cadena es la 0.",
             "parametros": [
                 {
                     "nombre": "int index",
-                    "description": ""
+                    "description": "\u00CDndice en el cual se encuentra el car\u00E1cter que queremos recuperar."
                 }
             ],
-            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena.charAt(2));  // Devuelve la letra 'd'\n",
+            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena.charAt(2));  // Devuelve la letra 'd'",
             "ldc": [
                 {
                     "nombre": "Vocales abiertas y cerradas con Java",
@@ -930,7 +930,8 @@
         },
         {
             "nombre": "chars",
-            "description": "",
+            "description": "M\u00E9todo que nos devuelve la cadena de texto como un [InputStream](\/Java\/InputStream\/). De esta manera podemos manejar la cadena como un [Stream](\/Java\/Stream) y as\u00ED poder aplicarle todos lo m\u00E9todos de manipulaci\u00F3n de Streams como [filter](\/Java\/Stream\/filter), [limit](\/Java\/Stream\/limit), [reduce](\/Java\/Stream\/reduce),...",
+            "code":"String sCadena = \"Esto es una cadena de texto\";\r\n\r\nsCadena.chars()\r\n  .forEach(c -> System.out.print(Character.toString((char) c)));\r\n\r\nsCadena.chars()\r\n  .parallel()\r\n  .forEach(c -> System.out.print(Character.toString((char) c)));\r\n\r\nsCadena.chars()\r\n  .filter(c -> c!='a')\r\n  .forEach(c -> System.out.print(Character.toString((char) c)));",
             "ldc": [
                 {
                     "nombre": "String como Stream en Java",
@@ -940,19 +941,19 @@
         },
         {
             "nombre": "codePointAt",
-            "description": "Devuelve el c\u00f3digo ASCII en la posici\u00f3n 'index' pasada por par\u00e1metro. La primera posici\u00f3n es la 0.\nSi quieres informaci\u00f3n sobre los c\u00f3digos ASCII puedes echarle un ojo a http://www.ascii.cl/es/\n",
+            "description": "Devuelve el c\u00F3digo ASCII en la posici\u00F3n **index** pasada por par\u00E1metro. La primera posici\u00F3n es la 0.\r\nSi quieres informaci\u00F3n sobre los c\u00F3digos ASCII puedes echarle un ojo a [http:\/\/www.ascii.cl\/es\/](http:\/\/www.ascii.cl\/es\/). En el caso que queramos acceder a una posici\u00F3n que no coincida con ning\u00FAn car\u00E1cter de la cadena obtendremos una excepci\u00F3n [IndexOutOfBoundsException](\/Java\/IndexOutOfBoundsException).",
             "parametros": [
                 {
                     "nombre": "int index",
-                    "description": ""
+                    "description": "Posici\u00F3n de la cadena de la cual queremos recuperar el c\u00F3digo. La primera posici\u00F3n corresponde con el 0."
                 }
             ],
-            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena.codePointAt(2));  // Devuelve el c\u00f3digo ASCII 97 que corresponde a la 'a'\n",
+            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena.codePointAt(2));  // Devuelve el c\u00f3digo ASCII 97 que corresponde a la 'a'",
             "ldc": []
         },
         {
             "nombre": "codePointBefore",
-            "description": "String\n",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int index",
@@ -989,10 +990,10 @@
             "parametros": [
                 {
                     "nombre": "String anotherString",
-                    "description": ""
+                    "description": "Cadena con la que queremos comparar la cadena actual."
                 }
             ],
-            "code": "",
+            "code": "class Comparador implements Comparator<String> {\r\n  public int compare(String s1, String s2) {        \t\r\n    return s1.toLowerCase().compareTo(s2.toLowerCase());\r\n  }\r\n}\r\n\r\npublic class OrdenarVectorAlfabeticamente {\r\n\r\n  public static void main(String[] args) {\r\n    Vector<String> miVector = new Vector<String>();\r\n    miVector.add(\"Luis\");\r\n    miVector.add(\"Francisco\");\r\n    miVector.add(\"Marta\");\r\n\t\t\t\t\r\n    Collections.sort(miVector,new Comparador());\r\n\r\n    for(String sElemento: miVector) {\r\n      System.out.println(sElemento);\r\n    }\r\n  }\r\n}",
             "ldc": [
                 {
                     "nombre": "Ordenar un Vector de forma alfab\u00e9tica con Java",
