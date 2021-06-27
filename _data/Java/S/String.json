@@ -1560,11 +1560,11 @@
         },
         {
             "nombre": "replace",
-            "description": "M\u00e9todo que nos permite cambiar un car\u00e1cter por otro dentro de una cadena.\n",
+            "description": "M\u00e9todo que nos permite cambiar un car\u00e1cter por otro dentro de una cadena.",
             "parametros": [
                 {
                     "nombre": "char oldChar",
-                    "description": ""
+                    "description": "caracter que queremos reemplazar."
                 },
                 {
                     "nombre": "CharSequence target",
@@ -1572,14 +1572,14 @@
                 },
                 {
                     "nombre": "char newChar",
-                    "description": ""
+                    "description": "caracter nuevo el cual queremos incluir."
                 },
                 {
                     "nombre": "CharSequence replacement",
                     "description": ""
                 }
             ],
-            "code": "String cadena = new String(\"secar\");\nSystem.out.println(cadena.replace('e','a')); //sacar\n",
+            "code": "String cadena = new String(\"secar\");\nSystem.out.println(cadena.replace('e','a')); //sacar",
             "ldc": [
                 {
                     "nombre": "String: Quitar saltos de l\u00ednea de un texto con Java",
