@@ -1971,50 +1971,50 @@
         },
         {
             "nombre": "valueOf",
-            "description": "Convierte a cadenas los tipos de datos pasados como par\u00e1metro. En el caso de que queramos convertir un array de caracteres en una cadena podemos tener una excepci\u00f3n IndexOutOfBoundsException en el caso de que intentemos acceder a un elemento que no exista.\n",
+            "description": "Convierte a una cadena [String](\/Java\/String) los tipos de datos pasados como par\u00E1metro. En el caso de que queramos convertir un array de caracteres en una cadena [String](\/Java\/String) podemos tener una excepci\u00F3n [IndexOutOfBoundsException](\/Java\/IndexOutOfBoundsException) en el caso de que intentemos acceder a un elemento que no exista.",
             "parametros": [
                 {
                     "nombre": "float f",
-                    "description": ""
+                    "description": "N\u00FAmero con coma flotante que queremos convertir a cadena."
                 },
                 {
                     "nombre": "long l",
-                    "description": ""
+                    "description": "N\u00FAmero entero de hasta 64 bits que queremos convertir a cadena."
                 },
                 {
                     "nombre": "double d",
-                    "description": ""
+                    "description": "N\u00FAmero con coma flotante de hasta 64 bits que queremos convertir a cadena."
                 },
                 {
                     "nombre": "boolean b",
-                    "description": ""
+                    "description": "Valor booleano (true o false) que queremos convertir a cadena."
                 },
                 {
                     "nombre": "int count",
-                    "description": ""
+                    "description": "N\u00FAmero de caracteres del array que queremos convertir a cadena. Se empiezan a coger caracteres desde el inicio marcado por al valor de ***offset***."
                 },
                 {
                     "nombre": "char[] data",
-                    "description": ""
+                    "description": "Array de caracteres que queremos convertir a cadena."
                 },
                 {
                     "nombre": "int offset",
-                    "description": ""
+                    "description": "Posición inicial del array de caracteres desde la que queremos realizar la conversión a cadena."
                 },
                 {
                     "nombre": "char c",
-                    "description": ""
+                    "description": "Caracter que queremos convertir a cadena."
                 },
                 {
                     "nombre": "Object obj",
-                    "description": ""
+                    "description": "Objeto que queremos convertir a cadena. En este caso el objeto deber\u00E1 de contener un m\u00E9todo ***.toString()*** para poder realizar la conversi\u00F3n a cadena."
                 },
                 {
                     "nombre": "int i",
-                    "description": ""
+                    "description": "N\u00FAmero entero que queremos convertir a cadena"
                 }
             ],
-            "code": "char miarray[] = {'A','V','I','L','A'};\nSystem.out.println(String.valueOf(miarray));\n",
+            "code": "char miarray[] = {'A','V','I','L','A'};\nSystem.out.println(String.valueOf(miarray));",
             "ldc": [
                 {
                     "nombre": "Generar IPs con Java",
