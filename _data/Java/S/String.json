@@ -1960,8 +1960,8 @@
         },
         {
             "nombre": "trim",
-            "description": "M\u00e9todo que elimina los caracteres blancos iniciales y finales de la cadena, devolviendo una copia de la misma.\n",
-            "code": "String sCadena = \" Esto Es Una Cadena\"\u00a0;\nSystem.out.println(sCadena.trim());  //Devuelve \"Esto Es Una Cadena\"\n",
+            "description": "M\u00e9todo que elimina los **caracteres blancos iniciales y finales** de la cadena, devolviendo una copia de la misma.\n",
+            "code": "String sCadena = \" Esto Es Una Cadena\"\u00a0;\nSystem.out.println(sCadena.trim());  //Devuelve \"Esto Es Una Cadena\"",
             "ldc": [
                 {
                     "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
