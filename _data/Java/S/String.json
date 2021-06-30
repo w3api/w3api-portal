@@ -1771,14 +1771,14 @@
         },
         {
             "nombre": "toLowerCase",
-            "description": "Convierte todos los caracteres de la cadena a min\u00fasculas.\n",
+            "description": "Convierte todos los caracteres de la cadena a **min\u00fasculas.**",
             "parametros": [
                 {
                     "nombre": "Locale locale",
-                    "description": ""
+                    "description": "Objeto [Locale](\/Java\/Locale) que queremos aplicar a la conversi\u00F3n a min\u00FAsculas."
                 }
             ],
-            "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toLowerCase());  //esto es una cadena\n",
+            "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toLowerCase());  //esto es una cadena",
             "ldc": [
                 {
                     "nombre": "Vocales abiertas y cerradas con Java",
@@ -1927,11 +1927,11 @@
         },
         {
             "nombre": "toUpperCase",
-            "description": "Convierte todos los caracteres de la cadena a may\u00fasculas.\n",
+            "description": "Convierte todos los caracteres de la cadena a **may\u00fasculas.**",
             "parametros": [
                 {
                     "nombre": "Locale locale",
-                    "description": "Objeto [Locale](\/Locale) que queremos aplicar a la conversi\u00F3n a may\u00FAsculas."
+                    "description": "Objeto [Locale](\/Java\/Locale) que queremos aplicar a la conversi\u00F3n a may\u00FAsculas."
                 }
             ],
             "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toUpperCase());  //ESTO ES UNA CADENA",
