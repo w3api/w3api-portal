@@ -1931,10 +1931,10 @@
             "parametros": [
                 {
                     "nombre": "Locale locale",
-                    "description": ""
+                    "description": "Objeto [Locale](\/Locale) que queremos aplicar a la conversi\u00F3n a may\u00FAsculas."
                 }
             ],
-            "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toUpperCase());  //ESTO ES UNA CADENA\n",
+            "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toUpperCase());  //ESTO ES UNA CADENA",
             "ldc": [
                 {
                     "nombre": "Caracteres en may\u00fasculas y min\u00fasculas con un Stream",
