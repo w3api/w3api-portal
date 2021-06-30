@@ -1808,8 +1808,8 @@
         },
         {
             "nombre": "toString",
-            "description": "String\n",
-            "code": "",
+            "description": "Todos los objetos tienen un m\u00E9todo .toString y por lo tanto el objeto [String](\/java\/String) tambi\u00E9n lo tiene. En este caso es redundante, pero devuelve una cadena. Este m\u00E9todo es \u00FAtil cuando se sobreesciben los objetos.",
+            "code": "String objStr = new String(\"Esto es una cadena);\r\nSystem.out.println(objStr.toString());",
             "ldc": [
                 {
                     "nombre": "Generar IPs con Java",
