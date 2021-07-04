@@ -1,42 +1,42 @@
 {
-    "description": "",
-    "code": "",
+    "description": "El elemento **area** sirve para poder crear diferentes secciones dentro de un mapa de im\u00E1genes definido con el elemento [map](\/HTML\/map). Los \u00E1reas ser\u00E1n definidos en una posici\u00F3n de coordenadas mediante el atributo [**coords**](\/HTML\/area\/coords) y tendr\u00E1n la forma definida con el atributo [**shape**](\/HTML\/area\/shape).",
+    "code": "<img src=\"navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" \/>\r\n\r\n<map id=\"navegadores\" name=\"navegadores\">\r\n<area shape=\"rect\" coords=\"0,0,157,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-internet-explorer\/\" alt=\"Internet Explorer\" title=\"Internet Explorer\"    \/>\r\n<area shape=\"rect\" coords=\"164,0,321,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-firefox\/\" alt=\"Firefox\" title=\"Firefox\"    \/>\r\n<area shape=\"rect\" coords=\"340,0,497,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-google-chrome\/\" alt=\"Google Chrome\" title=\"Google Chrome\"    \/>\r\n<area shape=\"rect\" coords=\"507,0,664,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-safari\/\" alt=\"Safari\" title=\"Safari\"    \/>\r\n<area shape=\"rect\" coords=\"659,0,816,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-opera\/\" alt=\"Opera\" title=\"Opera\"    \/>\r\n<\/map>",
     "ldc": [],
     "atributos": [
         {
             "nombre": "alt",
-            "description": "",
-            "code": "",
+            "description": "Describe el área o el vínculo del área. Ya que el enlace va sobre una imagen que no tiene contenido de texto",
+            "code": "<img src=\"navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" \/>\r\n\r\n<map id=\"navegadores\" name=\"navegadores\">\r\n<area shape=\"rect\" coords=\"0,0,157,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-internet-explorer\/\" alt=\"Internet Explorer\" title=\"Internet Explorer\"    \/>\r\n<area shape=\"rect\" coords=\"164,0,321,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-firefox\/\" alt=\"Firefox\" title=\"Firefox\"    \/>\r\n<area shape=\"rect\" coords=\"340,0,497,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-google-chrome\/\" alt=\"Google Chrome\" title=\"Google Chrome\"    \/>\r\n<area shape=\"rect\" coords=\"507,0,664,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-safari\/\" alt=\"Safari\" title=\"Safari\"    \/>\r\n<area shape=\"rect\" coords=\"659,0,816,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-opera\/\" alt=\"Opera\" title=\"Opera\"    \/>\r\n<\/map>",
             "ldc": []
         },
         {
             "nombre": "coords",
-            "description": "",
-            "code": "",
+            "description": "Indica las coordenadas del mapa en las que se aplicará la forma o [shape](/HTML/area/shape) dentro de la imagen.",
+            "code": "<img src=\"navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" \/>\r\n\r\n<map id=\"navegadores\" name=\"navegadores\">\r\n<area shape=\"rect\" coords=\"0,0,157,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-internet-explorer\/\" alt=\"Internet Explorer\" title=\"Internet Explorer\"    \/>\r\n<area shape=\"rect\" coords=\"164,0,321,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-firefox\/\" alt=\"Firefox\" title=\"Firefox\"    \/>\r\n<area shape=\"rect\" coords=\"340,0,497,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-google-chrome\/\" alt=\"Google Chrome\" title=\"Google Chrome\"    \/>\r\n<area shape=\"rect\" coords=\"507,0,664,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-safari\/\" alt=\"Safari\" title=\"Safari\"    \/>\r\n<area shape=\"rect\" coords=\"659,0,816,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-opera\/\" alt=\"Opera\" title=\"Opera\"    \/>\r\n<\/map>",
             "ldc": []
         },
         {
             "nombre": "shape",
-            "description": "",
-            "code": "",
+            "description": "Indica la forma que adoptará el elemento [area](/HTML/area) dentro de la imagen para trazar la zona enlazable. Las posibles opciones que tiene son *rect*, *circle*, *poly* o *default*.",
+            "code": "<img src=\"navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" \/>\r\n\r\n<map id=\"navegadores\" name=\"navegadores\">\r\n<area shape=\"rect\" coords=\"0,0,157,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-internet-explorer\/\" alt=\"Internet Explorer\" title=\"Internet Explorer\"    \/>\r\n<area shape=\"rect\" coords=\"164,0,321,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-firefox\/\" alt=\"Firefox\" title=\"Firefox\"    \/>\r\n<area shape=\"rect\" coords=\"340,0,497,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-google-chrome\/\" alt=\"Google Chrome\" title=\"Google Chrome\"    \/>\r\n<area shape=\"rect\" coords=\"507,0,664,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-safari\/\" alt=\"Safari\" title=\"Safari\"    \/>\r\n<area shape=\"rect\" coords=\"659,0,816,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-opera\/\" alt=\"Opera\" title=\"Opera\"    \/>\r\n<\/map>",
             "ldc": []
         },
         {
             "nombre": "href",
-            "description": "",
-            "code": "",
+            "description": "Es el enlace al cual queremos que vaya el área. Funciona igual que [el atributo href](/HTML/a/href) del [elemento a](/HTML/a) dónde la dirección puede ser **absoluta**, en este caso indicaremos el nombre del servidor, dominio y el path de la página o **relativa**, para los enlaces que estén en el mismo servidor dónde se ejecuta la página.",
+            "code": "<img src=\"navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" \/>\r\n\r\n<map id=\"navegadores\" name=\"navegadores\">\r\n<area shape=\"rect\" coords=\"0,0,157,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-internet-explorer\/\" alt=\"Internet Explorer\" title=\"Internet Explorer\"    \/>\r\n<area shape=\"rect\" coords=\"164,0,321,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-firefox\/\" alt=\"Firefox\" title=\"Firefox\"    \/>\r\n<area shape=\"rect\" coords=\"340,0,497,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-google-chrome\/\" alt=\"Google Chrome\" title=\"Google Chrome\"    \/>\r\n<area shape=\"rect\" coords=\"507,0,664,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-safari\/\" alt=\"Safari\" title=\"Safari\"    \/>\r\n<area shape=\"rect\" coords=\"659,0,816,147\" href=\"http:\/\/www.ayudaenlaweb.com\/navegadores\/que-es-opera\/\" alt=\"Opera\" title=\"Opera\"    \/>\r\n<\/map>",
             "ldc": []
         },
         {
             "nombre": "target",
-            "description": "",
-            "code": "",
+            "description": "Indica el marco de destino en el cual queremos abrir en enlace. Esto funciona cuando trabajamos en un sistema de frames. Los valores pueden ser **_blank** para abrirlo en una nueva ventana, **_self** para abrirlo en el mismo marco, **_parent** para abrirlo en el [frameset](/HTML/frameset) inmediatamente superior al actual o **_top** para abrirlo sobre la ventana original.",
+            "code": "<img src=\"navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" />\n\n<map id=\"navegadores\" name=\"navegadores\">\n  <area shape=\"rect\" target=\"_blank\" coords=\"507,0,664,147\" href=\"http://www.ayudaenlaweb.com/navegadores/que-es-safari/\" alt=\"Safari\" title=\"Safari\" />\n</map>",
             "ldc": []
         },
         {
             "nombre": "download",
-            "description": "",
-            "code": "",
+            "description": "Mediante el atributo **target** indicamos que cuando el usuario pulse sobre el enlace del área, este se empezará a descargar con el contenido que hay en el atributo [href](/HTML/area/href). El valor que pongamos al atributo **download** será el nombre del fichero que se descargue en el navegador.",
+            "code": "<img src=\"http://lineadecodigo.com/wp-content/uploads/2010/09/navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" />\n\n<map id=\"navegadores\" name=\"navegadores\">\n  <area shape=\"rect\" coords=\"507,0,664,147\" href=\"imagen-safari.jpg\" alt=\"Navegdor Safari\" download=\"Safari\" />\n</map>",
             "ldc": []
         },
         {
