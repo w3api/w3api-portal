@@ -53,8 +53,8 @@
         },
         {
             "nombre": "referrerpolicy",
-            "description": "",
-            "code": "",
+            "description": "Mediante el atributo **referrerpolicy** se especifica que información de referencia enviar al usuario cuando hace click en el enlace.\nLos valores que puede tener el atributo **referrerpolicy** son:\n\n* **no-referrer**, no se envía información de referencia.\n* **no-referrer-when-downgrade**, es el valor por defecto. Se envía el origen (schema, servidor y puerto), path y la query string. Siempre que el protocolo sea igual o superior. Es decir, HTTP a HTTP, HTTPS a HTTPS y HTTP a HTTPs.\n* **origin**, se envía el origen (schema, servidor y puerto).\n* **origin-when-cross-origin**, envía el origen (schema, servidor y puerto) cuando son orígenes cruzados (cross-origin). Y envía origen, path y query string si es el mismo origen.\n* **same-origin**, envía la información de referencia solo si es el mismo origen.\n* **strict-origin-when-cross-origin**, envía el origen (schema, servidor y puerto) si el protocolo es igual o superior. Es decir, HTTP a HTTP, HTTPS a HTTPS y HTTP a HTTPs\n* **unsafe-url**, envía el origen, path y query string, independientemente del protocolo de seguridad. Hay que tener cuidado al utilizar este valor.",
+            "code": "<img src=\"fotos.png\" usemap=\"#autores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Autores\" />\n\n<map id=\"autores\" name=\"autores\">\n  <area shape=\"rect\" coords=\"0,0,157,147\" href=\"/victor-cuervo/\" alt=\"Víctor Cuervo\" rel=\"author\" referrerpolicy=\"same-origin\"/>\n  <area shape=\"rect\" coords=\"164,0,321,147\" href=\"/gustavo-puig/\" alt=\"Gustavo Puig\" rel=\"author\" referrerpolicy=\"same-origin\"/>\n  <area shape=\"rect\" coords=\"340,0,497,147\" href=\"/jose-carlos-ferreiro/\" alt=\"José Carlos Ferreiro\" rel=\"author\" referrerpolicy=\"same-origin\"/>\n</map>",
             "ldc": []
         }
     ]
