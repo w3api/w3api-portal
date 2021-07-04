@@ -1,7 +1,7 @@
 {
     "description": "El **elemento a** viene del inglés anchor (ancla). De ahí su abreviatura como **elemento a**. En **elemento a** nos sirve para crear un enlace entre dos páginas web. Estos hiperenlaces o hipervínculos son la base de Internet",
     "sintaxis": "<a>link</a>",
-    "code": "<a href=\"paginaB.htm\" title=\"Mi enlace\">Mi enlace<\/a>",
+    "code": "<a href=\"http:\/\/www.manualweb.net\">Manual Web<\/a>\r\n<a href=\"\/\">W3API.com<\/a>\r\n<a href=\"http:\/\/lineadecodigo.com\/wp-content\/uploads\/2008\/03\/checkbox-y-operadores-binarios.zip\">Enlace a un fichero ZIP<\/a>",
     "ldc": [
         {"nombre":"Hipervinculos: enlazar dos páginas web","url":"http://lineadecodigo.com/html/hipervinculos-enlazar-dos-paginas-web/"},
         {"nombre":"Abrir enlace sobre varios frames","url":"http://lineadecodigo.com/html/abrir-enlace-sobre-varios-frames/"},
