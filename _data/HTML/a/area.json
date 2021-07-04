@@ -47,8 +47,8 @@
         },
         {
             "nombre": "rel",
-            "description": "",
-            "code": "",
+            "description": "El atributo **rel** indica la relación que hay entre el documento actual y el documento sobre el que se crea el enlace en el área. Los valores que puede presentar el atributo rel son:\n\n* **alternate**, es un enlace a una versión alternativa al dococumento.\n* **author**, es un enlace al autor del documento.\n* **bookmark**, es una URL para poder guardar de forma permanente como bookmark.\n* **help**, es un enlace a un documento de ayuda.\n* **license**, es un enñace a información de derechos de autor o copyright.\n* **next**, el enlace es el siguiente documento en la selección.\n* **nofollow**, en este caso buscadores como Google no lo siguen. Se suele utilizar para indicar enlaces de publicidad.\n* **noreferrer**, indica que el navegador no debe de enviar una cabecera HTTP referer.\n* **prefetch**, indica que el enlace debe de ser cacheado. Nos sirve para acelerar la carga de los mismos.\n* **prev**, el enlace es el anterior documento en la selección.\n* **search**, es un enlace para la herramienta de búsqueda del documento.\n* **tag**, es una *etiqueta* del actual documento.",
+            "code": "<img src=\"fotos.png\" usemap=\"#autores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Autores\" />\n\n<map id=\"autores\" name=\"autores\">\n  <area shape=\"rect\" coords=\"0,0,157,147\" href=\"/victor-cuervo/\" alt=\"Víctor Cuervo\" rel=\"author\"/>\n  <area shape=\"rect\" coords=\"164,0,321,147\" href=\"/gustavo-puig/\" alt=\"Gustavo Puig\" rel=\"author\"/>\n  <area shape=\"rect\" coords=\"340,0,497,147\" href=\"/jose-carlos-ferreiro/\" alt=\"José Carlos Ferreiro\" rel=\"author\"/>\n</map>",
             "ldc": []
         },
         {
