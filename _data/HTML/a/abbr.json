@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "code": "",
+    "description": "**ABBR** es un elemento [HTML](http:\/\/www.manualweb.net\/html) que sirve para hacer referencia a una abreviatura. Por ejemplo: WWW, HTML, Dr, Fdo, EE.UU,... Se puede consultar un [listado de abreviaturas en Abreviaturas del espa\u00F1ol](http:\/\/dropby.com\/Genealogia\/abreviaturas.html)",
+    "code": "<abbr title=\"Firmado\">Fdo.<\/abbr>\r\n<abbr title=\"Estados Unidos\">EE.UU.<\/abbr>\r\n<abbr title=\"Doctor\">Dr.<\/abbr>",
     "ldc": []
 }
