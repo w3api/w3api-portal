@@ -41,8 +41,8 @@
         },
         {
             "nombre": "ping",
-            "description": "",
-            "code": "",
+            "description": "El atributo **ping** especifica una lista de URLs que serán notificadas cuando se pulse sobre el enlace del área. En este caso se realizará una petición **POST** a dichas URLs. El atributo **ping** es utilizado para pdoer hacer seguimiento de enlaces sobre los que se ha hecho click.",
+            "code": "<img src=\"http://lineadecodigo.com/wp-content/uploads/2010/09/navegadores.png\" usemap=\"#navegadores\" border=\"0\" width=\"821\" height=\"152\" alt=\"Navegadores\" />\n\n<map id=\"navegadores\" name=\"navegadores\">\n  <area shape=\"rect\" coords=\"507,0,664,147\" href=\"imagen-safari.jpg\" alt=\"Navegdor Safari\" ping=\"http://wwww.w3api.com/tracking\" />\n</map>",
             "ldc": []
         },
         {
