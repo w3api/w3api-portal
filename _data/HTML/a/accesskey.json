@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "code": "",
+    "description": "El atributo global **accesskey** nos sirve para indicar un atajo de teclado para un elemento de la página.\nSe especifica mediante un conjunto de caracteres separados por espacios. Estas letras serán las que sirvan como atajo de teclado. Hay que tener en cuenta que atendiendo al navegador y sistema operativo los atajos de teclado pueden ser diferentes. Así tenemos las siguientes combinaciones para activarlos:\n\n| **Navegador**         | **Windows**             | **Linux**              | **Mac**                   |\n|-------------------|---------------------|---------------------|-----------------------|\n| Firefox           | Alt + Shift + Tecla | Alt + Shift + Tecla | Control + Alt + Tecla |\n| Internet Explorer | Alt + Tecla         | N/A                 | N/A                   |\n| Google Chrome     | Alt + Tecla         | Alt + Tecla         | Control + Alt + Tecla |\n| Safari            | Alt + Tecla         | N/A                 | Control + Alt + Tecla |\n| Opera             | Shift + Esc + Tecla | Shift + Esc + Tecla | Shift + Esc + Tecla   |",
+    "code": "<a href=\"http://www.manualweb.net/html\" accesskey=\"h\">HTML</a><br>\n<a href=\"http://www.manualweb.net/java/\" accesskey=\"j\">Java</a>",
     "ldc": []
 }
