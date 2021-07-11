@@ -233,8 +233,8 @@
         },
         {
             "nombre": "type",
-            "description": "",
-            "code": "",
+            "description": "Indica el tipo de medio o **media-type** del enlace que hemos indicado en el atributo [href](\\HTML\\a\\href). Puedes encontrar una lista de **mime-types** en [https://www.iana.org/assignments/media-types/media-types.xhtml](https://www.iana.org/assignments/media-types/media-types.xhtml).",
+            "code": "<a href=\"circulo.svg\" type=\"image/svg+xml\"><img src=\"circulo.svg\" alt=\"Un círculo\"/></a>",
             "ldc": [
                 {
                     "nombre": "Cargar un v\u00eddeo AVI, ASF o WMV en mi p\u00e1gina web",
@@ -244,8 +244,8 @@
         },
         {
             "nombre": "referrerpolicy",
-            "description": "",
-            "code": "",
+            "description": "Mediante el atributo **referrerpolicy** se especifica que informaci\u00f3n de referencia enviar al usuario cuando hace click en el enlace.\nLos valores que puede tener el atributo **referrerpolicy** son:\n\n* **no-referrer**, no se env\u00eda informaci\u00f3n de referencia.\n* **no-referrer-when-downgrade**, es el valor por defecto. Se env\u00eda el origen (schema, servidor y puerto), path y la query string. Siempre que el protocolo sea igual o superior. Es decir, HTTP a HTTP, HTTPS a HTTPS y HTTP a HTTPs.\n* **origin**, se env\u00eda el origen (schema, servidor y puerto).\n* **origin-when-cross-origin**, env\u00eda el origen (schema, servidor y puerto) cuando son or\u00edgenes cruzados (cross-origin). Y env\u00eda origen, path y query string si es el mismo origen.\n* **same-origin**, env\u00eda la informaci\u00f3n de referencia solo si es el mismo origen.\n* **strict-origin-when-cross-origin**, env\u00eda el origen (schema, servidor y puerto) si el protocolo es igual o superior. Es decir, HTTP a HTTP, HTTPS a HTTPS y HTTP a HTTPs\n* **unsafe-url**, env\u00eda el origen, path y query string, independientemente del protocolo de seguridad. Hay que tener cuidado al utilizar este valor.",
+            "code": "<a href=\"http://www.arquitectoit.com/arquitectos/\" referrerpolicy=\"same-origin\">Arquitectos IT</a>",
             "ldc": []
         }
     ]
