@@ -1,13 +1,71 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "El elemento audio nos permite incluir contenido de audio dentro de las páginas web sin necesidad de utilizar plugins de reproductores de terceros. Así el audio se puede reproducir de forma estándar.\nPodéis conocer un poco más sobre los formatos de sonido y audio en [http://www.manualweb.net/html5/media-formats/](http://www.manualweb.net/html5/media-formats/).",
+    "code": "<audio src=\"micancion.mp3\" controls=\"controls\"></audio>",
+    "ldc": [
+        {
+            "nombre": "Bot\u00f3n play pause con audio HTML5",
+            "url": "http://lineadecodigo.com/html5/boton-play-pause-con-audio-html5/"
+        },
+        {
+            "nombre": "Fin del audio en HTML5",
+            "url": "http://lineadecodigo.com/html5/fin-del-audio-html5/"
+        },
+        {
+            "nombre": "Formatos Audio HTML5",
+            "url": "http://lineadecodigo.com/html5/formatos-audio-html5/"
+        },
+        {
+            "nombre": "M\u00fasica aleatoria con HTML5",
+            "url": "http://lineadecodigo.com/html5/musica-aleatoria-html5/"
+        },
+        {
+            "nombre": "M\u00fasica infinita en tu web con HTML5",
+            "url": "http://lineadecodigo.com/html5/musica-infinita-en-tu-web-con-html5/"
+        },
+        {
+            "nombre": "Poner m\u00fasica en tu web con HTML5",
+            "url": "http://lineadecodigo.com/html5/poner-musica-en-tu-web-con-html5/"
+        },
+        {
+            "nombre": "Volumen del Audio con HTML5",
+            "url": "http://lineadecodigo.com/html5/volumen-del-audio-html5/"
+        }
+    ],
     "atributos": [
         {
             "nombre": "src",
-            "description": "",
-            "code": "",
-            "ldc": []
+            "description": "El atributo **src** nos permite indicar la URL en la cual se encuentra el audio que queremos reproducir.\nEn el caso de que queramos controlar algo más el origen de reprodución podemos utilizar el elemento [`source`](\\HTML\\audio).",
+            "code": "<audio src=\"micancion.mp3\" controls=\"controls\"></audio>",
+            "ldc": [
+                {
+                    "nombre": "Bot\u00f3n play pause con audio HTML5",
+                    "url": "http://lineadecodigo.com/html5/boton-play-pause-con-audio-html5/"
+                },
+                {
+                    "nombre": "Fin del audio en HTML5",
+                    "url": "http://lineadecodigo.com/html5/fin-del-audio-html5/"
+                },
+                {
+                    "nombre": "Formatos Audio HTML5",
+                    "url": "http://lineadecodigo.com/html5/formatos-audio-html5/"
+                },
+                {
+                    "nombre": "M\u00fasica aleatoria con HTML5",
+                    "url": "http://lineadecodigo.com/html5/musica-aleatoria-html5/"
+                },
+                {
+                    "nombre": "M\u00fasica infinita en tu web con HTML5",
+                    "url": "http://lineadecodigo.com/html5/musica-infinita-en-tu-web-con-html5/"
+                },
+                {
+                    "nombre": "Poner m\u00fasica en tu web con HTML5",
+                    "url": "http://lineadecodigo.com/html5/poner-musica-en-tu-web-con-html5/"
+                },
+                {
+                    "nombre": "Volumen del Audio con HTML5",
+                    "url": "http://lineadecodigo.com/html5/volumen-del-audio-html5/"
+                }
+            ]
         },
         {
             "nombre": "crossorigin",
@@ -25,13 +83,23 @@
             "nombre": "autoplay",
             "description": "",
             "code": "",
-            "ldc": []
+            "ldc": [
+                {
+                    "nombre": "M\u00fasica infinita en tu web con HTML5",
+                    "url": "http://lineadecodigo.com/html5/musica-infinita-en-tu-web-con-html5/"
+                }
+            ]
         },
         {
             "nombre": "loop",
             "description": "",
             "code": "",
-            "ldc": []
+            "ldc": [
+                {
+                    "nombre": "M\u00fasica infinita en tu web con HTML5",
+                    "url": "http://lineadecodigo.com/html5/musica-infinita-en-tu-web-con-html5/"
+                }
+            ]
         },
         {
             "nombre": "muted",
@@ -43,7 +111,32 @@
             "nombre": "controls",
             "description": "",
             "code": "",
-            "ldc": []
+            "ldc": [
+                {
+                    "nombre": "Bot\u00f3n play pause con audio HTML5",
+                    "url": "http://lineadecodigo.com/html5/boton-play-pause-con-audio-html5/"
+                },
+                {
+                    "nombre": "Fin del audio en HTML5",
+                    "url": "http://lineadecodigo.com/html5/fin-del-audio-html5/"
+                },
+                {
+                    "nombre": "Formatos Audio HTML5",
+                    "url": "http://lineadecodigo.com/html5/formatos-audio-html5/"
+                },
+                {
+                    "nombre": "M\u00fasica aleatoria con HTML5",
+                    "url": "http://lineadecodigo.com/html5/musica-aleatoria-html5/"
+                },
+                {
+                    "nombre": "Poner m\u00fasica en tu web con HTML5",
+                    "url": "http://lineadecodigo.com/html5/poner-musica-en-tu-web-con-html5/"
+                },
+                {
+                    "nombre": "Volumen del Audio con HTML5",
+                    "url": "http://lineadecodigo.com/html5/volumen-del-audio-html5/"
+                }
+            ]
         }
     ]
 }
