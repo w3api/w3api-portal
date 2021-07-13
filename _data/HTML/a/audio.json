@@ -75,8 +75,8 @@
         },
         {
             "nombre": "preload",
-            "description": "",
-            "code": "",
+            "description": "Mediante el atributo **preload** podemos indicar si el contenido del [`audio`](/HTML/audio) debe de ser descargado a la vez que se descarga la página o esperar hasta el momento que se vaya a reproduccir el audio.\n\nLos valores que aparecen en el atributo **preload** son ***auto*** para descargar el audio a la vez que se carga la página, ***none*** para no descargarlo junto con la página y ***metadata*** para solo descargar la metainformación del fichero de audio.\n\nEn el caso de que aparezca el atributo [`autoplay`](\\HTML\\audio\\autoplay) para la carga automática, se ignora el atributo **preload**.",
+            "code": "<audio src=\"micancion.mp3\" preload=\"auto\" controls=\"controls\"></audio>",
             "ldc": []
         },
         {
