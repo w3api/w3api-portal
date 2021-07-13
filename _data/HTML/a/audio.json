@@ -69,8 +69,8 @@
         },
         {
             "nombre": "crossorigin",
-            "description": "",
-            "code": "",
+            "description": "Algunos elementos de [HTML5](http://www.manualweb.net/html5) como **audio** dan soporte para **CORS**. Para ello tienen el atributo **crossorigin**.\n\n> **CORS** nos permite gestionar recursos de diferentes orígenes. Para ello se utiliza un mecanismos de cabeceras HTTP para que un **agente de usuario** (navegador) acceda a recursos de un dominio diferente al dominio al que pertenece. Ya que por defecto solo podrá acceder a recursos del dominio al que pertenece.\n\nLos valores del atributo **crossorigin** pueden ser ***anonymous*** dónde las solicitudes de intercambio no enviarán credenciales y ***use-credentials*** para las solicitudes en las que se proporcionen credenciales.",
+            "code": "<audio src=\"micancion.mp3\" crossorigin=”anonymous” controls=\"controls\"></audio>",
             "ldc": []
         },
         {
