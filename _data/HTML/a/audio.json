@@ -81,8 +81,8 @@
         },
         {
             "nombre": "autoplay",
-            "description": "",
-            "code": "",
+            "description": "El atributo **autoplay** nos permite que el audio se empieze a ejecutar de forma automática una vez que sea guardado. Es un atrbuto booleano, por lo que al aparecer ya tendrá un valor de *true*.",
+            "code": "<audio src=\"micancion.mp3\" autoplay></audio>",
             "ldc": [
                 {
                     "nombre": "M\u00fasica infinita en tu web con HTML5",
@@ -92,8 +92,8 @@
         },
         {
             "nombre": "loop",
-            "description": "",
-            "code": "",
+            "description": "El atributo **loop** nos permite repetir de forma repetida el audio una vez que este haya acabado. El atributo **loop** es un atributo booleano, es por ello que funcionará con el simple hecho de aparecer.",
+            "code": "<audio src=\"micancion.mp3\" autoplay loop></audio>",
             "ldc": [
                 {
                     "nombre": "M\u00fasica infinita en tu web con HTML5",
@@ -103,14 +103,14 @@
         },
         {
             "nombre": "muted",
-            "description": "",
-            "code": "",
+            "description": "En el caso de que aparezca el atributo **muted** el sonido aparecerá como apagado. Es un atributo booleano, así que funcionará simplemente por el hecho de aparecer.",
+            "code": "<audio src=\"micancion.mp3\" muted></audio>",
             "ldc": []
         },
         {
             "nombre": "controls",
-            "description": "",
-            "code": "",
+            "description": "El atributo **controls** hace que aparezca un panel de reproducción cuando utilicemos el elemento [`audio`](\\HTML\\audio).\n\nEl panel de reproducción tendrá botones para poder *iniciar la reproducción*, *pausar la reproducción*, *movernos por el contenido* y *gestionar el volumen*.\n\nEl atributo **controls** es un atributo booleano que simplemente habrá que añadirlo para que funcione.",
+            "code": "<audio src=\"micancion.mp3\" controls></audio>",
             "ldc": [
                 {
                     "nombre": "Bot\u00f3n play pause con audio HTML5",
