@@ -1,10 +1,10 @@
 ---
 title: autocapitalize
 permalink: /HTML/autocapitalize/
-date: 2021-02-15 01:07:21.547640
+date: 2021-07-15 00:16:26.383845 +0200
 key: HTML.a.autocapitalize
 category: HTML
-tags: ['atributo html']
+tags: ['atributo html','html 5.2']
 sidebar: 
   nav: html
 ---
@@ -14,6 +14,7 @@ sidebar:
 
 ## Sintaxis
 ~~~html
+<elemento autocapitalize="off|sentences|words|characters"></elemento>
 ~~~
 
 ## Ejemplo

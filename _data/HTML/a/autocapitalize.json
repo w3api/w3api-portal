@@ -1,5 +1,5 @@
 {
-    "description": "",
-    "code": "",
+    "description": "El atributo global **autocapitalize** nos permite controlar el comportamiento del teclado virtual que se mostrará a un usuario cuando vaya a introduccir un texto.\n\nLos valores que puede tomar el atributo **autocapitalize** son:\n\n* **off**, no hay conversión a mayúsculas automática.\n* **sentences**, la primera letra de cada frase se le ofrecerá al usuario en mayúsculas.\n* **words**, la primera letra de cada palabra se le mostrará en el teclado en mayúsculas.\n* **characters**, todas las letras del teclado están en mayúsculas.",
+    "code": "<div>\n    <label for=\"datos\">Escribe un texto:</label><br/>\n    <input type=\"text\" autocapitalize=\"sentences\" id=\"datos\"/><br/>\n    <span>(La primera letra de cada frase estará en mayúsculas)</span>\n</div>",
     "ldc": []
 }
