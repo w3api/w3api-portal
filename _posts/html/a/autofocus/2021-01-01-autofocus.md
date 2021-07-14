@@ -1,7 +1,7 @@
 ---
 title: autofocus
 permalink: /HTML/autofocus/
-date: 2021-02-15 01:07:21.547782
+date: 2021-07-15 00:30:12.395494 +0200
 key: HTML.a.autofocus
 category: HTML
 tags: ['atributo html']
@@ -14,6 +14,7 @@ sidebar:
 
 ## Sintaxis
 ~~~html
+<elemento autofous></elemento>
 ~~~
 
 ## Ejemplo
