@@ -121,7 +121,7 @@ redirect 301 /wiki/Java:File.createTempFile() /Java/File/createTempFile/
 redirect 301 /wiki/Java:ArrayList.iterator() /Java/ArrayList/iterator/
 redirect 301 /wiki/Java:File.separator /Java/File/separator/
 redirect 301 /wiki/Java:InputStreamReader /Java/InputStreamReader/
-redirect 301 /wiki/HTML5:INPUT.autofocus /HTML/input/autofocus/
+redirect 301 /wiki/HTML5:INPUT.autofocus /HTML/autofocus/
 redirect 301 /wiki/Java:JTextField /Java/JTextField/
 redirect 301 /wiki/Java:Connection /Java/Connection/
 redirect 301 /wiki/Java:File.exists() /Java/File/exists/
