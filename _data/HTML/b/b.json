@@ -1,5 +1,5 @@
 {
-    "description": "Elemento que nos sirve para poder representar un texto en negrita.",
+    "description": "Elemento que nos sirve para poder representar un texto en negrita. Es un texto que simplemente está en negrita y no tiene especial relevancia. Si se le quiere dar relevancia y que aparezca en negrita se deberá de utilizar el elemento [`strong`](/HTML/strong).",
     "code": "<p>Este testo es normal <b>y este está en negrita</b>.</p>",
     "ldc": [
         {
