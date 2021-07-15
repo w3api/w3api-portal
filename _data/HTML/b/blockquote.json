@@ -1,0 +1,23 @@
+{
+    "description": "El elemento **blockquote** nos sirve para crear citas en bloque. Los navegadores suelen identar el contenido del elemento **blockquote**, aunque no debería de utilizarse para dicho propósito.",
+    "code": "<blockquote cite=\"http://lineadecodigo.com\">\n<p>Mantén un aprendizaje continuo, se constante, comparte y difunde el arte de programar.<br/>\n<span>Víctor Cuervo</span></p>\n</blockquote>",
+    "ldc": [
+        {
+            "nombre": "Poner citas en HTML",
+            "url": "http://lineadecodigo.com/html/poner-citas-en-html/"
+        }
+    ],
+    "atributos": [
+        {
+            "nombre": "cite",
+            "description": "El atributo **cite** indicar la URL en la que se encuentra la referencia a la cita utilizada dentro del elemento [`blockquote`](\\HTML\\blockquote).",
+            "code": "<blockquote cite=\"http://lineadecodigo.com\">\n<p>Mantén un aprendizaje continuo, se constante, comparte y difunde el arte de programar.<br/>\n<span>Víctor Cuervo</span></p>\n</blockquote>",
+            "ldc": [
+                {
+                    "nombre": "Poner citas en HTML",
+                    "url": "http://lineadecodigo.com/html/poner-citas-en-html/"
+                }
+            ]
+        }
+    ]
+}
