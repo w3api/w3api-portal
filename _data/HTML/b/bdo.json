@@ -1,0 +1,5 @@
+{
+    "description": "La direcci\u00f3n de lectura del texto de la p\u00e1gina la establecemos mediante el elemento [`dir`](\\HTML\\dir). Pero podemos utilizar el elemeto **bdo** en el caso de que tengamos que sobreescribir alguna parte del texto la direcci\u00f3n de lectura.",
+    "code": "<bdo dir=\"rtl\">Este texto ir\u00e1 de derecha a izquierda</bdo>",
+    "ldc": []
+}
