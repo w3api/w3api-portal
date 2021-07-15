@@ -1,0 +1,5 @@
+{
+    "description": "El elemento **bdi** o elemento de asilamiento bi-direccional (bi-directional isolate) nos permite aislar texto para que no sea formateado con una direcci\u00f3n de lectura diferente al texto que hay fuera de \u00e9l.",
+    "code": "Mi nombre en persa es <bdi>\u0648\u06cc\u06a9\u062a\u0648\u0631</bdi>",
+    "ldc": []
+}
