@@ -1,0 +1,19 @@
+{
+    "description": "El elemento **base** sirve para establecer la dirección base de todas las direcciones relativas que haya en la página.\nSolo puede existir un elemento **base** dentro de la página web y además tiene que estar dentro del elemento [`head`](HTMLhead) de la página..",
+    "code": "<base href=\"http://www.manualweb.net/html5\">",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "href",
+            "description": "El atributo **href** nos sirve para poder indicar la URL que servirá como URL base del documento.",
+            "code": "<base href=\"http://www.manualweb.net/html5\">",
+            "ldc": []
+        },
+        {
+            "nombre": "target",
+            "description": "El atributo **target** indica la forma en la que se abriran todos los enlaces de la página. Las formas en las que podemos abrirlo son:\n\n* **_blank**, el enlace se abre en una nueva página.\n* **_parent**, el enlace se abre sobre la página padre.\n* **_self**, el enlace se abre en la misma página.\n* **_top**, el enlace se abre sobre la ventana superior. En este caso es si estamos en un frame o iframe. Se abriría sobre la página que lo contiene.",
+            "code": "<base href=\"http://www.manualweb.net/html5\" target=\"_blank\">",
+            "ldc": []
+        }
+    ]
+}
