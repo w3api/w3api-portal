@@ -1,0 +1,108 @@
+{
+    "description": "El elemento **body** nos sirve para definir el cuerpo del contenido de la página web. Todos los elementos que se encuentren dentro del **body** serán representados visualmente.",
+    "code": "<!DOCTYPE html>\n<head>\n    <meta charset=\"UTF-8\">    \n    <title>Título de la página</title>\n</head>\n<body>\n\n    <h1>Cabecera principal</h1>\n    <p>Contenido de la página web</p>\n    \n</body>\n</html>",
+    "ldc": [
+        {
+            "nombre": "Ir al principio y al final de una p\u00e1gina web",
+            "url": "http://lineadecodigo.com/html/ir-al-principio-y-al-final-de-una-pagina-web/"
+        }
+    ],
+    "eventos": [
+        {
+            "nombre": "onafterprint",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onbeforeprint",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onbeforeunload",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onhashchange",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onlanguagechange",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onmessage",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onmessageerror",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onoffline",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "ononline",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpagehide",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpageshow",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpopstate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onrejectionhandled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onstorage",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onunhandledrejection",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onunload",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}
