@@ -10,14 +10,14 @@
     "eventos": [
         {
             "nombre": "onafterprint",
-            "description": "",
-            "code": "",
+            "description": "El evento **onafterprint** se lanza una vez que hemos lanzado una impresión, justo una vez que hemos cerrado el cuadro de dialogo de la impresión.\nAl evento **onafterprint** podremos asociarle el código [Javascript](http://www.manualweb.net/javascript) que queremos que gestione el evento.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Evento OnAfterPrint</title>\n</head>\n<body onafterprint=\"postimpresion();\" onbeforeprint=\"preimpresion();\">\n\n    <div id=\"mensaje\"></div>\n\n\n    <script>\n        function mensaje(texto){\n            contenido = document.getElementById(\"mensaje\");\n            contenido.innerHTML = texto;        \n        }\n\n        function postimpresion(){\n            mensaje(\"Has realizado una impresión\");\n        }\n\n        function preimpresion(){\n            mensaje(\"Vas a imprimir esta pagina\");\n        }\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onbeforeprint",
-            "description": "",
-            "code": "",
+            "description": "El evento **onbeforeprint** se lanza antes de realizar una impresión. Una vez que hemos iniciado el proceso de impresión. Mediante este evento podemos modificar el documento que vamos a imprimir. Al evento **onbeforeprint** podremos asociarle el código [Javascript](http://www.manualweb.net/javascript) que queremos que gestione el evento.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Evento OnAfterPrint</title>\n</head>\n<body onafterprint=\"postimpresion();\" onbeforeprint=\"preimpresion();\">\n\n    <div id=\"mensaje\"></div>\n\n\n    <script>\n        function mensaje(texto){\n            contenido = document.getElementById(\"mensaje\");\n            contenido.innerHTML = texto;        \n        }\n\n        function postimpresion(){\n            mensaje(\"Has realizado una impresión\");\n        }\n\n        function preimpresion(){\n            mensaje(\"Vas a imprimir esta pagina\");\n        }\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
