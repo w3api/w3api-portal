@@ -28,14 +28,14 @@
         },
         {
             "nombre": "onhashchange",
-            "description": "El evento **onhaschange** se lanza cuando cambia el valor del hash de la URL. Es decir, el valor que va asociado a la almohadilla.\nLos hash son utilizados en aplicaciones **SPA (Single Page Application)** y se utilizan para gestionar la navegación. En ese punto el evento **onhashchange** nos puede ser de mucha utilidad.",
+            "description": "El evento **onhashchange** se lanza cuando cambia el valor del hash de la URL. Es decir, el valor que va asociado a la almohadilla.\nLos hash son utilizados en aplicaciones **SPA (Single Page Application)** y se utilizan para gestionar la navegación. En ese punto el evento **onhashchange** nos puede ser de mucha utilidad.",
             "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Controlar cambio hash</title>\n</head>\n<body onhashchange=\"cambioHash();\">\n\n    <button onclick=\"nuevoHash('P1');\">Página 1</button> \n    <button onclick=\"nuevoHash('P2');\">Página 2</button>\n    <button onclick=\"nuevoHash('P3');\">Página 3</button>\n\n    <br/><br/>\n\n    <div id=\"mensaje\"></div>\n\n    <script>\n\n        function nuevoHash(nombre) {\n            location.hash = \"#\"+nombre;\n        }\n\n        function cambioHash(){\n            document.getElementById(\"mensaje\").innerHTML = \"Navegación al hash '\" + location.hash + \"'\";\n        }\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onlanguagechange",
-            "description": "",
-            "code": "",
+            "description": "El evento **onlanguagechange** se lanza cuando se cambia el idioma por defecto del documento. Para poder cambiar el idioma deberemos de hacerlo desde la configuración del navegador.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Idioma</title>\n</head>\n<body onlanguagechange=\"cambioIdioma();\">\n\n    <h1>Cambio de Idioma</h1>\n    <div id=\"mensaje\"></div>\n\n    <script>\n\n        var mensaje = document.getElementById(\"mensaje\");\n        mensaje.innerHTML = \"El idioma por defecto es \" + navigator.language;\n\n        function cambioIdioma(){\n            mensaje.innerHTML = \"Se ha cambiado el idioma del documento a \" +   navigator.language;\n        }\n\n\n    </script>\n\n\n</body>\n</html>",
             "ldc": []
         },
         {
