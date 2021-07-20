@@ -40,8 +40,8 @@
         },
         {
             "nombre": "onmessage",
-            "description": "",
-            "code": "",
+            "description": "El evento **onmessage** nos permite controlar cada vez que recibimos un mensaje de evento. Recibirá la información del mensaje de evento como parámetro para poder conocer quién envía el mensaje.\nEl mensaje de evento tiene las siguientes propiedades que nos sirven para conocer algo más del mensaje:\n\n* **data**, el mensaje enviado por el emisor.\n* **origin**, el origen del emisor del mensaje.\n* **lastEventId**, un ID que identifica de manera unívoca el mensaje.\n* **source**, un objeto que representa al emisor: WindowProxy, MessagePort o ServiceWorker.\n* **ports**, objeto que representa los puertos asociados al canal del mensaje.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detectar Evento</title>\n</head>\n<body onmessage=\"mensajeRecibido(event);\">\n    \n    <script>\n        function mensajeRecibido(e) {\n            console.log(\"Mensaje Recibido\");\n            console.log(e);\n        }\n\n        window.postMessage(\"MiMensaje\");\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
