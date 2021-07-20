@@ -22,8 +22,8 @@
         },
         {
             "nombre": "onbeforeunload",
-            "description": "",
-            "code": "",
+            "description": "El evento **onbeforeunload** se lanza justo antes de que se ejecute un **unload** de la página, es decir, que el usuario abandone la página.\nLa página todavía está visible y lo que podemos es formar a que salga un mensaje al usuario para que sepa que si abandona va a perder todos los datos de la página. Se utiliza con los formularios.\n\nEl evento **onbeforeunload** tiene que devolver un valor de `null` para que el agente de usaurio sepa que tiene que mostrar la alerta.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=ç, initial-scale=1.0\">\n    <title>Controlar Abandono Página</title>\n\n\n    <div id=\"mensaje\"></div>\n\n    <script type=\"text/javascript\">\n        \n        window.addEventListener(\"beforeunload\",function(e){\n            document.getElementById(\"mensaje\").innerHTML = \"Si se va no se guardarán los datos\";\n            (e || window.event).returnValue = null;\n            return null;\n        },true);\n        \n\n    </script>\n\n</head>\n<body>",
             "ldc": []
         },
         {
