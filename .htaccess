@@ -19,6 +19,7 @@ redirect 301 /wiki/Java:ArrayList.remove() /Java/ArrayList/remove/
 redirect 301 /wiki/Java:String.toUpperCase() /Java/String/toUpperCase/
 redirect 301 /wiki/Java:IOException /Java/IOException/
 redirect 301 /wiki/Java:ArrayList /Java/ArrayList/
+redirect 301 /wiki/java:arraylist /Java/ArrayList/
 redirect 301 /wiki/Java:System.arraycopy() /Java/System/arraycopy/
 redirect 301 /wiki/Java:List.add() /Java/List/add/
 redirect 301 /wiki/Java:StringBuffer.append() /Java/StringBuffer/append/
@@ -49,6 +50,7 @@ redirect 301 /wiki/Java:HashMap.get() /Java/HashMap/get/
 redirect 301 /wiki/Java:String.lastIndexOf() /Java/String/lastIndexOf/
 redirect 301 /wiki/Java:String /Java/String/
 redirect 301 /wiki/HTML:IMG /HTML/img/
+redirect 301 /wiki/html:img /HTML/img/
 redirect 301 /wiki/Java:Window.setLocationRelativeTo() /Java/Window/setLocationRelativeTo/
 redirect 301 /wiki/Java:System.getProperty() /Java/System/getProperty/
 redirect 301 /wiki/Java:ArrayList.set() /Java/ArrayList/set/
@@ -64,7 +66,7 @@ redirect 301 /wiki/Java:HashMap.entrySet() /Java/HashMap/entrySet/
 redirect 301 /wiki/Java:FileOutputStream /Java/FileOutputStream/
 redirect 301 /wiki/Java:Calendar.getInstance() /Java/Calendar/getInstance/
 redirect 301 /wiki/Java:BufferedWriter /Java/BufferedWriter/
-redirect 301 /wiki/HTML:Width /HTML/width/
+redirect 301 /wiki/HTML:Width /HTML/img/width/
 redirect 301 /wiki/Java:String.codePointAt() /Java/String/codePointAt/
 redirect 301 /wiki/Java:Calendar /Java/Calendar/
 redirect 301 /wiki/Java:HttpServletRequest.getSession() /Java/HttpServletRequest/getSession/
@@ -110,6 +112,7 @@ redirect 301 /wiki/Java:NumberFormatException /Java/NumberFormatException/
 redirect 301 /wiki/Java:ServletRequest.getParameterValues() /Java/ServletRequest/getParameterValues/
 redirect 301 /wiki/Java:File.getAbsolutePath() /Java/File/getAbsolutePath/
 redirect 301 /wiki/CSS:Text-align /CSS/text-align/
+redirect 301 /wiki/css:text-align /CSS/text-align/
 redirect 301 /wiki/Java:Graphics.drawOval() /Java/Graphics/drawOval/
 redirect 301 /wiki/Java:HashMap.put() /Java/HashMap/put/
 redirect 301 /wiki/Java:Runtime.exec() /Java/Runtime/exec/
@@ -136,14 +139,14 @@ redirect 301 /wiki/Java:GregorianCalendar /Java/GregorianCalendar/
 redirect 301 /wiki/HTML:TEXTAREA /HTML/textarea/
 redirect 301 /wiki/Java:RequestDispatcher.forward() /Java/RequestDispatcher/forward/
 redirect 301 /wiki/Java:HttpSession /Java/HttpSession/
-redirect 301 /wiki/HTML:Href /HTML/href/
+redirect 301 /wiki/HTML:Href /HTML/a/href/
 redirect 301 /wiki/Java:Arrays.sort() /Java/Arrays/sort/
 redirect 301 /wiki/HTML:Onmousemove /HTML/onmousemove/
 redirect 301 /wiki/Java:FileNotFoundException /Java/FileNotFoundException/
 redirect 301 /wiki/Java:Util.List.toArray() /Java/Util/List/toArray/
 redirect 301 /wiki/HTML:Noresize /HTML/Noresize/
 redirect 301 /wiki/Java:String.matches() /Java/String/matches/
-redirect 301 /wiki/HTML:Height /HTML/height/
+redirect 301 /wiki/HTML:Height /HTML/img/height/
 redirect 301 /wiki/HTML:Selected /HTML/selected/
 redirect 301 /wiki/HTML5:VIDEO /HTML/video/
 redirect 301 /wiki/Java:HttpSession.setMaxInactiveInterval() /Java/HttpSession/setMaxInactiveInterval/
@@ -160,10 +163,10 @@ redirect 301 /wiki/Java:HashSet /Java/HashSet/
 redirect 301 /wiki/Java:String.endsWith() /Java/String/endsWith/
 redirect 301 /wiki/Java:PreparedStatement.executeQuery() /Java/PreparedStatement/executeQuery/
 redirect 301 /wiki/Java:FileReader /Java/FileReader/
-redirect 301 /wiki/HTML:Type /HTML/Type/
+redirect 301 /wiki/HTML:Type /HTML/input/type/
 redirect 301 /wiki/HTML:CAPTION /HTML/caption/
 redirect 301 /wiki/Java:SQLException /Java/SQLException/
-redirect 301 /wiki/CSS:Background /CSS/Background/
+redirect 301 /wiki/CSS:Background /CSS/background/
 redirect 301 /wiki/Java:ArithmeticException /Java/ArithmeticException/
 redirect 301 /wiki/Java:Dimension /Java/Dimension/
 redirect 301 /wiki/HTML:Scrolling /HTML/Scrolling/
@@ -171,7 +174,8 @@ redirect 301 /wiki/Java:PreparedStatement /Java/PreparedStatement/
 redirect 301 /wiki/HTML:Onchange /HTML/onchange/
 redirect 301 /wiki/Java:Window.addWindowListener() /Java/Window/addWindowListener/
 redirect 301 /wiki/HTML5:AUDIO /HTML/audio/
-redirect 301 /wiki/CSS:Background-color /CSS/Background/color/
+redirect 301 /wiki/CSS:Background-color /CSS/background-color/
+redirect 301 /wiki/css:background-color /CSS/background-color/
 redirect 301 /wiki/Java:StringBuffer /Java/StringBuffer/
 redirect 301 /wiki/DOM:HTMLCanvasElement.toDataURL() /DOM/HTMLCanvasElement/toDataURL/
 redirect 301 /wiki/Java:ResultSet.getMetaData() /Java/ResultSet/getMetaData/
@@ -199,7 +203,7 @@ redirect 301 /wiki/Java:StringTokenizer.hasMoreTokens() /Java/StringTokenizer/ha
 redirect 301 /wiki/Java:System.in /Java/System/in/
 redirect 301 /wiki/Java:File.getParent() /Java/File/getParent/
 redirect 301 /wiki/ASP:Session.LCID /ASP/Session/LCID/
-redirect 301 /wiki/HTML:Src /HTML/src/
+redirect 301 /wiki/HTML:Src /HTML/img/src/
 redirect 301 /wiki/Java:StringBuffer.reverse() /Java/StringBuffer/reverse/
 redirect 301 /wiki/HTML:Onsubmit /HTML/onsubmit/
 redirect 301 /wiki/Java:File.listFiles() /Java/File/listFiles/
@@ -228,7 +232,7 @@ redirect 301 /wiki/HTML:OnSubmit /HTML/onsubmit/
 redirect 301 /wiki/Java:StringBuilder.setCharAt() /Java/StringBuilder/setCharAt/
 redirect 301 /wiki/Categoría:JavaScript /Javascript/
 redirect 301 /wiki/CSS:Text-decoration /CSS/text-decoration/
-redirect 301 /wiki/HTML:Alt /HTML/alt/
+redirect 301 /wiki/HTML:Alt /HTML/img/alt/
 redirect 301 /wiki/Categoría:Java_Applet /Java/tag/java.applet/
 redirect 301 /wiki/Categoría:HTML /HTML/
 redirect 301 /wiki/Java:Array /Java/Array/
@@ -257,7 +261,7 @@ redirect 301 /wiki/Javascript:Array /Javascript/Array/
 redirect 301 /wiki/Categoría:Java_SE /Java/tag/java-se/
 redirect 301 /wiki/HTML:Title /HTML/title/
 redirect 301 /wiki/HTML5:INPUT /HTML/input/
-redirect 301 /wiki/HTML:Rowspan /HTML/rowspan/
+redirect 301 /wiki/HTML:Rowspan /HTML/td/rowspan/
 redirect 301 /wiki/Java:Hashtable.get() /Java/Hashtable/get/
 redirect 301 /wiki/Categoría:Java_Util /Java/tag/java.util/
 redirect 301 /wiki/Java:HashSet.contains() /Java/HashSet/contains/
@@ -281,10 +285,11 @@ redirect 301 /wiki/Java:System /Java/System/
 redirect 301 /wiki/Java:File.isDirectory() /Java/File/isDirectory/
 redirect 301 /wiki/Java:Component.setLocation() /Java/Component/setLocation/
 redirect 301 /wiki/CSS:Font-weight /CSS/font-weight/
+redirect 301 /wiki/css:font-weight /CSS/font-weight/
 redirect 301 /wiki/Java:ResultSetMetaData.getColumnCount() /Java/ResultSetMetaData/getColumnCount/
 redirect 301 /wiki/Java:Calendar.DAY_OF_WEEK_IN_MONTH /Java/Calendar/DAY_OF_WEEK_IN_MONTH/
 redirect 301 /wiki/Java:DriverManager /Java/DriverManager/
-
+redirect 301 /wiki/HTML:H2 /HTML/h2/
 
 redirect 301 /wiki/ http://www.w3api.com
 
