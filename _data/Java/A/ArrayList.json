@@ -1,0 +1,705 @@
+{
+    "description": "Un **ArrayList** es una clase que representa un array de elementos que puede ser redimensionado. Es decir, en tiempo de ejecución puede cambiar su tamaño y albergar más o menos elementos.",
+    "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());",
+    "ldc": [
+        {
+            "nombre": "Adivinar n\u00fameros con Java",
+            "url": "http://lineadecodigo.com/java/adivinar-numeros-con-java/"
+        },
+        {
+            "nombre": "A\u00f1adir elementos al final de un ArrayList",
+            "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+        },
+        {
+            "nombre": "Bucle for-each en Java",
+            "url": "http://lineadecodigo.com/java/bucle-for-each-en-java/"
+        },
+        {
+            "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+            "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+        },
+        {
+            "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+            "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+        },
+        {
+            "nombre": "Contar las vocales de un fichero en Java",
+            "url": "http://lineadecodigo.com/java/contar-las-vocales-de-un-fichero-en-java/"
+        },
+        {
+            "nombre": "Convertir un array en una lista",
+            "url": "http://lineadecodigo.com/java/convertir-un-array-en-una-lista/"
+        },
+        {
+            "nombre": "Convertir una Lista en un Array",
+            "url": "http://lineadecodigo.com/java/convertir-una-lista-en-un-array/"
+        },
+        {
+            "nombre": "Crear un ArrayList en Java",
+            "url": "http://lineadecodigo.com/java/crear-un-arraylist-en-java/"
+        },
+        {
+            "nombre": "Eliminar todos los elementos de un ArrayList",
+            "url": "http://lineadecodigo.com/java/eliminar-todos-los-elementos-de-un-arraylist/"
+        },
+        {
+            "nombre": "Eliminar un elemento de un ArrayList",
+            "url": "http://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/"
+        },
+        {
+            "nombre": "Insertar elementos en un ArrayList",
+            "url": "http://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/"
+        },
+        {
+            "nombre": "Insertar un elemento dentro de un ArrayList",
+            "url": "http://lineadecodigo.com/java/insertar-un-elemento-dentro-de-un-arraylist/"
+        },
+        {
+            "nombre": "Iterar un ArrayList",
+            "url": "http://lineadecodigo.com/java/iterar-un-arraylist/"
+        },
+        {
+            "nombre": "Leer n\u00fameros por teclado con Java",
+            "url": "http://lineadecodigo.com/java/leer-numeros-teclado-java/"
+        },
+        {
+            "nombre": "Listar una lista en Java",
+            "url": "http://lineadecodigo.com/java/listar-una-lista-en-java/"
+        },
+        {
+            "nombre": "N\u00famero de elementos de una Lista en Java",
+            "url": "http://lineadecodigo.com/java/numero-de-elementos-de-una-lista-en-java/"
+        },
+        {
+            "nombre": "N\u00famero de elementos en un ArrayList",
+            "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+        },
+        {
+            "nombre": "Pruebas de rendimiento con Java Microbenchmark Harness",
+            "url": "http://lineadecodigo.com/java/pruebas-de-rendimiento-con-java-microbenchmark-harness/"
+        },
+        {
+            "nombre": "Recorrer un ArrayList",
+            "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+        },
+        {
+            "nombre": "Recorrer una lista con ListIterator",
+            "url": "http://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/"
+        },
+        {
+            "nombre": "Reemplazar un elemento del ArrayList",
+            "url": "http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/"
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "ArrayList",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());",
+            "description": "El constructor de [`ArrayList`](\\Java\\ArrayList) nos permite crearlo vacío, a partir de los elementos definidos en una colección, es decir, estructuras de tipo [`Collection`](/Java/Collection) o bien indicando una capacidad inicial para el [`ArrayList`](\\Java\\ArrayList)\n\nEn el caso de que la colección que se pasemos como argumento sea null se generará una [`NullPointerException`](\\Java\\NullPointerException). Y si el número con el que inicializamos el contructor del [`ArrayList`](\\Java\\ArrayList) es negativo se genera una excepción [`IllegalArgumentException`](\\Java\\IllegalArgumentException).",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> c",
+                    "description": "Colección a partir de la cual queremos crear el [`ArrayList`](\\Java\\ArrayList). La colección puede ser cualquier estructura de datos que extienda de la clase [`Collection`](\\Java\\Collection)."
+                },
+                {
+                    "nombre": "int initialCapacity",
+                    "description": "Número de elementos con el cual queremos iniciar el [`ArrayList`](\\Java\\ArrayList)."
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "Adivinar n\u00fameros con Java",
+                    "url": "http://lineadecodigo.com/java/adivinar-numeros-con-java/"
+                },
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Bucle for-each en Java",
+                    "url": "http://lineadecodigo.com/java/bucle-for-each-en-java/"
+                },
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "Contar las vocales de un fichero en Java",
+                    "url": "http://lineadecodigo.com/java/contar-las-vocales-de-un-fichero-en-java/"
+                },
+                {
+                    "nombre": "Convertir un array en una lista",
+                    "url": "http://lineadecodigo.com/java/convertir-un-array-en-una-lista/"
+                },
+                {
+                    "nombre": "Convertir una Lista en un Array",
+                    "url": "http://lineadecodigo.com/java/convertir-una-lista-en-un-array/"
+                },
+                {
+                    "nombre": "Crear un ArrayList en Java",
+                    "url": "http://lineadecodigo.com/java/crear-un-arraylist-en-java/"
+                },
+                {
+                    "nombre": "Eliminar todos los elementos de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-todos-los-elementos-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Eliminar un elemento de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Insertar elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Insertar un elemento dentro de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-un-elemento-dentro-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Iterar un ArrayList",
+                    "url": "http://lineadecodigo.com/java/iterar-un-arraylist/"
+                },
+                {
+                    "nombre": "Leer n\u00fameros por teclado con Java",
+                    "url": "http://lineadecodigo.com/java/leer-numeros-teclado-java/"
+                },
+                {
+                    "nombre": "Listar una lista en Java",
+                    "url": "http://lineadecodigo.com/java/listar-una-lista-en-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos de una Lista en Java",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-de-una-lista-en-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Pruebas de rendimiento con Java Microbenchmark Harness",
+                    "url": "http://lineadecodigo.com/java/pruebas-de-rendimiento-con-java-microbenchmark-harness/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                },
+                {
+                    "nombre": "Recorrer una lista con ListIterator",
+                    "url": "http://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/"
+                },
+                {
+                    "nombre": "Reemplazar un elemento del ArrayList",
+                    "url": "http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/"
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "El método **add** nos permite añadir un elemento al final del [`ArrayList`](\\Java\\ArrayList) si no le indicamos una posición o bien nos permite añadir un elemento en una posición determinada si le pasamos como parámetro la posición además del elemento.\n\nEn el caso de que haya un elemento en la posición indicada, desplaza dicho elemento y los siguientes una posición a la derecha dentro de [`ArrayList`](\\Java\\ArrayList).\n\nSi la posición a insertar el elemento no está dentro de las posiciones que tiene el [`ArrayList`](\\Java\\ArrayList), es decir, entre 0 y el tamaño del [`ArrayList`](\\Java\\ArrayList), se generará una excepción [`IndexOutOfBoundsException`](\\Java\\IndexOutOfBoundsException).",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": "Posición del [`ArrayList`](\\Java\\ArrayList) dónde queremos insertar el elemento."
+                },
+                {
+                    "nombre": "E e",
+                    "description": "Elemento a insertar dentro del [`ArrayList`](\\Java\\ArrayList)"
+                },
+                {
+                    "nombre": "E element",
+                    "description": "Elemento a insertar dentro del [`ArrayList`](\\Java\\ArrayList)"
+                }
+            ],
+            "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n",
+            "ldc": [
+                {
+                    "nombre": "Adivinar n\u00fameros con Java",
+                    "url": "http://lineadecodigo.com/java/adivinar-numeros-con-java/"
+                },
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Bucle for-each en Java",
+                    "url": "http://lineadecodigo.com/java/bucle-for-each-en-java/"
+                },
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "Contar las vocales de un fichero en Java",
+                    "url": "http://lineadecodigo.com/java/contar-las-vocales-de-un-fichero-en-java/"
+                },
+                {
+                    "nombre": "Convertir una Lista en un Array",
+                    "url": "http://lineadecodigo.com/java/convertir-una-lista-en-un-array/"
+                },
+                {
+                    "nombre": "Crear un ArrayList en Java",
+                    "url": "http://lineadecodigo.com/java/crear-un-arraylist-en-java/"
+                },
+                {
+                    "nombre": "Eliminar todos los elementos de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-todos-los-elementos-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Eliminar un elemento de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Insertar elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Insertar un elemento dentro de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-un-elemento-dentro-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Iterar un ArrayList",
+                    "url": "http://lineadecodigo.com/java/iterar-un-arraylist/"
+                },
+                {
+                    "nombre": "Leer n\u00fameros por teclado con Java",
+                    "url": "http://lineadecodigo.com/java/leer-numeros-teclado-java/"
+                },
+                {
+                    "nombre": "Listar una lista en Java",
+                    "url": "http://lineadecodigo.com/java/listar-una-lista-en-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos de una Lista en Java",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-de-una-lista-en-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Pruebas de rendimiento con Java Microbenchmark Harness",
+                    "url": "http://lineadecodigo.com/java/pruebas-de-rendimiento-con-java-microbenchmark-harness/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                },
+                {
+                    "nombre": "Recorrer una lista con ListIterator",
+                    "url": "http://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/"
+                },
+                {
+                    "nombre": "Reemplazar un elemento del ArrayList",
+                    "url": "http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "addAll",
+            "description": "Método que nos permite añadir una colección, cualquier estructura del tipo [`Collection`](\\Java\\Collection) al final o en un punto en concreto de un [`ArrayList`](\\Java\\ArrayList).\n\nEn el caso de que la colección sea nula se generará una excpción [`NullPointerException`](\\Java\\NullPointerException). Y si la posición que indicamos para poder añadir la colección es menor de 0 o mayor del tamaño del [`ArrayList`](\\Java\\ArrayList) se generará una excepción [`IndexOutOfBoundsExcepcion`](\\Java\\IndexOutOfBoundsExcepcion).",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> c",
+                    "description": "Coleeción que queremos añadir al [`ArrayList`](\\Java\\ArrayList)"
+                },
+                {
+                    "nombre": "int index",
+                    "description": "Posición del [`ArrayList`](\\Java\\ArrayList) en la que queremos insertar la colección."
+                }
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\nVector<String> vector = new Vector<String>();\nvector.add(\"Irene\");\nvector.add(\"Mar\u00eda\");\n\t\t\n// A\u00f1adir elementos al final del ArrayList\n// Es una colecci\u00f3n\nal.addAll(vector);\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "Elimina todos los elementos de un [`ArrayList`](\\Java\\ArrayList).",
+            "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n\nSystem.out.println(\"La lista contiene \"+al.size()+\" elementos\");\n\t\t\n// Eliminamos todos los elementos\nal.clear();\n\t    \nSystem.out.println(\"La lista contiene \"+al.size()+\" elementos\");\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                },
+                {
+                    "nombre": "Eliminar todos los elementos de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-todos-los-elementos-de-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "Adivinar n\u00fameros con Java",
+                    "url": "http://lineadecodigo.com/java/adivinar-numeros-con-java/"
+                },
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                }
+            ]
+        },
+        {
+            "nombre": "ensureCapacity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minCapacity",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super E> action",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "get",
+            "description": "Devuelve un elemento del ArrayList de la posici\u00f3n indicada como par\u00e1metro.\n",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorremos el Array\nfor(int x=0;x<al.size();x++) {\n System.out.println(al.get(x));\n}\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "Insertar elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Pruebas de rendimiento con Java Microbenchmark Harness",
+                    "url": "http://lineadecodigo.com/java/pruebas-de-rendimiento-con-java-microbenchmark-harness/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "isEmpty",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "iterator",
+            "description": "Devuelve un iterador sobre los elementos de la lista.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                },
+                {
+                    "nombre": "Eliminar un elemento de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Iterar un ArrayList",
+                    "url": "http://lineadecodigo.com/java/iterar-un-arraylist/"
+                },
+                {
+                    "nombre": "Listar una lista en Java",
+                    "url": "http://lineadecodigo.com/java/listar-una-lista-en-java/"
+                },
+                {
+                    "nombre": "Reemplazar un elemento del ArrayList",
+                    "url": "http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "lastIndexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "listIterator",
+            "description": "Devuelve un iterador sobre los elementos de la lista en la posici\u00f3n indicada como par\u00e1metro.\n",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
+            "ldc": [
+                {
+                    "nombre": "Bucle for-each en Java",
+                    "url": "http://lineadecodigo.com/java/bucle-for-each-en-java/"
+                },
+                {
+                    "nombre": "Recorrer una lista con ListIterator",
+                    "url": "http://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/"
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "Elimina un elemento dentro de un ArrayList. Bien indicando la posici\u00f3n en la que se encuentra el elemento. O bien por coincidencia con el objeto pasado como par\u00e1metro.\n",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t\t\n// Eliminamos el segundo elemento\nal.remove(1);\n\nit = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": [
+                {
+                    "nombre": "Eliminar un elemento de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "removeIf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super E> filter",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "removeRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "retainAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "set",
+            "description": "M\u00e9todo que permite sustituir un elemento por otro dentro de un ArrayList.\n",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "E element",
+                    "description": ""
+                }
+            ],
+            "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t\t\n// Eliminamos el primer elemento\n al.set(2,\"Teresa\");\n\t    \nit = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Bucle for-each en Java",
+                    "url": "http://lineadecodigo.com/java/bucle-for-each-en-java/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "Insertar elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Reemplazar un elemento del ArrayList",
+                    "url": "http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": "Devuelve el tama\u00f1o de un ArrayList.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorremos el Array\nfor(int x=0;x<al.size();x++) {\n System.out.println(al.get(x));\n}\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Bucle for-each en Java",
+                    "url": "http://lineadecodigo.com/java/bucle-for-each-en-java/"
+                },
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+                },
+                {
+                    "nombre": "Convertir una Lista en un Array",
+                    "url": "http://lineadecodigo.com/java/convertir-una-lista-en-un-array/"
+                },
+                {
+                    "nombre": "Eliminar todos los elementos de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/eliminar-todos-los-elementos-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Insertar elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos de una Lista en Java",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-de-una-lista-en-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Pruebas de rendimiento con Java Microbenchmark Harness",
+                    "url": "http://lineadecodigo.com/java/pruebas-de-rendimiento-con-java-microbenchmark-harness/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "spliterator",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "subList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "Convertir una Lista en un Array",
+                    "url": "http://lineadecodigo.com/java/convertir-una-lista-en-un-array/"
+                }
+            ]
+        },
+        {
+            "nombre": "trimToSize",
+            "description": "",
+            "ldc": []
+        }
+    ]
+}
