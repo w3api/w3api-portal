@@ -43,6 +43,7 @@ redirect 301 /wiki/Java:Character.isDigit() /Java/Character/isDigit/
 redirect 301 /wiki/Java:Scanner.nextFloat() /Java/Scanner/nextFloat/
 redirect 301 /wiki/Java:ArrayList.add() /Java/ArrayList/add/
 redirect 301 /wiki/HTML:INPUT.checked /HTML/input/checked/
+redirect 301 /wiki//html:input.checked /HTML/input/checked/
 redirect 301 /wiki/Java:ArrayList.size() /Java/ArrayList/size/
 redirect 301 /wiki/Java:Float.parseFloat() /Java/Float/parseFloat/
 redirect 301 /wiki/Categoría:Java /Java
@@ -125,6 +126,7 @@ redirect 301 /wiki/Java:ArrayList.iterator() /Java/ArrayList/iterator/
 redirect 301 /wiki/Java:File.separator /Java/File/separator/
 redirect 301 /wiki/Java:InputStreamReader /Java/InputStreamReader/
 redirect 301 /wiki/HTML5:INPUT.autofocus /HTML/autofocus/
+redirect 301 /wiki/HTML5:INPUT /HTML/input/
 redirect 301 /wiki/Java:JTextField /Java/JTextField/
 redirect 301 /wiki/Java:Connection /Java/Connection/
 redirect 301 /wiki/Java:File.exists() /Java/File/exists/
@@ -260,7 +262,6 @@ redirect 301 /wiki/Java:Color /Java/Color/
 redirect 301 /wiki/Javascript:Array /Javascript/Array/
 redirect 301 /wiki/Categoría:Java_SE /Java/tag/java-se/
 redirect 301 /wiki/HTML:Title /HTML/title/
-redirect 301 /wiki/HTML5:INPUT /HTML/input/
 redirect 301 /wiki/HTML:Rowspan /HTML/td/rowspan/
 redirect 301 /wiki/Java:Hashtable.get() /Java/Hashtable/get/
 redirect 301 /wiki/Categoría:Java_Util /Java/tag/java.util/
