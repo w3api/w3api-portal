@@ -144,12 +144,13 @@ redirect 301 /wiki/Java:HttpSession /Java/HttpSession/
 redirect 301 /wiki/HTML:Href /HTML/a/href/
 redirect 301 /wiki/Java:Arrays.sort() /Java/Arrays/sort/
 redirect 301 /wiki/HTML:Onmousemove /HTML/onmousemove/
+redirect 301 /wiki/HTML:Onmousedown /HTML/onmousedown/
 redirect 301 /wiki/Java:FileNotFoundException /Java/FileNotFoundException/
 redirect 301 /wiki/Java:Util.List.toArray() /Java/Util/List/toArray/
 redirect 301 /wiki/HTML:Noresize /HTML/Noresize/
 redirect 301 /wiki/Java:String.matches() /Java/String/matches/
 redirect 301 /wiki/HTML:Height /HTML/img/height/
-redirect 301 /wiki/HTML:Selected /HTML/selected/
+redirect 301 /wiki/HTML:Selected /HTML/option/selected/
 redirect 301 /wiki/HTML5:VIDEO /HTML/video/
 redirect 301 /wiki/Java:HttpSession.setMaxInactiveInterval() /Java/HttpSession/setMaxInactiveInterval/
 redirect 301 /wiki/HTML:SUB /HTML/sub/
@@ -291,6 +292,11 @@ redirect 301 /wiki/Java:ResultSetMetaData.getColumnCount() /Java/ResultSetMetaDa
 redirect 301 /wiki/Java:Calendar.DAY_OF_WEEK_IN_MONTH /Java/Calendar/DAY_OF_WEEK_IN_MONTH/
 redirect 301 /wiki/Java:DriverManager /Java/DriverManager/
 redirect 301 /wiki/HTML:H2 /HTML/h2/
+redirect 301 /wiki/HTML:SPAN /HTML/span/
+redirect 301 /wiki/HTML:IFRAME /HTML/iframe/
+redirect 301 /wiki/HTML:LEGEND /HTML/legend/
+redirect 301 /wiki/HTML5:FORM.autocomplete /HTML/form/autocomplete
+
 
 redirect 301 /wiki/ http://www.w3api.com
 
