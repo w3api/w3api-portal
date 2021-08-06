@@ -393,11 +393,11 @@
         },
         {
             "nombre": "get",
-            "description": "Devuelve un elemento del ArrayList de la posici\u00f3n indicada como par\u00e1metro.\n",
+            "description": "Devuelve un elemento del [`ArrayList`](\\Java\\ArrayList) de la posición indicada como parámetro del método **get**.\n\nEn el caso de que indiquemos una posición que no corresponda con alguno de los elementos del [`ArrayList`](\\Java\\ArrayList), es decir, menor que 0 o mayor que el tamaño del [`ArrayList`](\\Java\\ArrayList), se producirá una excepción [`IndexOutOfBoundsException`](\\Java\\IndexOutOfBoundsException).",
             "parametros": [
                 {
                     "nombre": "int index",
-                    "description": ""
+                    "description": "Posicón del [`ArrayList`](\\Java\\ArrayList) de la cual queremos recuperar el elemento."
                 }
             ],
             "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorremos el Array\nfor(int x=0;x<al.size();x++) {\n System.out.println(al.get(x));\n}\n",
