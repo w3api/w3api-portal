@@ -434,11 +434,12 @@
         },
         {
             "nombre": "indexOf",
-            "description": "",
+            "description": "Nos devuelve el índice que corresponde con la posición del [`ArrayList`](\\Java\\ArrayList) del elemento que pasamos como parámetro. De esta forma el método **indexOf** nos permite buscar un elemento en el [`ArrayList`](\\Java\\ArrayList). En el caso de que elemento no se encuentre dentro del [`ArrayList`](\\Java\\ArrayList) se devolverá un valor de -1.",
+            "code": "ArrayList<String> list = new ArrayList<String>();\n\nlist.add(\"Marta\");\nlist.add(\"Luis\");\nlist.add(\"Francisco\");\n\nString sElementoaBuscar = \"Luis\";\n\nif (list.indexOf(sElementoaBuscar) >0)\n    System.out.println(\"El elemento \" + sElementoaBuscar + \" está en la lista\");\nelse\n    System.out.println(\"El elemento \" + sElementoaBuscar + \" NO está en la lista\");",
             "parametros": [
                 {
                     "nombre": "Object o",
-                    "description": ""
+                    "description": "Elemento que queremos buscar dentro del [`ArrayList`](\\Java\\ArrayList)"
                 }
             ],
             "ldc": []
