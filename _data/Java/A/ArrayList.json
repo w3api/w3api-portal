@@ -381,12 +381,12 @@
         },
         {
             "nombre": "forEach",
-            "description": "Mediante el método **foreach** podemos crear un consumidor, representado por la clase [`Consumer`](\\Java\\Consumer) que se ejecute por cada elemento que hay en el [`ArrayList`](\\Java\\ArrayList). Este consumidor es un **interface funcional** y por lo tanto acepta **funciones lambda** o una referencia a un método.",
+            "description": "Mediante el método **foreach** podemos crear un consumidor, representado por la clase [`Consumer`](\\Java\\Consumer) que se ejecute por cada elemento que hay en el [`ArrayList`](\\Java\\ArrayList). Este consumidor es un **interface funcional** y por lo tanto acepta **funciones lambda** o una referencia a un método.\n\nSi la acción pasada en `null` se lanzará una [`NullPointerException`](\\Java\\NullPointerException).",
             "code": "ArrayList<String> list = new ArrayList<String>();\n\n// Añadimos elementos\nlist.add(\"Marta\");\nlist.add(\"Luis\");\nlist.add(\"Francisco\");\n\nlist.forEach((n) -> System.out.println(n));",
             "parametros": [
                 {
                     "nombre": "Consumer<? super E> action",
-                    "description": ""
+                    "description": "Interface funcional que puede ser una *función lambda* o una *invocación a un método* y que se ejecuta por cada elemento del [`ArrayList`](\\Java\\ArrayList)."
                 }
             ],
             "ldc": []
