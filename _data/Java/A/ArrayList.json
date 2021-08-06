@@ -342,16 +342,18 @@
         },
         {
             "nombre": "clone",
-            "description": "",
+            "description": "Mediante el método **clone** podemos realizar una copia de un [`ArrayList`](\\Java\\ArrayList).",
+            "code": "ArrayList<String> list = new ArrayList<String>();\n\t   \n// Añadimos elementos\nlist.add(\"Marta\");\nlist.add(\"Luis\");\nlist.add(\"Francisco\");\n\n// Obtenemos un Iterador y recorremos la lista.\nIterator<String> iter = list.iterator();\nwhile (iter.hasNext())\n  System.out.println(iter.next());\n\nArrayList<String> list2 = (ArrayList<String>)list.clone();\n\n// Obtenemos un Iterador y recorremos la lista.\niter = list2.iterator();\nwhile (iter.hasNext())\n    System.out.println(iter.next());",
             "ldc": []
         },
         {
             "nombre": "contains",
-            "description": "",
+            "description": "El método **contains** nos devuelve `true` en el caso de que el elemento pasado como parámetro se encuentra dentro del [`ArrayList`](\\Java\\ArrayList). En caso contrario se devuelve `false`.",
+            "code": "ArrayList<Integer> misnumeros = new ArrayList<Integer>(10);\nScanner reader = new Scanner(System.in);  \n\nfor (int x=0;x<10;x++) {\n    System.out.println(\"Inserte un número\");\n    misnumeros.add(reader.nextInt());\n}\n\nSystem.out.println(\"Has cargado los siguientes números\");\n\nfor (int x=0;x<misnumeros.size();x++){\n    System.out.println(misnumeros.get(x));\n}\n\nSystem.out.println(\"Busca un número, 0 para salir\");\n\nint numeroBuscar = reader.nextInt();  \n\nwhile (numeroBuscar!=0) {\n    if (misnumeros.contains(numeroBuscar)) {\n        System.out.println(\"Contiene el número \" + numeroBuscar);\n    } else {\n        System.out.println(\"No contiene el número \" + numeroBuscar);\n    }\n\n    System.out.println(\"Busca un número, 0 para salir\");\n\n    numeroBuscar = reader.nextInt();\n}\n\nSystem.out.println(\"Fin del juego\");\n\nreader.close();",
             "parametros": [
                 {
                     "nombre": "Object o",
-                    "description": ""
+                    "description": "Objeto que buscamos dentro del [`ArrayList`](\\Java\\ArrayList) para ver si exsite."
                 }
             ],
             "ldc": [
@@ -367,18 +369,20 @@
         },
         {
             "nombre": "ensureCapacity",
-            "description": "",
+            "description": "Incrementa la capacidad del [`ArrayList`](\\Java\\ArrayList) y asegura que puede almancenar, al menos, la capacidad indicada como parámetro.\n\nEs una buena práctica utilizar el método **ensureCapacity** antes de insertar una gran cantidad de elementos dentro de un [`ArrayList`](\\Java\\ArrayList).",
+            "code": "ArrayList<String> list = new ArrayList<String>();\n\n// Aseguramos la capacidad para 3 elementos\nlist.ensureCapacity(3);\n\nSystem.out.println(\"El tamaño del ArrayList es \" + list.size());\n\n// Añadimos elementos\nlist.add(\"Marta\");\nlist.add(\"Luis\");\nlist.add(\"Francisco\");\n\nSystem.out.println(\"El tamaño del ArrayList es \" + list.size());",
             "parametros": [
                 {
                     "nombre": "int minCapacity",
-                    "description": ""
+                    "description": "Número mínimo de elementos de los que queremos asegurar la capacidad dentro del [`ArrayList`](\\Java\\ArrayList)"
                 }
             ],
             "ldc": []
         },
         {
             "nombre": "forEach",
-            "description": "",
+            "description": "Mediante el método **foreach** podemos crear un consumidor, representado por la clase [`Consumer`](\\Java\\Consumer) que se ejecute por cada elemento que hay en el [`ArrayList`](\\Java\\ArrayList). Este consumidor es un **interface funcional** y por lo tanto acepta **funciones lambda** o una referencia a un método.",
+            "code": "ArrayList<String> list = new ArrayList<String>();\n\n// Añadimos elementos\nlist.add(\"Marta\");\nlist.add(\"Luis\");\nlist.add(\"Francisco\");\n\nlist.forEach((n) -> System.out.println(n));",
             "parametros": [
                 {
                     "nombre": "Consumer<? super E> action",
