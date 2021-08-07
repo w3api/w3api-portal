@@ -52,7 +52,7 @@ redirect 301 /wiki/Java:String.lastIndexOf() /Java/String/lastIndexOf/
 redirect 301 /wiki/Java:String /Java/String/
 redirect 301 /wiki/HTML:IMG /HTML/img/
 redirect 301 /wiki/html:img /HTML/img/
-redirect 301 /wiki/Java:Window.setLocationRelativeTo() /Java/Window/setLocationRelativeTo/
+redirect 301 /wiki/Java:Window.setLocationRelativeTo() /Java/Window-java-awt/setLocationRelativeTo/
 redirect 301 /wiki/Java:System.getProperty() /Java/System/getProperty/
 redirect 301 /wiki/Java:ArrayList.set() /Java/ArrayList/set/
 redirect 301 /wiki/Java:ArrayList.addAll() /Java/ArrayList/addAll/
@@ -175,7 +175,7 @@ redirect 301 /wiki/Java:Dimension /Java/Dimension/
 redirect 301 /wiki/HTML:Scrolling /HTML/Scrolling/
 redirect 301 /wiki/Java:PreparedStatement /Java/PreparedStatement/
 redirect 301 /wiki/HTML:Onchange /HTML/onchange/
-redirect 301 /wiki/Java:Window.addWindowListener() /Java/Window/addWindowListener/
+redirect 301 /wiki/Java:Window.addWindowListener() /Java/Window-java-awt/addWindowListener/
 redirect 301 /wiki/HTML5:AUDIO /HTML/audio/
 redirect 301 /wiki/CSS:Background-color /CSS/background-color/
 redirect 301 /wiki/css:background-color /CSS/background-color/
@@ -296,7 +296,7 @@ redirect 301 /wiki/HTML:SPAN /HTML/span/
 redirect 301 /wiki/HTML:IFRAME /HTML/iframe/
 redirect 301 /wiki/HTML:LEGEND /HTML/legend/
 redirect 301 /wiki/HTML5:FORM.autocomplete /HTML/form/autocomplete
-
+redirect 301 /wiki/Java:Window /Java/Window
 
 redirect 301 /wiki/ http://www.w3api.com
 
