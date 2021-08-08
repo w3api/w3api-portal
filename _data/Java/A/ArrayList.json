@@ -452,7 +452,7 @@
         },
         {
             "nombre": "iterator",
-            "description": "Devuelve un iterador sobre los elementos de la lista.\n",
+            "description": "El método **iterator** nos devuelve un iterador sobre el [`ArrayList`](/Java/ArrayList) que nor permitirá recorrerlo e iterar sobre todos sus elemnetos.",
             "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
             "ldc": [
                 {
