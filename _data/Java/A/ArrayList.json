@@ -479,11 +479,12 @@
         },
         {
             "nombre": "lastIndexOf",
-            "description": "",
+            "description": "Al igual que el método [`indexOf`](/Java/ArrayList/indexOf) nos buscaba la primera ocurrencia de un elemento dentro del [`ArrayList`](/Java/ArrayList), el método **latIndexOf** nos identifica la última posición en la que se encuentra el elemento pasado por parámetro. En el caso de que el elemento se encuentre en el [`ArrayList`](/Java/ArrayList) se devuelve el índice en el cual se encuentra, en el caso contrario se devuelve un valor de -1 que indicará que elemento no se encuentra en el [`ArrayList`](/Java/ArrayList).",
+            "code": "ArrayList<String> list = new ArrayList<String>();\n\n// Añadimos elementos\nlist.add(\"Marta\");\nlist.add(\"Luis\");\nlist.add(\"Francisco\");\nlist.add(\"Luis\");\nlist.add(\"Sonsoles\");\nlist.add(\"José\");\n\nString sElementoaBuscar = \"Luis\";\n\nint posicion = list.lastIndexOf(sElementoaBuscar);\n\nif (posicion >0)\n    System.out.println(\"El último elemento \" + sElementoaBuscar + \" está en la lista en la posición \" + posicion+1);\nelse\n    System.out.println(\"El elemento \" + sElementoaBuscar + \" NO está en la lista\");",
             "parametros": [
                 {
                     "nombre": "Object o",
-                    "description": ""
+                    "description": "Elemento que queremos buscar en el [`ArrayList`](/Java/ArrayList)."
                 }
             ],
             "ldc": []
