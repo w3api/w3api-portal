@@ -491,11 +491,11 @@
         },
         {
             "nombre": "listIterator",
-            "description": "Devuelve un iterador sobre los elementos de la lista en la posici\u00f3n indicada como par\u00e1metro.\n",
+            "description": "El método **listIterator** devuelve un iterador sobre los elementos del [`ArrayList`](/Java/ArrayList) en la posición indicada como parámetro. En el caso que no indiquemos índice se devolverá un iterador a la primera posición. Y en el caso de que el índice pasado por parámetro no corresponda con una posición del [`ArrayList`](/Java/ArrayList), es decir, que sea menor que cero o mayor que el tamaño del [`ArrayList`](/Java/ArrayList), se devolverá una excepción [`IndexOutOfBoundsException`](/Java/IndexOutOfBoundsException).",
             "parametros": [
                 {
                     "nombre": "int index",
-                    "description": ""
+                    "description": "Posición dentro del [`ArrayList`](/Java/ArrayList) desde donde posicionaremos el iterador."
                 }
             ],
             "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
