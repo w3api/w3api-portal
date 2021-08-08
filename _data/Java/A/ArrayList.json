@@ -446,7 +446,8 @@
         },
         {
             "nombre": "isEmpty",
-            "description": "",
+            "description": "Método que comprueba que si el [`ArrayList`](\\Java\\ArrayList) tiene elementos, en ese caso devolverá un `false`, o está vacío, en ese caso devolverá un `true`.",
+            "code": "// Definimos una ArrayList\nArrayList<String> list = new ArrayList<String>();\n\n// Lectura por consola\nScanner reader = new Scanner(System.in);\nString sTexto = \"\";\n\n// Añadimos elementos\nlist.add(\"Elemento\");\nlist.add(\"Elemento\");\nlist.add(\"Elemento\");\n\nSystem.out.println(\"Escriba ADD para añadir un elemento o DEL para borrarlo. FIN para terminar\");\n\ndo {\n    sTexto = reader.next();\n    \n    if (sTexto.equals(\"ADD\"))\n        list.add(\"Elemento\");\n    else if (sTexto.equals(\"DEL\"))\n        if (!list.isEmpty())\n            list.remove(list.size()-1);\n        else\n            System.out.println(\"La lista está vacía. No puedes borrar más elementos.\");\n    \n    System.out.println(\"Hay \" + list.size() + \" elementos en la lista\");\n\n} while(!sTexto.equals(\"FIN\"));\n\nreader.close();",
             "ldc": []
         },
         {
