@@ -545,11 +545,12 @@
         },
         {
             "nombre": "removeIf",
-            "description": "",
+            "description": "Con el método **removeIf** podemos eliminar todos los elementos de [`ArrayList`](/Java/ArrayList) que coincidan con el predicado pasado como parámetro. Nos devolverá `true` si se eliminan elementos y `false` en el caso contrario.\n\nEn el caso de que el predicado sea nulo se lanzará una excepción [`NullPointerException`](/Java/NullPointerException).",
+            "code": "// ArrayList con tamaño\nArrayList<Integer> numeros = new ArrayList<Integer>();\n\t\t\t\t\n// Añadir elementos a un ArrayList\nnumeros.add(1);\nnumeros.add(2);\nnumeros.add(3);\nnumeros.add(4);\nnumeros.add(5);\nnumeros.add(6);\nnumeros.add(7);\nnumeros.add(8);\nnumeros.add(9);\n                    \nnumeros.removeIf(n -> (n%2 == 0));\n\n// Recorrer un ArrayList con un Iterador\nIterator<Integer> it = numeros.iterator();\nwhile(it.hasNext())\n    System.out.println(it.next());",
             "parametros": [
                 {
                     "nombre": "Predicate<? super E> filter",
-                    "description": ""
+                    "description": "Predicado que nos permitirá filtrar los elementos que queremos elimianr del [`ArrayList`](/Java/ArrayList)."
                 }
             ],
             "ldc": []
