@@ -557,26 +557,28 @@
         },
         {
             "nombre": "removeRange",
-            "description": "",
+            "description": "Método que nos permite eliminar los elementos de un [`ArrayList`](/Java/ArrayList) en un rango que delimitaremos con los índices indicados como parámetros del método.\n\nEn el caso de que el rango esté fuera de los límites del [`ArrayList`](/Java/ArrayList) se lanzará una excpeción [`IndexOutOfBoundsException`](/Java/IndexOutOfBoundsException).",
+            "code": "import java.util.ArrayList;\nimport java.util.Iterator;\n\npublic class EliminarRangoLista extends ArrayList<Integer> {\n\n\tpublic static void main(String[] args) {\n\t\t\n\t\t// ArrayList con tamaño\n\t\tEliminarRangoLista numeros = new EliminarRangoLista();\n\t\t\t\t\n\t\t// Añadir elementos a un ArrayList\n\t\tnumeros.add(1);\n\t\tnumeros.add(2);\n\t\tnumeros.add(3);\n\t\tnumeros.add(4);\n\t\tnumeros.add(5);\n\t\tnumeros.add(6);\n\t\tnumeros.add(7);\n\t\tnumeros.add(8);\n\t\tnumeros.add(9);\n\t\t\t    \t\t\t\n\t\tnumeros.removeRange(3,6);\n\n\t\t// Recorrer un ArrayList con un Iterador\n\t\tIterator<Integer> it = numeros.iterator();\n\t\twhile(it.hasNext())\n\t\t\tSystem.out.println(it.next());\n\t\n\n\t}\n}",
             "parametros": [
                 {
                     "nombre": "int fromIndex",
-                    "description": ""
+                    "description": "Inicio del índice para el borrado"
                 },
                 {
                     "nombre": "int toIndex",
-                    "description": ""
+                    "description": "Final del índice para el borrado"
                 }
             ],
             "ldc": []
         },
         {
             "nombre": "retainAll",
-            "description": "",
+            "description": "El método **retainAll** nos permite eliminar todos los elementos de la lista que no le indiquemos en la colección que pasamos como parámetro al método.\n\nSi la colección que se pasa como parámetro es de un tipo diferente de la lista sobre la que se ejecuta el método **retainAll** se genera una excepción [`ClassCastException`](/Java/ClassCastException). Por otro lado si la colección que se pasa como parámtero es nula o bien la lista contiene elementos null y la que pasamos como parámetro no soporta los elementos null se generará una excepción [`NullPointerException`]((Java/NullPointerException).",
+            "code": "// ArrayList con tamaño\nArrayList<Integer> numeros = new ArrayList<Integer>();\n\t\t\t\t\n// Añadir elementos a un ArrayList\nnumeros.add(1);\nnumeros.add(2);\nnumeros.add(3);\nnumeros.add(4);\nnumeros.add(5);\nnumeros.add(6);\nnumeros.add(7);\nnumeros.add(8);\nnumeros.add(9);\n                    \nArrayList<Integer> mantener = new ArrayList<Integer>();\nmantener.add(2);\nmantener.add(4);\n\nnumeros.retainAll(mantener);\n\n// Recorrer un ArrayList con un Iterador\nIterator<Integer> it = numeros.iterator();\nwhile(it.hasNext())\n    System.out.println(it.next());",
             "parametros": [
                 {
                     "nombre": "Collection<?> c",
-                    "description": ""
+                    "description": "Colección con los elementos que queremos mantener en la lista"
                 }
             ],
             "ldc": []
