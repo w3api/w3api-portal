@@ -21,7 +21,7 @@ redirect 301 /wiki/Java:IOException /Java/IOException/
 redirect 301 /wiki/Java:ArrayList /Java/ArrayList/
 redirect 301 /wiki/java:arraylist /Java/ArrayList/
 redirect 301 /wiki/Java:System.arraycopy() /Java/System/arraycopy/
-redirect 301 /wiki/Java:List.add() /Java/List/add/
+redirect 301 /wiki/Java:List.add() /Java/List-java-util/add/
 redirect 301 /wiki/Java:StringBuffer.append() /Java/StringBuffer/append/
 redirect 301 /wiki/Java:String.toCharArray() /Java/String/toCharArray/
 redirect 301 /wiki/Java:Iterator.hasNext() /Java/Iterator/hasNext/
@@ -131,7 +131,7 @@ redirect 301 /wiki/Java:JTextField /Java/JTextField/
 redirect 301 /wiki/Java:Connection /Java/Connection/
 redirect 301 /wiki/Java:File.exists() /Java/File/exists/
 redirect 301 /wiki/Java:Stack.empty() /Java/Stack/empty/
-redirect 301 /wiki/Java:List.clear() /Java/List/clear/
+redirect 301 /wiki/Java:List.clear() /Java/List-java-util/clear/
 redirect 301 /wiki/Java:File /Java/File/
 redirect 301 /wiki/HTML:UL /HTML/ul/
 redirect 301 /wiki/Java:System.out /Java/System/out/
@@ -146,7 +146,7 @@ redirect 301 /wiki/Java:Arrays.sort() /Java/Arrays/sort/
 redirect 301 /wiki/HTML:Onmousemove /HTML/onmousemove/
 redirect 301 /wiki/HTML:Onmousedown /HTML/onmousedown/
 redirect 301 /wiki/Java:FileNotFoundException /Java/FileNotFoundException/
-redirect 301 /wiki/Java:Util.List.toArray() /Java/Util/List/toArray/
+redirect 301 /wiki/Java:Util.List.toArray() /Java/List-java-util/List/toArray/
 redirect 301 /wiki/HTML:Noresize /HTML/Noresize/
 redirect 301 /wiki/Java:String.matches() /Java/String/matches/
 redirect 301 /wiki/HTML:Height /HTML/img/height/
@@ -258,7 +258,7 @@ redirect 301 /wiki/HTML5:TIME.datetime /HTML/time/datetime/
 redirect 301 /wiki/Java:HashMap.values() /Java/HashMap/values/
 redirect 301 /wiki/Java:Date /Java/Date/
 redirect 301 /wiki/Java:InetAddress.getLocalHost() /Java/InetAddress/getLocalHost/
-redirect 301 /wiki/Java:Util.List /Java/Util/List/
+redirect 301 /wiki/Java:Util.List /Java/List-java-util/List/
 redirect 301 /wiki/Java:Color /Java/Color/
 redirect 301 /wiki/Javascript:Array /Javascript/Array/
 redirect 301 /wiki/Categoría:Java_SE /Java/tag/java-se/
@@ -297,6 +297,7 @@ redirect 301 /wiki/HTML:IFRAME /HTML/iframe/
 redirect 301 /wiki/HTML:LEGEND /HTML/legend/
 redirect 301 /wiki/HTML5:FORM.autocomplete /HTML/form/autocomplete
 redirect 301 /wiki/Java:Window /Java/Window
+redirect 301 /Java/Util/List/ /Java/List-java-util/
 
 redirect 301 /wiki/ http://www.w3api.com
 
