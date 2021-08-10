@@ -533,11 +533,12 @@
         },
         {
             "nombre": "removeAll",
-            "description": "",
+            "code": "// ArrayList con tamaño\nArrayList<String> al = new ArrayList<String>();\n\t\t\t\t\n// Añadir elementos a un ArrayList\nal.add(\"1\");\nal.add(\"2\");\nal.add(\"3\");\nal.add(\"1\");\nal.add(\"4\");\nal.add(\"5\");\nal.add(\"1\");\nal.add(\"6\");\nal.add(\"7\");\n                    \n// Eliminamos todas las ocurrencias del 1\n// while(al.remove(\"1\"));\n\nArrayList<String> eliminar = new ArrayList<String>();\neliminar.add(\"1\");\nal.removeAll(eliminar);\n\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n    System.out.println(it.next());",
+            "description": "El método **removeAll** eliminan de un [`ArrayList`](/Java/ArrayList) todos los elementos pasados en la colección que se indica en el parámetro. En el caso que se eliminen elementos de la lista se devolverá `true`, en caso contrario se devolverá `false`.\n\nSi la colección que se pasa como parámetro es de un tipo diferente de la lista sobre la que se ejecuta el **removeAll** se genera una excepción [`ClassCastException`](/Java/ClassCastException). Por otro lado si la colección que se pasa como parámtero es nula o bien la lista contiene elementos `null` y la que pasamos como parámetro no soporta los elementos `null` se generará una excepción [`NullPointerException`](/Java/NullPointerException).",
             "parametros": [
                 {
                     "nombre": "Collection<?> c",
-                    "description": ""
+                    "description": "Colección que contiene los elementos que hay que eliminar del [`ArrayList`](/Java/ArrayList)."
                 }
             ],
             "ldc": []
