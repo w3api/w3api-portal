@@ -512,15 +512,15 @@
         },
         {
             "nombre": "remove",
-            "description": "Elimina un elemento dentro de un ArrayList. Bien indicando la posici\u00f3n en la que se encuentra el elemento. O bien por coincidencia con el objeto pasado como par\u00e1metro.\n",
+            "description": "Elimina un elemento dentro de un [`ArrayList`](/Java/ArrayList). Bien indicando la posición en la que se encuentra el elemento. O bien, por coincidencia con el objeto pasado como parámetro. En este caso se eliminará únicamente la primera ocurrencia que coincida con el elemento pasado como parámetro.\n\nEn el caso que indiquemos un índice, si este está fuera del tango del [`ArrayList`](/Java/ArrayList), es decir, menor que 0 o mayor que el tamaño del [`ArrayList`](/Java/ArrayList) se generará una excepción [`IndexOutOfBoundsException`](/Java/IndexOutOfBoundsException).",
             "parametros": [
                 {
                     "nombre": "Object o",
-                    "description": ""
+                    "description": "Elemento a eliminar del [`ArrayList`](/Java/ArrayList)."
                 },
                 {
                     "nombre": "int index",
-                    "description": ""
+                    "description": "Posición del [`ArrayList`](/Java/ArrayList) de la que queremos eliminar su elemento"
                 }
             ],
             "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t\t\n// Eliminamos el segundo elemento\nal.remove(1);\n\nit = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
