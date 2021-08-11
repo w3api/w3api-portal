@@ -585,15 +585,15 @@
         },
         {
             "nombre": "set",
-            "description": "M\u00e9todo que permite sustituir un elemento por otro dentro de un ArrayList.\n",
+            "description": "Método que permite sustituir un elemento por otro dentro de un [`ArrayList`](/Java/ArrayList). Así al método tenemos que indicarle la posición en la que queremos hacer la sustitución del elemento y el nuevo elemento.\n\nEn el caso que la posición del [`ArrayList`](/Java/ArrayList) esté fuera de su rango, es decir, menor que cero o mayor que el tamaño del [`ArrayList`](/Java/ArrayList) se elevará una excepción [`IndexOutOfBoundsException`](/Java/IndexOutOfBoundsException).",
             "parametros": [
                 {
                     "nombre": "int index",
-                    "description": ""
+                    "description": "Posición del [`ArrayList`](/Java/ArrayList) en la que queremos hacer la sustitución."
                 },
                 {
                     "nombre": "E element",
-                    "description": ""
+                    "description": "Nuevo elemento a añadir al [`ArrayList`](/Java/ArrayList)."
                 }
             ],
             "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t\t\n// Eliminamos el primer elemento\n al.set(2,\"Teresa\");\n\t    \nit = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
@@ -626,7 +626,7 @@
         },
         {
             "nombre": "size",
-            "description": "Devuelve el tama\u00f1o de un ArrayList.\n",
+            "description": "Devuelve el tama\u00f1o, número de elementos, del [`ArrayList`](/Java/ArrayList)",
             "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorremos el Array\nfor(int x=0;x<al.size();x++) {\n System.out.println(al.get(x));\n}\n",
             "ldc": [
                 {
