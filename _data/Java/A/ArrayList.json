@@ -673,7 +673,8 @@
         },
         {
             "nombre": "spliterator",
-            "description": "",
+            "description": "El método **spliterator** nos devuelve un [`Spliterator`](/Java/Spliterator) sobre los elementos del [`ArrayList`](/Java/ArrayList). De esa manera podemos procesarlos de forma paralela.",
+            "code": "// ArrayList con tamaño\nArrayList<Integer> lista = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10));\n\nSpliterator<Integer> si = lista.spliterator();\nsi.forEachRemaining(n -> System.out.println(n));",
             "ldc": []
         },
         {
