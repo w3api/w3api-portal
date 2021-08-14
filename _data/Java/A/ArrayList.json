@@ -679,15 +679,16 @@
         },
         {
             "nombre": "subList",
-            "description": "",
+            "description": "Mediante el método **subList** podemos extraer una porción de la lista actual, delimitada por los parámetros inicio y fin, para crear una nueva lista.",
+            "code": "ArrayList<Integer> lista = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10));\n\nList<Integer> sublista = lista.subList(5, lista.size());\n\nIterator<Integer> it = sublista.iterator();\nwhile(it.hasNext())\n    System.out.println(it.next());",
             "parametros": [
                 {
                     "nombre": "int fromIndex",
-                    "description": ""
+                    "description": "Índice del elemento inicial de la sublista."
                 },
                 {
                     "nombre": "int toIndex",
-                    "description": ""
+                    "description": "Índice del elemento final de la sublista."
                 }
             ],
             "ldc": []
