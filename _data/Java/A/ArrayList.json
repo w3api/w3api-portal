@@ -695,11 +695,12 @@
         },
         {
             "nombre": "toArray",
-            "description": "",
+            "description": "El método **toArray** nos permite convertir un [`ArrayList`](Java/ArrayList) en un `array` con todos los elementos que cotiene el [`ArrayList`](Java/ArrayList). El parámetro del método es el `array` sobre el que queremos convertir el [`ArrayList`](Java/ArrayList).",
+            "code": "List<String> milista = new ArrayList<String>();\nmilista.add(\"Elemento 1\");\nmilista.add(\"Elemento 2\");\n\nString[] miarray = new String[milista.size()];\nmiarray = milista.toArray(miarray);\n\nfor(String s : miarray)\n    System.out.println(s);",
             "parametros": [
                 {
                     "nombre": "T[] a",
-                    "description": ""
+                    "description": "Array sobre el que queremos convertir el [`ArrayList`](Java/ArrayList)."
                 }
             ],
             "ldc": [
@@ -711,7 +712,8 @@
         },
         {
             "nombre": "trimToSize",
-            "description": "",
+            "description": "El método **trimToSize** ajusta la capacidad del [`ArrayList`](/Java/ArrayList) al número de elementos que este tiene. El [`ArrayList`](/Java/ArrayList), al ser dinámico, siempre tiene preparado una capacida de 1,5 los elementos que tiene, para poder añadir nuevos elementos. Al utilizar **trimToSize** ajusta esta capacidad y ahorra espacio.",
+            "code": "ArrayList<String> al = new ArrayList<String>();\n\n// Añadir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Marta\");\n\n// Se ajusta el tamaño. Por defecto Java tiene preparado 1,5 la capacidad actual\nal.trimToSize();\n\nSystem.out.println(al);\nSystem.out.println(al.size());",
             "ldc": []
         }
     ]
