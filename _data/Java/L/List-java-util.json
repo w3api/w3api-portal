@@ -1,0 +1,417 @@
+{
+    "description": "El interface **List** representa una colecci\u00f3n ordenada de elementos. De esta forma podemos controla la posici\u00f3n d\u00f3mde insertamos cada elemento en al Lista. De igual manera podremos acceder a los elementos mediante el \u00edndice que ocupe dentro de la Lista. Los elementos de la Lista pueden estar repetidos.",
+    "code": "// Definimos una ArrayList\nList<String> list = new ArrayList<String>();\n\n// Añadimos elementos\nlist.add(\"Luis\");\nlist.add(\"Marta\");\nlist.add(\"Julio\");\n\n// Obtenemos un Iterador y recorremos la lista.\nIterator<String> iter = list.iterator();\nwhile (iter.hasNext())\n    System.out.println(iter.next());\n\n}",
+    "ldc": [
+        {
+            "nombre": "A\u00f1adir elementos al final de un ArrayList",
+            "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+        },
+        {
+            "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+            "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+        },
+        {
+            "nombre": "Contar las vocales de un fichero en Java",
+            "url": "http://lineadecodigo.com/java/contar-las-vocales-de-un-fichero-en-java/"
+        },
+        {
+            "nombre": "Convertir un array en una lista",
+            "url": "http://lineadecodigo.com/java/convertir-un-array-en-una-lista/"
+        },
+        {
+            "nombre": "N\u00famero de elementos en un ArrayList",
+            "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+        },
+        {
+            "nombre": "Recorrer un ArrayList",
+            "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+        },
+        {
+            "nombre": "Usando la API de Twitter4j en java",
+            "url": "http://lineadecodigo.com/java/usando-la-api-de-twitter4j-en-java/"
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "El método **add** nos permite añadir un elemento al final de la [`List`](\\Java\\List-java-util) si no le indicamos una posición o bien nos permite añadir un elemento en una posición determinada si le pasamos como parámetro la posición además del elemento.\n\nEn el caso de que haya un elemento en la posición indicada, desplaza dicho elemento y los siguientes una posición a la derecha dentro de la [`List`](\\Java\\List-java-util).\n\nSi la posición a insertar el elemento no está dentro de las posiciones que tiene la [`List`](\\Java\\List-java-util), es decir, entre 0 y el tamaño de la [`List`](\\Java\\List-java-util), se generará una excepción [`IndexOutOfBoundsException`](\\Java\\IndexOutOfBoundsException).",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": "Posición de la [`List`](\\Java\\List-java-util) dónde queremos insertar el elemento."
+                },
+                {
+                    "nombre": "E e",
+                    "description": "Elemento a insertar dentro de la [`List`](\\Java\\List-java-util)"
+                },
+                {
+                    "nombre": "E element",
+                    "description": "Elemento a insertar dentro de la [`List`](\\Java\\List-java-util)"
+                }
+            ],
+            "code": "List<String> lista = new ArrayList<String>();\n\t\nlista.add(1,\"Elemento Uno\");\nlista.add(2,\"Elemento Dos\");\nlista.add(\"Elemento Tres\");\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "Contar las vocales de un fichero en Java",
+                    "url": "http://lineadecodigo.com/java/contar-las-vocales-de-un-fichero-en-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "addAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "Elimina todos los elementos de la lista.\n",
+            "code": "List<String> lista = new ArrayList<String>();\n\t\nlista.add(1,\"Elemento Uno\");\nlista.add(2,\"Elemento Dos\");\nlista.add(\"Elemento Tres\");\n\nlista.clear();\n",
+            "ldc": []
+        },
+        {
+            "nombre": "contains",
+            "description": "M\u00e9todo que nos permite buscar un elemento en una Lista.\n",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "code": "private static boolean searchNumber(int[] numbers, int numberToSearch) {\n  return Arrays.asList(numbers)\n    .contains(numberToSearch);\n}\n\npublic static void main(String[] args) {\n\n int[] numeros = {1,2,3,4,5,6,7,8};\n int numberToSearch = 3;\n\n if (searchNumber(numeros,numberToSearch))\n   System.out.println(\"El n\u00famero \" + numberToSearch + \" est\u00e1 en la lista\");\n else\n   System.out.println(\"El n\u00famero \" + numberToSearch + \" NO est\u00e1 en la lista\");\t \n}\n",
+            "ldc": []
+        },
+        {
+            "nombre": "containsAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "copyOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> coll",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                },
+                {
+                    "nombre": "Usando la API de Twitter4j en java",
+                    "url": "http://lineadecodigo.com/java/usando-la-api-de-twitter4j-en-java/"
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "isEmpty",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "iterator",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "lastIndexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "listIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e3",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e7",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e1",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e6",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e5",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e2",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e9",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e4",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e8",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e10",
+                    "description": ""
+                },
+                {
+                    "nombre": "E... elements",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "removeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnaryOperator<E> operator",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "retainAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "E element",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "Como obtener la ra\u00edz cuadrada de un n\u00famero con Java",
+                    "url": "http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": "Nos devuelve un entero con el tama\u00f1o de la lista.\n",
+            "code": "List<String> lista = new ArrayList<String>();\n\t\nlista.add(1,\"Elemento Uno\");\nlista.add(2,\"Elemento Dos\");\nlista.add(\"Elemento Tres\");\n\nSystem.out.println(lista.size());\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir elementos al final de un ArrayList",
+                    "url": "http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/"
+                },
+                {
+                    "nombre": "N\u00famero de elementos en un ArrayList",
+                    "url": "http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/"
+                },
+                {
+                    "nombre": "Recorrer un ArrayList",
+                    "url": "http://lineadecodigo.com/java/recorrer-un-arraylist/"
+                }
+            ]
+        },
+        {
+            "nombre": "sort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super E> c",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "spliterator",
+            "description": "",
+            "ldc": []
+        },
+        {
+            "nombre": "subList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "toArray",
+            "description": "M\u00e9todo que convierte una lista en un array. Devuelve el array con el contenido volcado desde la lista.\n",
+            "parametros": [
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                }
+            ],
+            "code": "List<String> milista = new ArrayList<String>();\nmilista.add(\"Elemento 1\");\nmilista.add(\"Elemento 2\");\n\nString[] miarray = new String[milista.size()];\nmiarray = milista.toArray(miarray);\n\nfor(String s\u00a0: miarray)\n System.out.println(s);\n",
+            "ldc": []
+        }
+    ]
+}
