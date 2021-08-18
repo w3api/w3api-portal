@@ -1,0 +1,39 @@
+{
+    "description": "Cuando se produce una excepción **IOException** significa que se ha producido un error en la entrada/salida. Por ejemplo, cuando estamos leyendo de la consola, un fichero,... etc. Es obligatorio tratar la excepción, ya sea en la cabeza del método con `throws IOException` o con un bloque `try-catch`.",
+    "code": "BufferedReader br;\nbr = new BufferedReader(new InputStreamReader(System.in));\nString texto;\n\ntry{ \n br.readLine());\n} catch (IOException ioe){ \n ioe.printStackTrace();\n}\n",
+    "ldc": [
+        {
+            "nombre": "Comparar el contenido de dos ficheros con Java",
+            "url": "http://lineadecodigo.com/Java/comparar-el-contenido-de-dos-ficheros-con-java/"
+        },
+        {
+            "nombre": "Vaciar el contenido de un fichero mediante borrado y creaci\u00f3n",
+            "url": "http://lineadecodigo.com/Java/vaciar-el-contenido-de-un-fichero-mediante-borrado-y-creacion/"
+        },
+        {
+            "nombre": "Copiar un fichero con Java",
+            "url": "http://lineadecodigo.com/Java/copiar-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Guardar unos Properties con Java",
+            "url": "http://lineadecodigo.com/Java/guardar-unos-properties-con-java/"
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "IOException",
+            "description": "Constructor que nos permite crear una excepción **IOException**.",
+            "code": "import java.io.*;\n\npublic class PersonalizarIOException {\n\n    public static long numeroLineas(String fichero) throws IOException {\n\n        long lNumeroLineas = 0;\n\n        try{\n            FileReader file = new FileReader(fichero);\n            BufferedReader bf = new BufferedReader(file);\n            \n            while ((bf.readLine())!=null) {\n                lNumeroLineas++;\n            }\n            \n            bf.close();\n        }\n        catch(IOException ioe){\n            throw new IOException(\"Error en la lectura del fichero\",ioe);\n        }        \n\n        return lNumeroLineas;\n    }\n\n    public static void main(String[] args) {\n\n        String fichero = \"datos.txt\";\n        try {\n            numeroLineas(fichero);\n        } catch (IOException ioe) {\n            System.out.println(ioe.getMessage());\n            ioe.printStackTrace();\n        }\n\n\n    }\n   \n}",
+            "parametros": [
+                {
+                    "nombre": "Throwable cause",
+                    "description": "Elemento que permite asociar cualquier excepción ya que [`Throwable`](/Java/Throwable) es la superclase de todas las excepciones."
+                },
+                {
+                    "nombre": "String message",
+                    "description": "Mensaje que se quiere asociar a la [`IOException`](/java/IOException)"
+                }
+            ]
+        }
+    ]
+}
