@@ -1,9 +1,9 @@
 ---
 layout: tag
-title: "CSS"
-permalink: /CSS/
+title: "My CSS Test"
+permalink: /CSS/mytest/
 date: 2021-03-07T03:07:52+00:00
-key: CSS
+key: CSS.Mytest
 show_date: false
 sidebar:
   nav: css
