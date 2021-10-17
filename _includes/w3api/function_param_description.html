@@ -1,0 +1,10 @@
+{%- assign _valor = "" -%}
+{%- for _v in include.propiedad.parametros -%}
+{%- if _v.nombre == include.valor -%}
+    {%- assign _valor = _v -%}        
+{%- endif -%}
+{%- endfor -%}
+
+{%- if _valor -%}
+    {{ _valor.description }}
+{%- endif -%}
