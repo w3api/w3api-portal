@@ -60,6 +60,12 @@ mongodb:
 php:
   - title: PHP
 
+python:
+  - title: Python
+    children:
+      - title:  Elementos Python
+        url:    /Python/elementos-python/
+
 svg:
   - title: SVG
 
