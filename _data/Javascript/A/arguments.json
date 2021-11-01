@@ -1,5 +1,0 @@
-{
-    "description": "Es un objeto parecido a un array que contiene los valores de los argumentos que se le han pasado a una funci\u00f3n.\n",
-    "code": "Math.hypot = Math.hypot || function() {\n  var y = 0;\n  var length = arguments.length;\n\n  for (var i = 0; i < length; i++) {\n    if (arguments[i] === Infinity || arguments[i] === -Infinity) {\n      return Infinity;\n    }\n    y += arguments[i] * arguments[i];\n  }\n  return Math.sqrt(y);\n};\n",
-    "ldc": []
-}

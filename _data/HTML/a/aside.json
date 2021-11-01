@@ -1,5 +1,0 @@
-{
-    "description": "Mediante el elemento **aside** podemos crear una sección de contenido dentro de la página que esté relacionado de forma indirecta con el contenido principal. Normalmente se utiliza el elemento **aside** para representar *barras laterales*, *elementos de publicidad*, *biografías del autor del contenido*,...",
-    "code": "<article>\n<h2>Título del Artículo</h2>\n<p>\n  Contenido del Artículo\n</p>\n</article>\n<aside>\n<h2>Autor</h4>\n<p>Esta es la descripción del autor que ha escrito el artículo</p>\n</aside>",
-    "ldc": []
-}
