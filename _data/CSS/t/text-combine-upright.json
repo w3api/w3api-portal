@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "digits",
+            "description": ""
+        },
+        {
+            "nombre": "integer",
+            "description": ""
+        },
+        {
+            "nombre": "all",
+            "description": ""
+        },
+        {
+            "nombre": "none",
+            "description": ""
+        }
+    ]
+}

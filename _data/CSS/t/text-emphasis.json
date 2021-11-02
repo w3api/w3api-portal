@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "text-emphasis-color",
+            "description": ""
+        },
+        {
+            "nombre": "text-emphasis-style",
+            "description": ""
+        }
+    ]
+}

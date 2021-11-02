@@ -1,0 +1,43 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "filled",
+            "description": ""
+        },
+        {
+            "nombre": "none",
+            "description": ""
+        },
+        {
+            "nombre": "dot",
+            "description": ""
+        },
+        {
+            "nombre": "sesame",
+            "description": ""
+        },
+        {
+            "nombre": "circle",
+            "description": ""
+        },
+        {
+            "nombre": "double-circle",
+            "description": ""
+        },
+        {
+            "nombre": "string",
+            "description": ""
+        },
+        {
+            "nombre": "triangle",
+            "description": ""
+        },
+        {
+            "nombre": "open",
+            "description": ""
+        }
+    ]
+}

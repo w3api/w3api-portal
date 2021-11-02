@@ -1,0 +1,39 @@
+{
+    "description": "La propiedad **text-align** nos permite especificar la *alineación horizontal* de un texto dentro de un elemento de bloque.",
+    "code": "h2.center{\n  text-align: center;\n}",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "justify",
+            "description": "Justifica el contenido dentro de la caja de todas las líneas excepto de la última."
+        },
+        {
+            "nombre": "justify-all",
+            "description": "Justifica el contenido dentro de la caja de todas las líneas incluida la última."
+        },
+        {
+            "nombre": "match-parent",
+            "description": "Acepta la alineación que tenga el elemento padre."
+        },
+        {
+            "nombre": "end",
+            "description": "Atiende a la dirección del texto. Si es un texto izquierda-derecha lo alinea a la derecha y si es un texto derecha-izquierda lo alinea a la izquierda."
+        },
+        {
+            "nombre": "center",
+            "description": "Centra el texto dentro de la caja."
+        },
+        {
+            "nombre": "left",
+            "description": "Alinea el texto a la izquierda de la caja."
+        },
+        {
+            "nombre": "start",
+            "description": "Atiende a la dirección del texto. Si es un texto izquierda-derecha lo alinea a la izquierda y si es un texto derecha-izquierda lo alinea a la derecha."
+        },
+        {
+            "nombre": "right",
+            "description": "Alinea el texto a la derecha de la caja."
+        }
+    ]
+}

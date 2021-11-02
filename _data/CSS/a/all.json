@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "unset",
+            "description": ""
+        },
+        {
+            "nombre": "revert",
+            "description": ""
+        },
+        {
+            "nombre": "initial",
+            "description": ""
+        },
+        {
+            "nombre": "inherit",
+            "description": ""
+        }
+    ]
+}

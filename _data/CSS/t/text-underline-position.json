@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "right",
+            "description": ""
+        },
+        {
+            "nombre": "under",
+            "description": ""
+        },
+        {
+            "nombre": "auto",
+            "description": ""
+        },
+        {
+            "nombre": "left",
+            "description": ""
+        }
+    ]
+}

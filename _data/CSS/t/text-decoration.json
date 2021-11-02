@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "text-decoration-line",
+            "description": ""
+        },
+        {
+            "nombre": "text-decoration-color",
+            "description": ""
+        },
+        {
+            "nombre": "text-decoration-style",
+            "description": ""
+        }
+    ]
+}

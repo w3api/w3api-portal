@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "border-image-outset",
+            "description": ""
+        },
+        {
+            "nombre": "border-image-source",
+            "description": ""
+        },
+        {
+            "nombre": "border-image-width",
+            "description": ""
+        },
+        {
+            "nombre": "border-image-slice",
+            "description": ""
+        },
+        {
+            "nombre": "border-image-repeat",
+            "description": ""
+        }
+    ]
+}

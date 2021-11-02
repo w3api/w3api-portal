@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "content-distribution",
+            "description": "aa"
+        },
+        {
+            "nombre": "normal",
+            "description": "bbb"
+        },
+        {
+            "nombre": "content-position",
+            "description": "ccc"
+        },
+        {
+            "nombre": "overflow-position",
+            "description": "ddd"
+        },
+        {
+            "nombre": "baseline-position",
+            "description": "eee"
+        }
+    ]
+}

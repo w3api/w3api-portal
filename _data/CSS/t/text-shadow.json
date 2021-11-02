@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "color",
+            "description": ""
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "none",
+            "description": ""
+        }
+    ]
+}

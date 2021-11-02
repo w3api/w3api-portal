@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "border-box",
+            "description": ""
+        },
+        {
+            "nombre": "content-box",
+            "description": ""
+        }
+    ]
+}

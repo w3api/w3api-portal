@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "single-transition-property",
+            "description": ""
+        },
+        {
+            "nombre": "none",
+            "description": ""
+        }
+    ]
+}

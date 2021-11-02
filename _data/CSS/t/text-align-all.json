@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "justify",
+            "description": ""
+        },
+        {
+            "nombre": "match-parent",
+            "description": ""
+        },
+        {
+            "nombre": "end",
+            "description": ""
+        },
+        {
+            "nombre": "center",
+            "description": ""
+        },
+        {
+            "nombre": "left",
+            "description": ""
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "right",
+            "description": ""
+        }
+    ]
+}

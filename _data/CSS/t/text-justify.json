@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "inter-word",
+            "description": ""
+        },
+        {
+            "nombre": "inter-character",
+            "description": ""
+        },
+        {
+            "nombre": "auto",
+            "description": ""
+        },
+        {
+            "nombre": "none",
+            "description": ""
+        }
+    ]
+}

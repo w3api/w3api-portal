@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "page",
+            "description": ""
+        },
+        {
+            "nombre": "avoid-column",
+            "description": ""
+        },
+        {
+            "nombre": "avoid",
+            "description": ""
+        },
+        {
+            "nombre": "left",
+            "description": ""
+        },
+        {
+            "nombre": "region",
+            "description": ""
+        },
+        {
+            "nombre": "column",
+            "description": ""
+        },
+        {
+            "nombre": "avoid-page",
+            "description": ""
+        },
+        {
+            "nombre": "right",
+            "description": ""
+        },
+        {
+            "nombre": "verso",
+            "description": ""
+        },
+        {
+            "nombre": "recto",
+            "description": ""
+        },
+        {
+            "nombre": "avoid-region",
+            "description": ""
+        },
+        {
+            "nombre": "auto",
+            "description": ""
+        }
+    ]
+}

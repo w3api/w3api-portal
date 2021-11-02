@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "hanging",
+            "description": ""
+        },
+        {
+            "nombre": "length-percentage",
+            "description": ""
+        },
+        {
+            "nombre": "each-line",
+            "description": ""
+        }
+    ]
+}

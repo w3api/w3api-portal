@@ -1,0 +1,27 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "stroke-box",
+            "description": ""
+        },
+        {
+            "nombre": "fill-box",
+            "description": ""
+        },
+        {
+            "nombre": "border-box",
+            "description": ""
+        },
+        {
+            "nombre": "content-box",
+            "description": ""
+        },
+        {
+            "nombre": "view-box",
+            "description": ""
+        }
+    ]
+}

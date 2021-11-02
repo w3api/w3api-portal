@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "inherit",
+            "description": ""
+        }
+    ]
+}

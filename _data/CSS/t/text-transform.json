@@ -1,0 +1,31 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "valores": [
+        {
+            "nombre": "none",
+            "description": ""
+        },
+        {
+            "nombre": "uppercase",
+            "description": ""
+        },
+        {
+            "nombre": "lowercase",
+            "description": ""
+        },
+        {
+            "nombre": "full-size-kana",
+            "description": ""
+        },
+        {
+            "nombre": "capitalize",
+            "description": ""
+        },
+        {
+            "nombre": "full-width",
+            "description": ""
+        }
+    ]
+}
