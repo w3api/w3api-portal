@@ -38,16 +38,43 @@ show_date: false
     </div>
 
     <div class="main-tech-item">
-    <a href="/jQuery">
-      <div class="card">
-          <div class="card__image">
-            <img class="image" src="/assets/images/jquery.png"/>
-            <div class="overlay overlay--bottom">
-              <p>jQuery</p>
+      <a href="/Javascript">
+        <div class="card">
+            <div class="card__image">
+              <img class="image" src="/assets/images/javascript.png"/>
+              <div class="overlay overlay--bottom">
+                <p>Javascript</p>
+              </div>
             </div>
-          </div>
-      </div>
-    </a>
+        </div>
+      </a>
+    </div>
+
+
+    <div class="main-tech-item">
+      <a href="/Python">
+        <div class="card">
+            <div class="card__image">
+              <img class="image" src="/assets/images/python.png"/>
+              <div class="overlay overlay--bottom">
+                <p>Python</p>
+              </div>
+            </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="main-tech-item">
+      <a href="/CSS">
+        <div class="card">
+            <div class="card__image">
+              <img class="image" src="/assets/images/css.png"/>
+              <div class="overlay overlay--bottom">
+                <p>CSS</p>
+              </div>
+            </div>
+        </div>
+      </a>
     </div>
 
     <div class="main-tech-item">
@@ -61,28 +88,15 @@ show_date: false
             </div>
         </div>
       </a>
-
-
     </div>
+
     <div class="main-tech-item">
-      <a href="/CSS">
+      <a href="/jQuery">
         <div class="card">
             <div class="card__image">
-              <img class="image" src="/assets/images/css.png"/>
+              <img class="image" src="/assets/images/jquery.png"/>
               <div class="overlay overlay--bottom">
-                <p>CSS</p>
-              </div>
-            </div>
-        </div>
-      </a>
-    </div>
-    <div class="main-tech-item">
-      <a href="/Javascript">
-        <div class="card">
-            <div class="card__image">
-              <img class="image" src="/assets/images/javascript.png"/>
-              <div class="overlay overlay--bottom">
-                <p>Javascript</p>
+                <p>jQuery</p>
               </div>
             </div>
         </div>
