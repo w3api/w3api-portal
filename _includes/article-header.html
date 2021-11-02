@@ -24,13 +24,12 @@
           {%- assign _is_article_collection = __return -%}
           {%- include snippets/get-locale-string.html key='POST_ON_GITHUB' -%}
           {%- assign _locale_post_on_github = __return -%}
-          {%- if _is_article_collection -%}
-            {%- include snippets/prepend-path.html path=include.article.path prepend_path=site.collections_dir -%}
-            {%- assign _article_path = __return -%}
+          {%- if _is_article_collection -%}            
+            {%- assign _article_path = include.article.key | replace:'.','/' -%}
           {%- else -%}
             {%- assign _article_path = include.article.path -%}
           {%- endif -%}
-          {%- assign _github_path = site.repository | append: '/tree/' | append: site.repository_tree | append: '/' | append: _article_path | replace:'//','/' -%}
+          {%- assign _github_path = site.repository | append: '/tree/' | append: site.repository_tree | append: '/_data/' | append: _article_path | replace:'//','/' | append: ".json" -%}
           <span class="split-space">&nbsp;</span>
           <a class="edit-on-github"
             title="{{ _locale_post_on_github }}"
