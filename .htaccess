@@ -357,6 +357,35 @@ redirect 301 /wiki/Java:Component.validate() /Java/Component/validate
 redirect 301 /wiki/Java:Component.getFocusCycleRootAncestor() /Java/Component/getFocusCycleRootAncestor
 redirect 301 /wiki/Java:Component.addHierarchyListener() /Java/Component/addHierarchyListener/
 redirect 301 /wiki/Java:Component.getPropertyChangeListeners() /Java/Component/getPropertyChangeListeners/
+redirect 301 /wiki/Java:ActionListener /Java/ActionListener/
+redirect 301 /wiki/Java:Stream.filter() /Java/Stream/filter/
+redirect 301 /wiki/Java:BasicStroke /Java/BasicStroke/
+redirect 301 /wiki/Java:Character.toUpperCase() /Java/Character/toUpperCase/
+redirect 301 /wiki/Java:PopupMenu /Java/PopupMenu/
+redirect 301 /wiki/Java:Runtime.addShutdownHook() /Java/Runtime-java-lang/addShutdownHook/
+redirect 301 /wiki/Java:FileChannel.tryLock() /Java/FileChannel/tryLock/
+redirect 301 /wiki/Especial:Aleatoria /
+redirect 301 /wiki/Java:ComponentOrientation /Java/ComponentOrientation/
+redirect 301 /wiki/CSS:First-line /CSS/first-line/
+redirect 301 /wiki/CSS:Quotes /CSS/quotes/
+redirect 301 /wiki/Java:Stream.forEach() /Java/Stream/forEach/
+redirect 301 /wiki/Java:IntStream.mapToObj() /Java/IntStream/mapToObj/
+redirect 301 /wiki/HTML:Q /HTML/q/
+redirect 301 /wiki/Java:Matcher /Java/Matcher/
+redirect 301 /wiki/Java:Collector /Java/Collector/
+redirect 301 /wiki/Java:Dimension.height /Java/Dimension/height/
+redirect 301 /wiki/Java:Map.Entry.getValue() /Java/Map/Entry/getValue/
+redirect 301 /wiki/Java:DateFormat.getDateInstance() /Java/DateFormat/getDateInstance/
+redirect 301 /wiki/HTML:TH /HTML/th/
+redirect 301 /wiki/CSS:Border-left-style /CSS/border-left-style/
+redirect 301 /wiki/CSS:Left /CSS/left/
+redirect 301 /wiki/HTML5:NAV /HTML/nav/
+redirect 301 /wiki/CSS:Link /CSS/link/
+redirect 301 /wiki/Categoría:PseudoElemento /CSS/tag/selector-css/
+
+
+
+
 
 redirect 301 /wiki/ http://www.w3api.com
 
