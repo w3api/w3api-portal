@@ -1,0 +1,108 @@
+{
+    "description": "El elemento **body** nos sirve para definir el cuerpo del contenido de la página web. Todos los elementos que se encuentren dentro del **body** serán representados visualmente.",
+    "code": "<!DOCTYPE html>\n<head>\n    <meta charset=\"UTF-8\">    \n    <title>Título de la página</title>\n</head>\n<body>\n\n    <h1>Cabecera principal</h1>\n    <p>Contenido de la página web</p>\n    \n</body>\n</html>",
+    "ldc": [
+        {
+            "nombre": "Ir al principio y al final de una p\u00e1gina web",
+            "url": "http://lineadecodigo.com/html/ir-al-principio-y-al-final-de-una-pagina-web/"
+        }
+    ],
+    "eventos": [
+        {
+            "nombre": "onafterprint",
+            "description": "El evento **onafterprint** se lanza una vez que hemos lanzado una impresión, justo una vez que hemos cerrado el cuadro de dialogo de la impresión.\nAl evento **onafterprint** podremos asociarle el código [Javascript](http://www.manualweb.net/javascript) que queremos que gestione el evento.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Evento OnAfterPrint</title>\n</head>\n<body onafterprint=\"postimpresion();\" onbeforeprint=\"preimpresion();\">\n\n    <div id=\"mensaje\"></div>\n\n\n    <script>\n        function mensaje(texto){\n            contenido = document.getElementById(\"mensaje\");\n            contenido.innerHTML = texto;        \n        }\n\n        function postimpresion(){\n            mensaje(\"Has realizado una impresión\");\n        }\n\n        function preimpresion(){\n            mensaje(\"Vas a imprimir esta pagina\");\n        }\n    </script>\n    \n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "onbeforeprint",
+            "description": "El evento **onbeforeprint** se lanza antes de realizar una impresión. Una vez que hemos iniciado el proceso de impresión. Mediante este evento podemos modificar el documento que vamos a imprimir. Al evento **onbeforeprint** podremos asociarle el código [Javascript](http://www.manualweb.net/javascript) que queremos que gestione el evento.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Evento OnAfterPrint</title>\n</head>\n<body onafterprint=\"postimpresion();\" onbeforeprint=\"preimpresion();\">\n\n    <div id=\"mensaje\"></div>\n\n\n    <script>\n        function mensaje(texto){\n            contenido = document.getElementById(\"mensaje\");\n            contenido.innerHTML = texto;        \n        }\n\n        function postimpresion(){\n            mensaje(\"Has realizado una impresión\");\n        }\n\n        function preimpresion(){\n            mensaje(\"Vas a imprimir esta pagina\");\n        }\n    </script>\n    \n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "onbeforeunload",
+            "description": "El evento **onbeforeunload** se lanza justo antes de que se ejecute un **unload** de la página, es decir, que el usuario abandone la página.\nLa página todavía está visible y lo que podemos es formar a que salga un mensaje al usuario para que sepa que si abandona va a perder todos los datos de la página. Se utiliza con los formularios.\n\nEl evento **onbeforeunload** tiene que devolver un valor de `null` para que el agente de usaurio sepa que tiene que mostrar la alerta.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=ç, initial-scale=1.0\">\n    <title>Controlar Abandono Página</title>\n\n\n    <div id=\"mensaje\"></div>\n\n    <script type=\"text/javascript\">\n        \n        window.addEventListener(\"beforeunload\",function(e){\n            document.getElementById(\"mensaje\").innerHTML = \"Si se va no se guardarán los datos\";\n            (e || window.event).returnValue = null;\n            return null;\n        },true);\n        \n\n    </script>\n\n</head>\n<body>",
+            "ldc": []
+        },
+        {
+            "nombre": "onhashchange",
+            "description": "El evento **onhashchange** se lanza cuando cambia el valor del hash de la URL. Es decir, el valor que va asociado a la almohadilla.\nLos hash son utilizados en aplicaciones **SPA (Single Page Application)** y se utilizan para gestionar la navegación. En ese punto el evento **onhashchange** nos puede ser de mucha utilidad.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Controlar cambio hash</title>\n</head>\n<body onhashchange=\"cambioHash();\">\n\n    <button onclick=\"nuevoHash('P1');\">Página 1</button> \n    <button onclick=\"nuevoHash('P2');\">Página 2</button>\n    <button onclick=\"nuevoHash('P3');\">Página 3</button>\n\n    <br/><br/>\n\n    <div id=\"mensaje\"></div>\n\n    <script>\n\n        function nuevoHash(nombre) {\n            location.hash = \"#\"+nombre;\n        }\n\n        function cambioHash(){\n            document.getElementById(\"mensaje\").innerHTML = \"Navegación al hash '\" + location.hash + \"'\";\n        }\n    </script>\n\n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "onlanguagechange",
+            "description": "El evento **onlanguagechange** se lanza cuando se cambia el idioma por defecto del documento. Para poder cambiar el idioma deberemos de hacerlo desde la configuración del navegador.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Cambio de Idioma</title>\n</head>\n<body onlanguagechange=\"cambioIdioma();\">\n\n    <h1>Cambio de Idioma</h1>\n    <div id=\"mensaje\"></div>\n\n    <script>\n\n        var mensaje = document.getElementById(\"mensaje\");\n        mensaje.innerHTML = \"El idioma por defecto es \" + navigator.language;\n\n        function cambioIdioma(){\n            mensaje.innerHTML = \"Se ha cambiado el idioma del documento a \" +   navigator.language;\n        }\n\n\n    </script>\n\n\n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "onmessage",
+            "description": "El evento **onmessage** nos permite controlar cada vez que recibimos un mensaje de evento. Recibirá la información del mensaje de evento como parámetro para poder conocer quién envía el mensaje.\nEl mensaje de evento tiene las siguientes propiedades que nos sirven para conocer algo más del mensaje:\n\n* **data**, el mensaje enviado por el emisor.\n* **origin**, el origen del emisor del mensaje.\n* **lastEventId**, un ID que identifica de manera unívoca el mensaje.\n* **source**, un objeto que representa al emisor: WindowProxy, MessagePort o ServiceWorker.\n* **ports**, objeto que representa los puertos asociados al canal del mensaje.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Detectar Evento</title>\n</head>\n<body onmessage=\"mensajeRecibido(event);\">\n    \n    <script>\n        function mensajeRecibido(e) {\n            console.log(\"Mensaje Recibido\");\n            console.log(e);\n        }\n\n        window.postMessage(\"MiMensaje\");\n    </script>\n\n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "onmessageerror",
+            "description": "El evento **onmessageerror** se genera cuando llega un mensaje del tipo ***messageerror*** a la ventana del navegador. Esto sucede cuando el mensaje recibido no puede ser deserializado.",
+            "code": "<body onmessageerror=\"mensajeErrorRecibido(event);\">    \n    <script>\n        function mensajeErrorRecibido(e) {\n            console.log(\"Mensaje Error Recibido\");\n            console.error(e);\n        }\n    </script>\n</body>",
+            "ldc": []
+        },
+        {
+            "nombre": "onoffline",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "ononline",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpagehide",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpageshow",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onpopstate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onrejectionhandled",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onstorage",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onunhandledrejection",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "onunload",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}
