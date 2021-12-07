@@ -76,8 +76,8 @@
         },
         {
             "nombre": "onpopstate",
-            "description": "",
-            "code": "",
+            "description": "El evento **popstate** se produce cada vez que hay un cambio en la navegación sobre el historial del navegador.\n\nPara podernos mover por el historial se tiene que haber cargado con información mediante el método `history.pushState()` o el método `history.replaceState()`.\n\nEn el atributo `state` del evento nos vendrá información sobre el estado del historial al que nos hayamos movido.",
+            "code": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Evento Estados History API</title>\n\n</head>\n<body>\n\n<h1>Evento Estados History API</h1>\n<p> Prueba a moverte por el historial con los botones de back y forward.</p>\n\n<article>\n  <h2>Salida</h2>\n  <div id=\"salida\"></div>\n</article>\n\n<script>\n\n  var consola = document.getElementById(\"salida\");\n  function escribir(texto) {\n    actual = consola.innerHTML\n    consola.innerHTML = actual + \"<br>\" + texto;\n  }\n\n  window.onpopstate = function(event) {\n      escribir(\"Te has desplazado a \" + JSON.stringify(event.state));\n    };\n\n  history.pushState({ pagina: \"1\" }, \"Titulo 1\", \"history-states-event.html#p1\");\n  escribir(\"Hemos añadido el estado \" + JSON.stringify(history.state));\n\n  history.pushState({ pagina: \"2\" }, \"Titulo 2\", \"history-states-event.html#p2\");\n  escribir(\"Hemos añadido el estado \" +  JSON.stringify(history.state));\n\n  escribir(\"El número de estados es de \" + history.length);\n\n</script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
