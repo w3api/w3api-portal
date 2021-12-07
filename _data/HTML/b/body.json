@@ -52,14 +52,14 @@
         },
         {
             "nombre": "onoffline",
-            "description": "",
-            "code": "",
+            "description": "El evento **offline** es generado por la ventana cuando se pierde la conexión a internet. La propiedad `window.navigator.onLine` cambia su valor a `false`.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dectectar Offline/OnLine</title>\n\n    \n</head>\n<body>\n\n    <h1>Dectectar Offline/OnLine</h1>\n\n    El navegador está en modo <strong><span id=\"mode\"></span></strong>\n\n\n    <script>\n        window.addEventListener(\"offline\",function(e){\n            console.log(\"Conexión perdida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OffLine\";\n        });\n\n        window.addEventListener(\"online\",function(e){\n            console.log(\"Conexión establecida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OnLine\";\n        });\n\n        texto = document.getElementById(\"mode\");\n        modo = (window.navigator.onLine)?\"OnLine\":\"OffLine\";\n        texto.innerHTML = modo;\n        console.log(\"Conexión Inicial \" + modo);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "ononline",
-            "description": "",
-            "code": "",
+            "description": "El evento **online** se genera cuando la ventana del navegador comprueba que ha recuperado la conexión a internet. La propiedad `window.navigator.onLine` cambia su valor a `true`.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dectectar Offline/OnLine</title>\n\n    \n</head>\n<body>\n\n    <h1>Dectectar Offline/OnLine</h1>\n\n    El navegador está en modo <strong><span id=\"mode\"></span></strong>\n\n\n    <script>\n        window.addEventListener(\"offline\",function(e){\n            console.log(\"Conexión perdida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OffLine\";\n        });\n\n        window.addEventListener(\"online\",function(e){\n            console.log(\"Conexión establecida\")\n            texto = document.getElementById(\"mode\");\n            texto.innerHTML = \"OnLine\";\n        });\n\n        texto = document.getElementById(\"mode\");\n        modo = (window.navigator.onLine)?\"OnLine\":\"OffLine\";\n        texto.innerHTML = modo;\n        console.log(\"Conexión Inicial \" + modo);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
