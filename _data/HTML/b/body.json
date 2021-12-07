@@ -64,14 +64,14 @@
         },
         {
             "nombre": "onpagehide",
-            "description": "",
-            "code": "",
+            "description": "El evento **onpagehide** se lanza cuando el usuario abandona la página en la que estamos. Ya sea porque navegamos mediante un enlace, damos a actualizar la página, cerramos la ventana del navegador, navegamos en el historial del navegador,...\n\nExiste también el evento **[onunload](/HTML/body/onunload/)** para poder realizar la misma gestión. Pero en el caso del **[onunload](/HTML/body/onunload/)** la página no es cacheada.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Abandonar Página</title>\n</head>\n<body>\n\n    <h1>Abandonar Página</h1>\n\n    <script>\n\n        window.addEventListener(\"pagehide\",function(e){\n            console.log(\"Se abandona la página\");            \n        },false);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
             "nombre": "onpageshow",
-            "description": "",
-            "code": "",
+            "description": "El evento **onpageshow** se registra cuando el navegador muestra uno de los documentos del historial. Bien si es debido a la carga inicial del documento, o porque navegamos al documento desde otra página o porque se recupera la página de la caché o porque estamos navegando por el historial de navegación.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Mostrar Página</title>\n</head>\n<body>\n\n    <h1>Mostrar Página</h1>\n\n    <script>\n\n        window.addEventListener(\"pageshow\",function(e){\n            console.log(\"La página se ha mostrado\");            \n        },false);\n\n    </script>\n    \n</body>\n</html>",
             "ldc": []
         },
         {
