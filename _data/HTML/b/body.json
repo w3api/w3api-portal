@@ -100,8 +100,8 @@
         },
         {
             "nombre": "onunload",
-            "description": "",
-            "code": "",
+            "description": "El evento **unload** se registra cuando se van a abandonar la página y por lo tanto liberar sus recursos. La liberación de recursos se produce después de la gestión de este evento.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descarga de la Página</title>\n\n    <script type=\"text/javascript\">\n        \n        window.addEventListener(\"unload\",function(e){            \n            console.log(\"La página se va a abandonar\");            \n        },true);\n        \n\n    </script>\n\n</head>\n<body>\n    \n<h1>Descarga de la Página</h1>\n\n<p> Sal de la página para comprobar cómo se controla el evento unload</p>\n\n</body>\n</html>",
             "ldc": []
         }
     ]
