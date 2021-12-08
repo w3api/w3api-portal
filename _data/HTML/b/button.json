@@ -1,0 +1,67 @@
+{
+    "description": "Mediante el elemento `button` podemos crear botones sobre los que podremos hacer click y lanzar acciones.\n\nEs un elemento en línea que se posicionará detrás del elemento anterior. Podemos utilizar estilos [CSS](https://www.manualweb.net/css) para modificar su estilo visual.",
+    "code": "<button id=\"miboton\">Soy un botón</button>",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "disabled",
+            "description": "El atributo `disabled` nos permite deshabilitar el botón para que ese no pueda ser clicado.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Deshabilitar Botón</title>\n</head>\n<body>\n\n    <form>\n        <button disabled>Botón desahbilitado</button>\n    </form>\n\n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "form",
+            "description": "Mediante el atributo `form` podemos asociar la gestión de un formulario al botón. Esto nos permite tener el botón sin estar anidado dentro del elemento [`form`](/HTML/form/). El valor del atributo `form` será el `id` de un formulario.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Asociar botón a formulario</title>\n</head>\n<body>\n\n    <form id=\"miformualario\" method=\"get\" action=\"send\">\n        <label for=\"nombre\">Nombre: </label>\n        <input type=\"text\" name=\"nombre\" id=\"nombre\"/>        \n    </form>\n\n    <button id=\"miboton\" form=\"miformualario\">Enviar</button>\n    \n</body>\n</html>",
+            "ldc": []
+        },
+        {
+            "nombre": "formaction",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formenctype",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formmethod",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formnovalidate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "formtarget",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "type",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "value",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}
