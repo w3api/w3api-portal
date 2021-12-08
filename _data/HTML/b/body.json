@@ -88,8 +88,8 @@
         },
         {
             "nombre": "onstorage",
-            "description": "",
-            "code": "",
+            "description": "El evento **onstorage** nos sirve para gestionar eventos de almacenamiento. Estos eventos se registran cuando se modifica el área de almacenamiento **desde otra página diferente a la página que estamos ejecutando**.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Insertar elemento en la Web Storage</title>\n</head>\n<body>\n\n    <h1>Cambios en el storage</h1>\n    <div id=\"cambios\"></div>\n\n    <script>\n\n    window.addEventListener(\"storage\",function(e){\n        let cambios = document.getElementById(\"cambios\");\n        cambios.innerHTML = cambios.innerHTML + \"La clave \" + e.key + \" cambia su antiguo valor de '\" + e.oldValue + \"' por el nuevo valor '\" + e.newValue + \"'.<br>\";\n    });\n\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
