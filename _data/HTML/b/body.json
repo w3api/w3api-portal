@@ -82,8 +82,8 @@
         },
         {
             "nombre": "onrejectionhandled",
-            "description": "",
-            "code": "",
+            "description": "El evento **onrejectionhandled** se registra cuando se ha producido un rechado de una promesa y esta ha sido manejada. Es decir, se ha ejecutado su método `.catch`.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Gestionar Promesas Rechazadas</title>\n</head>\n<body>\n\n    <h1>Gestionar Promesas Rechazadas</h1>\n\n    <script>\n\n\n        window.addEventListener(\"rejectionhandled\", function(event) {            \n            console.log(\"Promesa Manejada rechazada. Razón: \" + event.reason);\n        }, false);\n\n        window.addEventListener(\"unhandledrejection\", function(event) {            \n            console.log(\"Promesa Sin Manejar rechazada. Razón: \" + event.reason);\n        }, false);\n  \n        // Creo una promesa y directamente la rechazo\n        var rejectedPromise = Promise.reject('Error a las ' + new Date().toLocaleTimeString());\n\n        // Hay que ejecutar el catch para que sea una promesa manejada        \n        setTimeout(() => {\n           rejectedPromise.catch(() => {});\n        }, 1);\n        \n\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
@@ -94,8 +94,8 @@
         },
         {
             "nombre": "onunhandledrejection",
-            "description": "",
-            "code": "",
+            "description": "El evento **onunhandledrejection** se registra cuando se ha producido un rechado de una promesa y esta no ha sido manejada. Es decir, no tiene un método `.catch` para gestionar el rechazo.",
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Gestionar Promesas Rechazadas</title>\n</head>\n<body>\n\n    <h1>Gestionar Promesas Rechazadas</h1>\n\n    <script>\n\n\n        window.addEventListener(\"rejectionhandled\", function(event) {            \n            console.log(\"Promesa Manejada rechazada. Razón: \" + event.reason);\n        }, false);\n\n        window.addEventListener(\"unhandledrejection\", function(event) {            \n            console.log(\"Promesa Sin Manejar rechazada. Razón: \" + event.reason);\n        }, false);\n  \n        // Creo una promesa y directamente la rechazo\n        var rejectedPromise = Promise.reject('Error a las ' + new Date().toLocaleTimeString());\n\n        // Hay que ejecutar el catch para que sea una promesa manejada        \n        setTimeout(() => {\n           rejectedPromise.catch(() => {});\n        }, 1);\n        \n\n    </script>\n\n</body>\n</html>",
             "ldc": []
         },
         {
