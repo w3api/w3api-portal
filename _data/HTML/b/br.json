@@ -1,0 +1,8 @@
+{
+    "description": "El elemento `br` nos sirve para crear un salto de línea dentro del texto de nuestra página web.\n\nNo se debe de utilizar el elemento `br` para crear espacio entre elementos. En ese caso deberemos de acudir a las propiedades [CSS](https://www.manualweb.net/css/).",
+    "code": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Salto de línea</title>\n</head>\n<body>\n\n<h1>Saltos de linea</h1>\n\nPrimera línea\n<br><br>\nSegunda línea\n\n\n</body>\n</html>",
+    "ldc": [
+        {"nombre":"Saltos de línea en HTML",
+        "url":"https://lineadecodigo.com/html/saltos-de-linea-en-html/"}
+    ]
+}
