@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "atributos": [
+        {
+            "nombre": "accept-charset",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "action",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "autocomplete",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "enctype",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "method",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "name",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "novalidate",
+            "description": "",
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "target",
+            "description": "",
+            "code": "",
+            "ldc": []
+        }
+    ]
+}
