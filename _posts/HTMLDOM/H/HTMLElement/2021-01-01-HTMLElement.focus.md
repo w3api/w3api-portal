@@ -39,7 +39,7 @@ Element.focus(options)
 ## **Objeto Padre**
 
 
-[Element](https://www.w3api.com/DOM/Element/)
+[`HTMLElement`](https://www.w3api.com/HTMLDOM/HTMLElement/)
 
 
 ## **Ejemplo**
