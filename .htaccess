@@ -464,6 +464,14 @@ redirect 301 /wiki/Java:GraphicsEnvironment /Java/GraphicsEnvironment/
 redirect 301 /wiki/HTML:I /HTML/i/
 redirect 301 /wiki/CSS:Background-repeat /CSS/background-repeat/
 redirect 301 /wiki/HTML5:BASE /HTML/base/
+redirect 301 /wiki/DOM:Document.getElementById() /DOM/Document/getElementById/
+redirect 301 /wiki/DOM:Element.focus() /HTMLDOM/HTMLElement/focus/
+redirect 301 /wiki/DOM:Element.insertAdjacentHTML() /DOM/Element/insertAdjacentHTML/
+redirect 301 /wiki/DOM:Element.addEventListener() /DOM/EventTarget/addEventListener/
+redirect 301 /wiki/HTML:Id /HTML/id/
+redirect 301 /wiki/Categoría:Java_IO /Java/tag/java.io/
+redirect 301 /wiki/DOM:Document /DOM/Document/
+redirect 301 /wiki/DOM:Window /DOM/Window/
 
 redirect 301 /wiki/ http://www.w3api.com
 
