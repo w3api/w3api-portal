@@ -472,6 +472,11 @@ redirect 301 /wiki/HTML:Id /HTML/id/
 redirect 301 /wiki/Categoría:Java_IO /Java/tag/java.io/
 redirect 301 /wiki/DOM:Document /DOM/Document/
 redirect 301 /wiki/DOM:Window /DOM/Window/
+redirect 301 /wiki/HTML:P /HTML/p/
+redirect 301 /wiki/HTML:SUP /HTML/sup/
+redirect 301 /wiki/HTML5:Spellcheck /HTML/spellcheck/
+redirect 301 /wiki/DOMHTML:History.back() /WebApi/History/back/
+redirect 301 /wiki/Categoría:DOM /DOM/
 
 redirect 301 /wiki/ http://www.w3api.com
 
