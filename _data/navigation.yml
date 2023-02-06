@@ -17,6 +17,13 @@ css:
     children:
       - title:  Elementos CSS
         url:    /CSS/elementos-css/
+
+dom:
+  - title: DOM
+    children:
+      - title:  Elementos DOM
+        url:    /DOM/elementos-dom/
+
 google:
   - title: Google
 
@@ -30,6 +37,12 @@ html:
         url:    /HTML/elementos-html/
       - title:  Versiones HTML
         url:    /HTML/versiones-html/
+
+htmldom:
+  - title: HTMLDOM
+    children:
+      - title:  Elementos HTMLDOM
+        url:    /HTMLDOM/elementos-htmldom/
 
 java:
   - title : Java
@@ -74,6 +87,9 @@ vbscript:
 
 webapi:
   - title: Web API
+    children:
+      - title:  Elementos WebAPI
+        url:    /WebAPI/elementos-webapi/      
 
 xslt:
   - title: XSLT
