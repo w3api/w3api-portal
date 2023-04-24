@@ -1,10 +1,10 @@
 ---
-title: HttpServlet
-permalink: /Java/HttpServlet/
-date: 2023-04-24
-key: Java.H.HttpServlet
+title: HttpServlet.doGet()
+permalink: /Java/HttpServlet/doGet/
+date: 2023-04-25
+key: Java.H.HttpServlet.doGet
 category: Java
-tags: [clase java,java ee,javax.servlet.http]
+tags: [metodo java,javax.servlet.http]
 sidebar:
   nav: java
 ---
@@ -12,32 +12,33 @@ sidebar:
 ## **Descripción**
 
 
-La clase `HttpServlet` es una clase abstracta que nos sirve para poder crear un **Servlet HTTP**. Este servlet nos permitirá controlar y manejar las solicitudes HTTP entrantes y las respuestas HTTP salientes. 
+El método `doGet` nos permite gestionar peticiones HTTP GET dentro de un Servlet. Los parámetros de una petición HTTP GET vienen dentro de la cadena de la URL como pares clave/valor.
 
 
 ## **Sintaxis**
 
 
 ```java
-public abstract class HttpServlet extends GenericServlet
+protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException
 ```
 
 
-## **Constructores**
+## **Parámetros**
 
-- HttpServlet()
+- **req,** el objeto [`HttpServletRequest`](https://www.w3api.com/Java/HttpServletRequest/) que encapsula la petición HTTP que se recibe desde el cliente.
+- **resp,** el objeto [`HttpServletResponse`](https://www.w3api.com/Java/HttpServletResponse/) que encapsula la respuesta HTTP que se va a enviar al cliente.
 
-## **Métodos**
+## **Excepciones**
 
-- doDelete()
-- [doGet()](https://www.w3api.com/Java/HttpServlet/doGet/)
-- doHead()
-- doOptions()
-- [doPost()](https://www.w3api.com/Java/HttpServlet/doPost/)
-- doPut()
-- doTrace()
-- getLastModified()
-- service()
+
+[`ServletException`](https://www.w3api.com/Java/ServletException/), [`IOException`](https://www.w3api.com/Java/IOException/)
+
+
+## **Clase Padre**
+
+
+[`HttpServlet`](https://www.w3api.com/Java/HttpServlet/)
+
 
 ## **Ejemplo**
 
@@ -72,6 +73,6 @@ public class MiPrimerServlet extends HttpServlet {
 ```
 
 
-## **Líneas de Código**
+## Artículos
 
 - [Mi primer servlet](https://lineadecodigo.com/java/mi-primer-servlet/)
