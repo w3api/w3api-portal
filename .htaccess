@@ -484,6 +484,6 @@ redirect 301 /wiki/ http://www.w3api.com
 ErrorDocument 404 /404.html
 
 RewriteEngine On
-## RewriteCond %{HTTP_HOST} ^w3api.com\.com [NC]
+RewriteCond %{HTTP_HOST} ^w3api.com\.com [NC]
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://w3api.com/$1 [R,L]
