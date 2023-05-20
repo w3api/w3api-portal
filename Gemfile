@@ -10,7 +10,7 @@ source "https://rubygems.org"
 
 
 gem "jekyll","4.2.0" 
-gem "liquid-c"
+gem 'liquid', '4.0.3'
 gem "jemoji"
 
 group :jekyll_plugins do
@@ -18,5 +18,6 @@ group :jekyll_plugins do
   gem "jekyll-commonmark"
   gem "jekyll-paginate-v2"
   gem "jekyll-feed"
+  gem 'jekyll-seo-tag'
 end
 gemspec

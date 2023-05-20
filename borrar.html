@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abrir y Cerrar Ventana</title>
+
+    <script>
+        var ventana;
+        function crearVentana() {
+             ventana = window.open("http://www.manualweb.net","nuevo","width=400,height=400");
+             setTimeout(cerrarVentana,5000);
+        }
+        
+        function cerrarVentana(){
+             ventana.close();
+        }
+    </script>
+
+</head>
+<body>
+
+    <h1>Abrir y Cerrar Ventana</h1>
+    <a href="#" onClick="crearVentana();">Abrir ventana</a> (a los 5 segundos se cerrara)
+
+</body>
+</html>
+

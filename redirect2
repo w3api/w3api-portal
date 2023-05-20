@@ -1,38 +1,68 @@
 
 
 
-redirect 301 /wiki/DOM:Document.getElementById() XXX /DOM/Document/getElementById/
+
+
+redirect 301 /wiki/DOM:Window.open() XXX /DOM/Window/open/
+redirect 301 /wiki/DOM:Window.close() XXX /DOM/Window/close/
+redirect 301 /wiki/DOMHTML:History XXX /DOMHTML/Histor//
+redirect 301 /wiki/DOM:Console.log() XXX /DOM/Console/log/
+
+
+redirect 301 /wiki/HTML:H1 XXX /HTML/H//
+redirect 301 /wiki/HTML:FRAMESET XXX /HTML/FRAMESE//
+redirect 301 /wiki/DOM:HTMLMediaElement XXX /DOM/HTMLMediaElemen//
+
+redirect 301 /wiki/HTML:Usemap XXX /HTML/Usema//
+redirect 301 /wiki/HTML:FRAME XXX /HTML/FRAM//
+redirect 301 /wiki/HTML5:FORM.autocomplete XXX /HTML/FORM.autocomplete
+redirect 301 /wiki/HTML:HEAD XXX /HTML/HEA//
+redirect 301 /wiki/HTML:TITLE XXX /HTML/TITL//
+redirect 301 /wiki/DOM:Location.href XXX /DOM/Location/href/
+redirect 301 /wiki/HTML:THEAD XXX /HTML/THEA//
+redirect 301 /wiki/HTML:BLOCKQUOTE XXX /HTML/BLOCKQUOT//
+redirect 301 /wiki/HTML:CENTER XXX /HTML/CENTE//
+redirect 301 /wiki/HTML5:DATALIST XXX /HTML/DATALIST
+redirect 301 /wiki/HTML5:INPUT.pattern XXX /HTML/INPUT.pattern
+redirect 301 /wiki/HTML:Action XXX /HTML/Actio//
+redirect 301 /wiki/HTML:TR XXX /HTML/T//
+redirect 301 /wiki/HTML5:SOURCE XXX /HTML/SOURCE
+redirect 301 /wiki/HTML:MAP XXX /HTML/MA//
+redirect 301 /wiki/HTML:OPTION XXX /HTML/OPTIO//
+redirect 301 /wiki/HTML:EM XXX /HTML/E//
+redirect 301 /wiki/HTML:SCRIPT XXX /HTML/SCRIP//
+redirect 301 /wiki/DOM:Event.preventDefault() XXX /DOM/Event/preventDefault/
+
+
+
+
+
 redirect 301 /wiki/PHP:Base64_encode XXX /PHP/Base64_encode/
 redirect 301 /wiki/jQuery:Trigger() XXX /jQuery/Trigger/
 redirect 301 /wiki/XSL:Xsl:if.test XXX /XSL/Xsl/if/test
-redirect 301 /wiki/DOM:Element.focus() XXX /DOM/Element/focus/
 redirect 301 /wiki/jQuery:Siblings() XXX /jQuery/Siblings/
 redirect 301 /wiki/PHP:Mysqli_num_rows XXX /PHP/Mysqli/num/_rows/
 redirect 301 /wiki/XSLT:Xsl:for-each XXX /XSLT/Xsl/for-each/
-redirect 301 /wiki/DOM:Element.insertAdjacentHTML() XXX /DOM/Element/insertAdjacentHTML/
 redirect 301 /wiki/PHP:Date XXX /PHP/Date/
-redirect 301 /wiki/DOM:Element.addEventListener() XXX /DOM/Element/addEventListener/
-redirect 301 /wiki/DOMHTML:History.back() XXX /DOMHTML/History/back/
 redirect 301 /wiki/PHP:File_get_contents XXX /PHP/File/get_contents/
 redirect 301 /wiki/jQuery:Grep() XXX /jQuery/Grep//)
 redirect 301 /wiki/XSLT:Xsl:if XXX /XSLT/Xsl/if/
-redirect 301 /wiki/Categoría:DOM XXX /Categoría:DOM
 redirect 301 /wiki/PHP:Mail XXX /PHP/Mail/
 redirect 301 /wiki/XSLT:Count() XXX /XSLT/Count/
-redirect 301 /wiki/DOM:Window.open() XXX /DOM/Window/open/
+
 
 ----
 
 redirect 301 /wiki/Javascript:Navigator.userAgent XXX /Javascript/Navigator/userAgent/
-redirect 301 /wiki/DOM:Window.close() XXX /DOM/Window/close/
+
 redirect 301 /wiki/Java:Runtime.addShutdownHook() XXX /Java/Runtime/addShutdownHook/
 redirect 301 /wiki/PHP:Mt_rand XXX /PHP/Mt/rand/
 redirect 301 /wiki/Categoría:Clase_Java XXX /Categoría:Clase_Java
 redirect 301 /wiki/Javascript:Escape() XXX /Javascript/Escape//)
-redirect 301 /wiki/Categoría:Java_IO XXX /Categoría:Java_IO
+
 redirect 301 /wiki/Javascript:String.split() XXX /Javascript/String/split/
 redirect 301 /wiki/CSS:List-style-type XXX /CSS/List/style/-type
-redirect 301 /wiki/HTML:P XXX /HTML///
+
 redirect 301 /wiki/Java:BorderLayout XXX /Java/BorderLayou//
 redirect 301 /wiki/Java:Properties.getProperty() XXX /Java/Properties/getProperty/
 redirect 301 /wiki/Javascript:Date.parse() XXX /Javascript/Date/parse/
@@ -47,40 +77,45 @@ redirect 301 /wiki/Java:Process.getInputStream() XXX /Java/Process/getInputStrea
 redirect 301 /wiki/Javascript:Date.getTime() XXX /Javascript/Date/getTime/
 redirect 301 /wiki/Java:Message.addRecipients() XXX /Java/Message/addRecipients/
 redirect 301 /wiki/Java:ServletRequest XXX /Java/ServletReques//
-redirect 301 /wiki/HTML:SUP XXX /HTML/SU//
+
 redirect 301 /wiki/Google:GMarker XXX /Google/GMarke//
 redirect 301 /wiki/Java:File.deleteOnExit() XXX /Java/File/deleteOnExit/
 redirect 301 /wiki/Java:JButton XXX /Java/JButto//
-redirect 301 /wiki/HTML:H1 XXX /HTML/H//
 redirect 301 /wiki/Java:String.contains() XXX /Java/String/contains/
 redirect 301 /wiki/Java:ListIterator XXX /Java/ListIterato//
 redirect 301 /wiki/Java:Formatter XXX /Java/Formatte//
 redirect 301 /wiki/jQuery:Submit() XXX /jQuery/Submit//)
-redirect 301 /wiki/HTML:FRAMESET XXX /HTML/FRAMESE//
+
 redirect 301 /wiki/Java:ActionListener XXX /Java/ActionListene//
 redirect 301 /wiki/Java:Applet XXX /Java/Apple//
 redirect 301 /wiki/MongoDB:Sort XXX /MongoDB/Sor//
 redirect 301 /wiki/Java:Stream.count() XXX /Java/Stream/count/
 redirect 301 /wiki/Java:Process XXX /Java/Proces//
 redirect 301 /wiki/PHP:Imap_open XXX /PHP/Imap/open/
-redirect 301 /wiki/DOM:HTMLMediaElement XXX /DOM/HTMLMediaElemen//
+
+
 redirect 301 /wiki/Java:BasicStroke XXX /Java/BasicStrok//
 redirect 301 /wiki/Java:Map.get() XXX /Java/Map/get/
-redirect 301 /wiki/HTML:Id XXX /HTML/I//
+
 redirect 301 /wiki/Java:ListIterator.hasNext() XXX /Java/ListIterator/hasNext/
 redirect 301 /wiki/Categoría:Java_Swing XXX /Categoría:Java_Swing
 redirect 301 /wiki/Java:Rectangle XXX /Java/Rectangl//
 redirect 301 /wiki/Java:PrintWriter.print() XXX /Java/PrintWriter/print/
-redirect 301 /wiki/HTML5:Spellcheck XXX /HTML/Spellcheck
-redirect 301 /wiki/DOM:Console.log() XXX /DOM/Console/log/
+
+
+
 redirect 301 /wiki/Java:NullPointerException XXX /Java/NullPointerExceptio//
 redirect 301 /wiki/Javascript:Math.PI XXX /Javascript/Math/PI/
-redirect 301 /wiki/HTML:Usemap XXX /HTML/Usema//
+
+
+
+
 redirect 301 /wiki/Java:File.lastModified() XXX /Java/File/lastModified/
 redirect 301 /wiki/Java:String.CASE_INSENSITIVE_ORDER XXX /Java/String/CASE/_INSENSITIVE_ORDER
 redirect 301 /wiki/Java:WindowAdapter XXX /Java/WindowAdapte//
-redirect 301 /wiki/HTML:FRAME XXX /HTML/FRAM//
-redirect 301 /wiki/HTML5:FORM.autocomplete XXX /HTML/FORM.autocomplete
+
+
+
 redirect 301 /wiki/Java:ClassCastException XXX /Java/ClassCastExceptio//
 redirect 301 /wiki/DOM:Document.writeln() XXX /DOM/Document/writeln/
 redirect 301 /wiki/HTML:Onmouseover XXX /HTML/Onmouseove//
@@ -95,15 +130,15 @@ redirect 301 /wiki/Java:StringTokenizer.nextToken() XXX /Java/StringTokenizer/ne
 redirect 301 /wiki/Java:EventQueue XXX /Java/EventQueu//
 redirect 301 /wiki/Java:Enumeration.nextElement() XXX /Java/Enumeration/nextElement/
 redirect 301 /wiki/Java:Insets XXX /Java/Inset//
-redirect 301 /wiki/HTML:HEAD XXX /HTML/HEA//
-redirect 301 /wiki/HTML:TITLE XXX /HTML/TITL//
-redirect 301 /wiki/DOM:Location.href XXX /DOM/Location/href/
+
+
+
+
+
 redirect 301 /wiki/Especial:Categorías XXX /Especial/Categor/as/
-redirect 301 /wiki/HTML:THEAD XXX /HTML/THEA//
 redirect 301 /wiki/Java:Double XXX /Java/Doubl//
 redirect 301 /wiki/CSS:Nth-child XXX /CSS/Nth/child/
 redirect 301 /wiki/jQuery:Click() XXX /jQuery/Click//)
-redirect 301 /wiki/HTML:CENTER XXX /HTML/CENTE//
 redirect 301 /wiki/Java:URL XXX /Java/UR//
 redirect 301 /wiki/Javascript:Array.length XXX /Javascript/Array/length/
 redirect 301 /wiki/Google:GMap2 XXX /Google/GMap//
@@ -113,7 +148,7 @@ redirect 301 /wiki/Java:Hashtable.put() XXX /Java/Hashtable/put/
 redirect 301 /wiki/Java:InetAddress XXX /Java/InetAddres//
 redirect 301 /wiki/Java:Locale XXX /Java/Local//
 redirect 301 /wiki/XSLT:Xsl:value-of XXX /XSLT/Xsl/value/-of
-redirect 301 /wiki/DOMHTML:History XXX /DOMHTML/Histor//
+
 redirect 301 /wiki/PHP:Mysqli_free_result XXX /PHP/Mysqli/free/_result
 redirect 301 /wiki/CSS:Border XXX /CSS/Borde//
 redirect 301 /wiki/Java:ServletConfig.getInitParameter() XXX /Java/ServletConfig/getInitParameter/
@@ -121,7 +156,8 @@ redirect 301 /wiki/jQuery:Append() XXX /jQuery/Append//)
 redirect 301 /wiki/Categoría:Excepcion_Java XXX /Categoría:Excepcion_Java
 redirect 301 /wiki/Java:Dimension.width XXX /Java/Dimension/width/
 redirect 301 /wiki/Java:Float XXX /Java/Floa//
-redirect 301 /wiki/HTML5:DATALIST XXX /HTML/DATALIST
+
+
 redirect 301 /wiki/Java:Toolkit.getScreenSize() XXX /Java/Toolkit/getScreenSize/
 redirect 301 /wiki/Java:RequestDispatcher XXX /Java/RequestDispatche//
 redirect 301 /wiki/Java.ServletRequest.getRemoteHost() XXX /Java.ServletRequest.getRemoteHost()
@@ -139,9 +175,10 @@ redirect 301 /wiki/Javascript:XMLHttpRequest.open() XXX /Javascript/XMLHttpReque
 redirect 301 /wiki/Java:Enumeration XXX /Java/Enumeratio//
 redirect 301 /wiki/Java:InetAddress.getHostName() XXX /Java/InetAddress/getHostName/
 redirect 301 /wiki/Javascript:String XXX /Javascript/Strin//
-redirect 301 /wiki/HTML5:INPUT.pattern XXX /HTML/INPUT.pattern
+
+
 redirect 301 /wiki/Google:GMap2.addControl() XXX /Google/GMap//.addControl()
-redirect 301 /wiki/HTML:BLOCKQUOTE XXX /HTML/BLOCKQUOT//
+
 redirect 301 /wiki/jQuery:Change() XXX /jQuery/Change//)
 redirect 301 /wiki/PHP:Getimagesize XXX /PHP/Getimagesiz//
 redirect 301 /wiki/Java:Statement.executeUpdate() XXX /Java/Statement/executeUpdate/
@@ -153,8 +190,9 @@ redirect 301 /wiki/Java:Canvas XXX /Java/Canva//
 redirect 301 /wiki/Java:Collections.max() XXX /Java/Collections/max/
 redirect 301 /wiki/ASP:FileSystemObject.FileExists() XXX /ASP/FileSystemObject/FileExists/
 redirect 301 /wiki/VBScript:Len XXX /VBScript/Le//
-redirect 301 /wiki/HTML:Action XXX /HTML/Actio//
-redirect 301 /wiki/HTML:TR XXX /HTML/T//
+
+
+
 redirect 301 /wiki/Categoría:Java_Servlet XXX /Categoría:Java_Servlet
 redirect 301 /wiki/Categoría:PHP XXX /Categoría:PHP
 redirect 301 /wiki/Java:Graphics2D XXX /Java/Graphics/D/
@@ -163,22 +201,26 @@ redirect 301 /wiki/CSS:Text-indent XXX /CSS/Text/indent/
 redirect 301 /wiki/Java:Stream.forEach() XXX /Java/Stream/forEach/
 redirect 301 /wiki/PHP:Rand XXX /PHP/Ran//
 redirect 301 /wiki/CSS:Border-radius XXX /CSS/Border/radius/
-redirect 301 /wiki/HTML5:SOURCE XXX /HTML/SOURCE
+
+
+
 redirect 301 /wiki/Java:JLabel XXX /Java/JLabe//
 redirect 301 /wiki/MongoDB:Find XXX /MongoDB/Fin//
 redirect 301 /wiki/HTML:STYLE XXX /HTML/STYL//
 redirect 301 /wiki/Javascript:String.replace() XXX /Javascript/String/replace/
 redirect 301 /wiki/Categoría:DOMHTML XXX /Categoría:DOMHTML
 redirect 301 /wiki/PHP:Die XXX /PHP/Di//
-redirect 301 /wiki/HTML:MAP XXX /HTML/MA//
+
+
+
+
+
 redirect 301 /wiki/Integer.parseInt() XXX /Integer.parseInt()
 redirect 301 /wiki/Java:Character.toUpperCase() XXX /Java/Character/toUpperCase/
-redirect 301 /wiki/HTML:OPTION XXX /HTML/OPTIO//
 redirect 301 /wiki/Java:ActionListener.actionPerformed() XXX /Java/ActionListener/actionPerformed/
 redirect 301 /wiki/Java:AWT.List XXX /Java/AWT/List/
 redirect 301 /wiki/Java:Properties XXX /Java/Propertie//
 redirect 301 /wiki/Categoría:Elemento_HTML XXX /Categoría:Elemento_HTML
-redirect 301 /wiki/HTML:EM XXX /HTML/E//
 redirect 301 /wiki/Java:Collection.toArray() XXX /Java/Collection/toArray/
 redirect 301 /wiki/Java:HttpServlet.doPost() XXX /Java/HttpServlet/doPost/
 redirect 301 /wiki/Java:FlowLayout XXX /Java/FlowLayou//
@@ -186,14 +228,16 @@ redirect 301 /wiki/Java:Map.Entry.getKey() XXX /Java/Map/Entry/.getKey()
 redirect 301 /wiki/PHP:Setlocale XXX /PHP/Setlocal//
 redirect 301 /wiki/Java:AudioClip XXX /Java/AudioCli//
 redirect 301 /wiki/Java:Cursor XXX /Java/Curso//
-redirect 301 /wiki/HTML:SCRIPT XXX /HTML/SCRIP//
+
+
 redirect 301 /wiki/Java:File.isHidden() XXX /Java/File/isHidden/
 redirect 301 /wiki/Java:InputStream.skip() XXX /Java/InputStream/skip/
 redirect 301 /wiki/Java:Map.Entry.getValue() XXX /Java/Map/Entry/.getValue()
 redirect 301 /wiki/Java:Display.getDisplay() XXX /Java/Display/getDisplay/
 redirect 301 /wiki/Java:MimeMessage.setSubject() XXX /Java/MimeMessage/setSubject/
 redirect 301 /wiki/Java:Polygon XXX /Java/Polygo//
-redirect 301 /wiki/DOM:Event.preventDefault() XXX /DOM/Event/preventDefault/
+
+
 redirect 301 /wiki/PHP:Mb_convert_case XXX /PHP/Mb/convert/_case
 redirect 301 /wiki/jQuery:ScrollTop() XXX /jQuery/ScrollTop//)
 redirect 301 /wiki/DOM:HTMLCanvasElement.getContext() XXX /DOM/HTMLCanvasElement/getContext/
@@ -218,7 +262,7 @@ redirect 301 /wiki/Categoría:Atributo_HTML XXX /Categoría:Atributo_HTML
 redirect 301 /wiki/HTML:TH XXX /HTML/T//
 redirect 301 /wiki/HTML5:AUDIO.controls XXX /HTML/AUDIO.controls
 redirect 301 /wiki/Categoría:ADO XXX /Categoría:ADO
-redirect 301 /wiki/DOM:Document XXX /DOM/Documen//
+
 redirect 301 /wiki/Java:Double.intValue() XXX /Java/Double/intValue/
 redirect 301 /wiki/HTML:TFOOT XXX /HTML/TFOO//
 redirect 301 /wiki/HTML:Coords XXX /HTML/Coord//
@@ -415,7 +459,7 @@ redirect 301 /wiki/ASP:TextStream.WriteLine() XXX /ASP/TextStream/WriteLine/
 redirect 301 /wiki/Categoría:Objeto_DOM XXX /Categoría:Objeto_DOM
 redirect 301 /wiki/CSS:First-child XXX /CSS/First/child/
 redirect 301 /wiki/DOM:HTMLImageElement.src XXX /DOM/HTMLImageElement/src/
-redirect 301 /wiki/DOM:Window XXX /DOM/Windo//
+
 redirect 301 /wiki/HTML:INPUT.type XXX /HTML/INPUT/type/
 redirect 301 /wiki/Java:Component.reshape() XXX /Java/Component/reshape/
 

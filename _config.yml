@@ -239,6 +239,8 @@ plugins:
   - jekyll-sitemap
 #  - jemoji 
   - jekyll-paginate-v2
+  - jekyll-include-cache
+  - jekyll-seo-tag
 
 ## Compilación incremental
 incremental: false
