@@ -22,9 +22,8 @@ jobs:
           DATABASE_ID: ${{ secrets.DATABASE_ID }}
 
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          token: ${{ secrets.PAT }}        
           commit_message: Nuevos Elementos
           branch: main
           commit_user_name: importer-bot 🤖
