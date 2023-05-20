@@ -36,6 +36,10 @@ addEventListener(type, listener, useCapture)
 - **type,** es una cadena con el tipo de evento sobre el que queremos registrar el gestor de eventos. Los tipos de eventos están definidos en el interface [`Event`](https://www.w3api.com/DOM/Event/): _‘blur’, ‘click’, ‘dblclick’, ‘copy’, ‘focus’_,…
 - **listener,** es el objeto que recibe la notificación y que implementa un interface [`Event`](https://www.w3api.com/DOM/Event/). Por lo que los valores pueden ser `null`, un objeto con el método `handleEvent()` o una función [Javascript](https://www.manualweb.net/javascript/).
 - **options,** nos permite especificar características del gestor de eventos. Entre las opciones tenemos:
+	- `capture`, los eventos serán enviados al listener antes que a cualquier [`EventTarget`](https://www.w3api.com/DOM/EventTarget/) que pueda existir dentro del árbol [DOM](https://www.manualweb.net/dom/). Por defecto tiene un valor de `false`.
+	- `once`, indica que el listener puede ser invocado una única vez. Una vez invocado será eliminado.
+	- `passive`, la función nunca llamará al método [`preventDefault()`](https://www.w3api.com/DOM/Event/preventDefault/) y en el caso de que lo hiciese saldría un warning por consola
+	- `signal`, el listener será eliminado cuando el método [`abort()`](https://www.w3api.com/DOM/AbortSignal/abort/) de [`AbortSignal`](https://www.w3api.com/DOM/AbortSignal/) es invocado.
 - **useCapture,** valor booleano que nos permite controlar la propagación del evento por el árbol [DOM](https://www.manualweb.net/dom/) a diferentes elementos. Por defecto es `false` lo que hará que no haya propagación.
 
 ## **Objeto Padre**
