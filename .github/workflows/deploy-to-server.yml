@@ -36,5 +36,5 @@ jobs:
           server-dir: ./
           exclude: |
             Gemfile*
-            *.xml
+            sitemap.xml
             redirect*
