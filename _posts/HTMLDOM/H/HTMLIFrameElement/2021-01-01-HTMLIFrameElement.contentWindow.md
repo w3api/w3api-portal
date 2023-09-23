@@ -19,14 +19,14 @@ Datos enviados por el emisor del mensaje.
 
 
 ```javascript
-MessageEvent.data
+HTMLIFrameElement.data
 ```
 
 
 ## Objeto Padre
 
 
-[MessageEvent](http://www.w3api.com/HTMLDOM/MessageEvent/)
+[HTMLIFrameElement](https://www.w3api.com/HTMLDOM/HTMLIFrameElement/)
 
 
 ## **Ejemplo**
