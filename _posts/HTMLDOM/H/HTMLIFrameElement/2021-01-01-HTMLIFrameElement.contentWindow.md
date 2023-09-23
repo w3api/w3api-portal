@@ -33,25 +33,29 @@ MessageEvent.data
 
 
 ```javascript
-<body onmessage="mensajeRecibido(event);">
-    
-  <h1>Web Messaging</h1>
-  <button id="boton">Enviar Mensaje</button>
-  <p id="texto"></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Web Messaging</title>
+</head>
+<body>
 
-  <script>
-    function mensajeRecibido(e) {
-      texto = document.getElementById("texto");
-      texto.innerHTML = "Mensaje Recibido: "  + e.data;            
-    }
-
+	<h1>Web Messaging</h1>
+	<button id="boton">Enviar Mensaje</button>
+	<br><br>
+	
+	<iframe id="myiframe" src="iframe.html"></iframe>
+	
+	<script>
     boton = document.getElementById("boton");
-    boton.addEventListener("click",function(){
-      window.postMessage("Mensaje para la ventana");
-    })      
-</script>
+    boton.addEventListener("click",function() {
+      myiframe = document.getElementById("myiframe");
+      myiframe.contentWindow.postMessage("Mensaje",'*');
+    });
+	</script>
 
 </body>
+</html>
 ```
 
 

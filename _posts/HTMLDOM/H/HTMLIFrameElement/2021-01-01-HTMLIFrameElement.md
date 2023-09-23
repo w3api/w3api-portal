@@ -30,7 +30,7 @@ HTMLIFrameElement
 ## Propiedades
 
 - contentDocument
-- contentWindow
+- [contentWindow](http://www.w3api.com/HTMLDOM/HTMLIFrameElement/contentWindow/)
 - featurePolicy
 - referrerPolicy
 - src
@@ -42,7 +42,7 @@ HTMLIFrameElement
 
 ## Eventos
 
-- 
+- N/A
 
 ## **Ejemplo**
 
