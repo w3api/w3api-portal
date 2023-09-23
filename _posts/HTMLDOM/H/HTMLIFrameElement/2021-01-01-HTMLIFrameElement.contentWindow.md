@@ -12,7 +12,7 @@ sidebar:
 ## **Descripción**
 
 
-Devuelve 
+Devuelve un WindowProxy que tiene acceso al contexto de navegación del [`iframe`](https://w3api.com/HTML/iframe/).
 
 
 ## **Sintaxis**
