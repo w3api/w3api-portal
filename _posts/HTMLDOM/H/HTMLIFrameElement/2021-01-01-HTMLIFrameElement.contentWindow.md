@@ -12,14 +12,14 @@ sidebar:
 ## **Descripción**
 
 
-Datos enviados por el emisor del mensaje.
+Devuelve 
 
 
 ## **Sintaxis**
 
 
 ```javascript
-HTMLIFrameElement.data
+HTMLIFrameElement.contentWindow
 ```
 
 
