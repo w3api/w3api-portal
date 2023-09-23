@@ -30,6 +30,8 @@ Element.focus(options)
 ## Parámetros
 
 - **options**, de forma _opcional_ se le puede pasar un objeto al método `.focus()` que contenga información sobre el proceso de obtención del foco del elemento. Es por ello que este objeto tiene dos propiedades:
+	- **preventScroll**, que nos permitirá prevenir el efecto de scroll hacía el método si le damos un valor de `true`. O bien asignarle un valor de `false` (valor por defecto) para que cuando hagamos foco se produzca un scroll hasta el elemento.
+	- **focusVisible**, para gestionar la marca visible sobre el elemento. En el caso de indicar un valor de `true` el navegador mostrará una marca visible sobre el elemento que hemos hecho foco y en el caso de dar un valor de `false` no lo asignará dicha marca.
 
 > El navegador podrá poner una marca de visibilidad independientemente de valor de `focusVisible` si lo considera indispensable por criterios de accesibilidad.
 
