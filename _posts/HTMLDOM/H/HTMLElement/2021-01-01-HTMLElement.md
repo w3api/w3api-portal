@@ -15,7 +15,7 @@ sidebar:
 `HTMLElement` es el interface genérico que representa cualquier elemento de tipo [HTML](https://manualweb.net/html/). Hereda algunas propiedades del interface [DOM](https://www.manualweb.net/dom/) genérico [`Element`](http://www.w3api.com/DOM/Element).
 
 
-**Sintaxis**
+## **Sintaxis**
 
 
 ```javascript

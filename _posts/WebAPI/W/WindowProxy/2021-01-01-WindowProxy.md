@@ -1,38 +1,48 @@
 ---
-title: HTMLIFrameElement.contentWindow
-permalink: /HTMLDOM/HTMLIFrameElement/contentWindow/
-date: 2023-09-23
-key: HTMLDOM.H.HTMLIFrameElement.contentWindow
-category: HTMLDOM
-tags: [propiedad htmldom]
+title: WindowProxy
+permalink: /WebAPI/WindowProxy/
+date: 2023-05-27
+key: WebAPI.W.WindowProxy
+category: WebAPI
+tags: [interface webapi]
 sidebar:
-  nav: htmldom
+  nav: webapi
 ---
 
 ## **Descripción**
 
 
-Devuelve un [`WindowProxy`](https://w3api.com/WebAPI/WindowProxy/) que tiene acceso al contexto de navegación del [`iframe`](https://w3api.com/HTML/iframe/).
+El `WindowProxy` es un objeto que envuelve al objeto [`Window`](https://www.w3api.com/DOM/Window/) permitiendo ejecutar sus métodos a través de él.
 
 
 ## **Sintaxis**
 
 
 ```javascript
-HTMLIFrameElement.contentWindow
+WindowProxy
 ```
 
 
-## Objeto Padre
+## **Constructores**
 
+- N/A
 
-[HTMLIFrameElement](https://www.w3api.com/HTMLDOM/HTMLIFrameElement/)
+## Propiedades
 
+- 
+
+## **Métodos**
+
+- 
+
+## Eventos
+
+- 
 
 ## **Ejemplo**
 
 
-```javascript
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,6 +69,6 @@ HTMLIFrameElement.contentWindow
 ```
 
 
-## **Artículos**
+## Artículos
 
 - 
