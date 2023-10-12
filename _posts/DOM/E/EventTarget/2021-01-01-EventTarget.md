@@ -1,7 +1,7 @@
 ---
 title: EventTarget
 permalink: /DOM/EventTarget/
-date: 2023-01-31
+date: 2023-10-12
 key: DOM.E.EventTarget
 category: DOM
 tags: [interface dom]
@@ -9,13 +9,13 @@ sidebar:
   nav: dom
 ---
 
-## **Descripción**
+## Descripción
 
 
 El interface `EventTarget` es el que implementan los objetos que pueden recibir eventos y a los que podemos asociarles un listener para manejarlos
 
 
-## **Sintaxis**
+## Sintaxis
 
 
 ```javascript
@@ -23,28 +23,28 @@ EventTarget
 ```
 
 
-## **Constructores**
+## Constructores
 
-- EventTarget()
+- [EventTarget()](https://www.w3api.com/DOM/EventTarget/EventTarget/)
 
 ## Propiedades
 
 - N/A
 
-## **Métodos**
+## Métodos
 
-- [addEventListemer()](https://www.w3api.com/DOM/EventTarget/addEventListener/)
-- removeEventListener()
-- dispatchEvent()
+- [addEventListener()](https://www.w3api.com/DOM/EventTarget/addEventListener/)
+- [removeEventListener()](https://www.w3api.com/DOM/EventTarget/removeEventListener/)
+- [dispatchEvent()](https://www.w3api.com/DOM/EventTarget/dispatchEvent/)
 
 ## Eventos
 
 - N/A
 
-## **Ejemplo**
+## Ejemplo
 
 
-```html
+```javascript
 <!DOCTYPE html>
 <html>
 <head>
