@@ -88,7 +88,10 @@ addEventListener(type, listener, useCapture)
 
 ## **Artículos**
 
+- [Abortar Eventos con Señales](https://lineadecodigo.comhttps//lineadecodigo.com/dom/abortar-eventos-con-senales/)
 - [Fin del audio en HTML5](https://lineadecodigo.com/html5/fin-del-audio-html5/)
 - [Borrar contenido de capa en Javascript](https://lineadecodigo.com/javascript/borrar-contenido-capa-javascript/)
 - [Convertir una cadena a fecha en Javascript](https://lineadecodigo.com/javascript/convertir-una-cadena-a-fecha-en-javascript/)
 - [Crear eventos con JavaScript](https://lineadecodigo.com/javascript/crear-eventos-con-javascript/)
+- [Ejecutar un evento una única vez](https://lineadecodigo.com/dom/ejecutar-un-evento-una-unica-vez/)
+- [Pasar datos a un listener](https://lineadecodigo.com/dom/pasar-datos-a-un-listener/)
