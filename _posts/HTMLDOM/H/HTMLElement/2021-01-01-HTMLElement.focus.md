@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.focus()
 permalink: /HTMLDOM/HTMLElement/focus/
-date: 2023-01-31
+date: 2023-10-22
 key: HTMLDOM.H.HTMLElement.focus
 category: HTMLDOM
 tags: [metodo htmldom]
@@ -91,3 +91,4 @@ Element.focus(options)
 ## **Artículos**
 
 - [Hacer foco en un campo de la página usando Javascript](https://lineadecodigo.com/javascript/hacer-foco-en-un-campo-de-la-pagina-usando-javascript/)
+- [Hacer foco en un elemento sin scroll](https://lineadecodigo.com/dom/hacer-foco-en-un-elemento-sin-scroll/)
