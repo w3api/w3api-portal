@@ -100,4 +100,4 @@ HTMLDialogElement
 
 ## Artículos
 
-- 
+- [Formulario en ventana dialogo con HTML5](https://lineadecodigo.com/html5/formulario-en-ventana-dialogo-con-html5/)

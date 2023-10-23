@@ -85,3 +85,4 @@ EventTarget
 - [Borrar contenido de capa en Javascript](https://lineadecodigo.com/javascript/borrar-contenido-capa-javascript/)
 - [Convertir una cadena a fecha en Javascript](https://lineadecodigo.com/javascript/convertir-una-cadena-a-fecha-en-javascript/)
 - [Crear eventos con JavaScript](https://lineadecodigo.com/javascript/crear-eventos-con-javascript/)
+- [Evitar el envío de un formulario](https://lineadecodigo.com/dom/evitar-el-envio-de-un-formulario/)
