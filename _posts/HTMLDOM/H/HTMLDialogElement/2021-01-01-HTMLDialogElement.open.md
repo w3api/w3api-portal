@@ -8,3 +8,32 @@ tags: [propiedad htmldom]
 sidebar:
   nav: htmldom
 ---
+
+## Descripción
+
+
+## Sintaxis
+
+
+```javascript
+
+```
+
+
+## Objeto Padre
+
+
+[HTMLDialogElement](https://www.w3api.com/HTMLDOM/HTMLDialogElement/)
+
+
+## Ejemplo
+
+
+```javascript
+
+```
+
+
+## Artículos
+
+- 
