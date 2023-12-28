@@ -8,3 +8,32 @@ tags: [propiedad dom]
 sidebar:
   nav: dom
 ---
+
+## Descripción
+
+
+## Sintaxis
+
+
+```javascript
+
+```
+
+
+## Objeto Padre
+
+
+[AbortSignal](https://www.w3api.com/DOM/AbortSignal/)
+
+
+## Ejemplo
+
+
+```javascript
+
+```
+
+
+## Artículos
+
+- 
