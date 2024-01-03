@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: html
-aside:
-  toc: true
 ---
 
 Todos los <strong>atributos HTML</strong>:

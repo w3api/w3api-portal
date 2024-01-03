@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: javascript
-aside:
-  toc: true
 ---
 
 Todas las funciones Javascript:

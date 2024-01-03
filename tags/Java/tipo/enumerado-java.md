@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: java
-aside:
-  toc: true
 ---
 
 Todos los <strong>enumerados Java</strong>:

@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: htmldom
-aside:
-  toc: true
 ---
 
 Todos los <strong>métodos HTMLDOM</strong>:

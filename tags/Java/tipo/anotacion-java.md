@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: java
-aside:
-  toc: true
 ---
 
 Todas las <strong>anotaciones Java</strong>:

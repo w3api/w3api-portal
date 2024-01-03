@@ -7,8 +7,6 @@ key: ElementosJavascript
 show_date: false
 sidebar:
   nav: javascript
-aside:
-  toc: true
 ---
 
 Elementos Javascript organizados por **tipos de elementos**: 

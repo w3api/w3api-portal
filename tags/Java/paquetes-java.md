@@ -7,8 +7,6 @@ key: PaquetesJava
 show_date: false
 sidebar:
   nav: java
-aside:
-  toc: true
 ---
 
 Elementos Java organizados por **paquetes**: 

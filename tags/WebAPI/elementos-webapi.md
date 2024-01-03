@@ -7,8 +7,6 @@ key: ElementosWebAPI
 show_date: false
 sidebar:
   nav: webapi
-aside:
-  toc: true
 ---
 
 Elementos WebAPI organizados por **tipos de elementos**: 

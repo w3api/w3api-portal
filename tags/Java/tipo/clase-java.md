@@ -10,9 +10,7 @@ pagination:
   tag: "clase java"
   permalink: /:num/    
 sidebar:
-  nav: java
-aside:
-  toc: true  
+  nav: java  
 ---
 
 Todas las <strong>clases Java</strong>:

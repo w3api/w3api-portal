@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: webapi
-aside:
-  toc: true
 ---
 
 Todos los <strong>Interfaces WebAPI</strong>:

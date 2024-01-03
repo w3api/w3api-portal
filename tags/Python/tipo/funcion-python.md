@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: python
-aside:
-  toc: true
 ---
 
 Todas las funciones Python:

@@ -7,8 +7,6 @@ key: Jaxb1.0
 show_date: false
 sidebar:
   nav: java
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "jaxb 1.0"

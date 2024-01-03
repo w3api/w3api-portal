@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: dom
-aside:
-  toc: true
 ---
 
 Todos los <strong>Interfaces DOM</strong>:

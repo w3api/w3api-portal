@@ -7,8 +7,6 @@ key: Jax-ws-2.2
 show_date: false
 sidebar:
   nav: java
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "jax-ws 2.2"

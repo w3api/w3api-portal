@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: python
-aside:
-  toc: true
 ---
 
 Todos los métodos Python:

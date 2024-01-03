@@ -7,8 +7,6 @@ key: PHP
 show_date: false
 sidebar:
   nav: php
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: php

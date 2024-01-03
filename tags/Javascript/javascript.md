@@ -7,8 +7,6 @@ key: Java
 show_date: false
 sidebar:
   nav: javascript
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: Javascript

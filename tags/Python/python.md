@@ -7,8 +7,6 @@ key: Python
 show_date: false
 sidebar:
   nav: python
-aside:
-  toc: true
 pagination: 
   enabled: true
   category: Python

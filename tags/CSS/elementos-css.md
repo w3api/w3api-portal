@@ -7,8 +7,6 @@ key: ElementosCSS
 show_date: false
 sidebar:
   nav: css
-aside:
-  toc: true
 ---
 
 Elementos CSS organizados por **tipos de elementos**: 

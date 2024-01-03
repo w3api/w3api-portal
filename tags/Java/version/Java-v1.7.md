@@ -7,8 +7,6 @@ key: Java7
 show_date: false
 sidebar:
   nav: java
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "java 1.7"

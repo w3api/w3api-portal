@@ -7,8 +7,6 @@ key: html
 show_date: false
 sidebar:
   nav: html
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "html 2.0"

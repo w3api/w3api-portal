@@ -7,8 +7,6 @@ key: ElementosJavascript
 show_date: false
 sidebar:
   nav: python
-aside:
-  toc: true
 ---
 
 Elementos Python organizados por **tipos de elementos**: 

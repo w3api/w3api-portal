@@ -7,8 +7,6 @@ key: Java.2.0
 show_date: false
 sidebar:
   nav: java
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "javafx 2.0"

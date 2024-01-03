@@ -5,8 +5,6 @@ key: javase
 layout: tag 
 sidebar:
   nav: java
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "Java SE"

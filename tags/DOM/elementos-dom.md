@@ -7,8 +7,6 @@ key: ElementosDOM
 show_date: false
 sidebar:
   nav: dom
-aside:
-  toc: true
 ---
 
 Elementos DOM organizados por **tipos de elementos**: 

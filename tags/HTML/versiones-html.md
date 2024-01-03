@@ -7,8 +7,6 @@ key: VersionesHTML
 show_date: false
 sidebar:
   nav: html
-aside:
-  toc: true
 ---
 
 Elementos HTML organizados por **versiones**: 

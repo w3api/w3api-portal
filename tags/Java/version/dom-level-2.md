@@ -7,8 +7,6 @@ key: DOMLevel2
 show_date: false
 sidebar:
   nav: java
-aside:
-  toc: true
 pagination: 
   enabled: true
   tag: "dom level 2"

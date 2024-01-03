@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: java
-aside:
-  toc: true
 ---
 
 Todas los <strong>campos Java</strong>:

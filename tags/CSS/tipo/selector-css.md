@@ -11,8 +11,6 @@ pagination:
   permalink: /:num/    
 sidebar:
   nav: css
-aside:
-  toc: true
 ---
 
 Todos los <strong>selectores CSS</strong>:
