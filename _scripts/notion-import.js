@@ -29,6 +29,8 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		}
 	})
 
+	console.log(hoy)
+
 	for (const r of response.results) {
 		console.log(r)
 		const id = r.id
