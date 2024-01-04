@@ -1,0 +1,47 @@
+html:
+  texto: HTML
+  test: 
+    image: /assets/images/test/html5.webp           
+    url: https://testprogramacion.com/html/
+  manual:
+    image: /assets/images/libros/html5.webp           
+    url: https://manualweb.net/html?utm_source=w3api&utm_medium=download&utm_id=htmlt&utm_campaign=book
+  video:
+    url: https://www.youtube.com/embed/videoseries?list=PLLVIhySQmrVZvt63iAl2xSwTePNmd-UhI
+
+javascript:
+  texto: Javascript
+  test: 
+    image: /assets/images/test/javascript.webp
+    url: https://testprogramacion.com/javascript/
+  manual:
+    image: /assets/images/libros/javascript.webp
+    url: https://manualweb.net/javascript?utm_source=w3api&utm_medium=download&utm_id=javascript&utm_campaign=book
+  video:
+    url: https://www.youtube.com/embed/videoseries?list=PLLVIhySQmrVaRju-qP84x9YRqTtA_GmfK
+
+css:
+  texto: CSS
+  test: 
+    image: /assets/images/test/css.webp
+    url: https://testprogramacion.com/css/
+  manual:
+    image: /assets/images/libros/css.webp
+    url: https://manualweb.net/css?utm_source=w3api&utm_medium=download&utm_id=css&utm_campaign=book
+
+java:
+  texto: Java
+  test: 
+    image: /assets/images/test/java.webp
+    url: https://testprogramacion.com/java/
+  manual:
+    image: /assets/images/libros/java.webp
+    url: https://manualweb.net/java?utm_source=w3api&utm_medium=download&utm_id=javat&utm_campaign=book
+  video:
+    url: https://www.youtube.com/embed/videoseries?list=PLLVIhySQmrVbjCFPla5c0OIp6iNWfM-hq
+
+python:
+  texto: Python  
+  manual:
+    image: /assets/images/libros/python.webp
+    url: https://manualweb.net/python?utm_source=w3api&utm_medium=download&utm_id=pythont&utm_campaign=book  

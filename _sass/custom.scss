@@ -44,4 +44,16 @@
 }
 
 
+// Quitamos el REM de Bootstrap sobre el Nav
+.toc--navigator {
+    padding-left: 0;
+}
+
+// Heads de Manual, Test y Vídeo
+.headline {
+	border-bottom: 1px dotted #cecece;
+    display: block;
+    margin: 10px 0;
+}
+
 /* end custom scss snippet */

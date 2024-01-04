@@ -1,0 +1,74 @@
+{%- assign _categoria = page.sidebar.nav -%}
+{%- if site.data.images[_categoria] -%}
+{%- assign _nombrecateg = site.data.images[_categoria].texto -%}
+<div class="row">
+
+
+    {%- if site.data.images[_categoria].manual -%}
+
+    <div class="col-sm-12 col-md-6 col-xxl-4">
+
+        <div class="headline">
+            <h2>Manual {{ _nombrecateg }}</h2>
+        </div>
+        <p class="manual">Aprende más sobre {{ _nombrecateg }} <a
+                href="{{ site.data.images[_categoria].manual.url }}">consultando
+                online o descargando nuestro manual</a>.</p>
+        <div><a href="{{ site.data.images[_categoria].manual.url }}">
+                <img class="img-fluid lazy loaded" src="{{ site.data.images[_categoria].manual.image }}"
+                    data-src="{{ site.data.images[_categoria].manual.image }}" alt="Manual sobre {{ _nombrecateg }}">
+            </a>
+        </div>
+    </div>
+
+    {%- endif -%}
+
+    {%- if site.data.images[_categoria].test -%}
+
+    <div class="col-sm-12 col-md-6 col-xxl-4">
+
+        <div class="headline">
+            <h2>Test {{ _nombrecateg }}</h2>
+        </div>
+        <p class="test">¿Te atreves a probar tus <a href="{{ site.data.images[_categoria].test.url }}">habilidades y
+                conocimiento en {{ _nombrecateg }}</a> con nuestro test?</p>
+        <div><a href="{{ site.data.images[_categoria].test.url }}">
+                <img class="img-fluid lazy loaded" src="{{ site.data.images[_categoria].test.image }}"
+                    data-src="{{ site.data.images[_categoria].test.image }}" alt="Test {{ _nombrecateg }}">
+            </a>
+
+        </div>
+    </div>
+
+
+    {%- endif -%}
+
+    {%- if site.data.images[_categoria].video -%}
+
+    {%- if page.video -%}
+    {%- assign _codigovideo = page.video -%}
+    {%- else -%}
+    {%- assign _codigovideo = site.data.images[_categoria].video.url -%}
+    {%- endif -%}
+
+
+    <div class="col-sm-12 col-md-6 col-xxl-4">
+        <div class="headline">
+            <h2>Vídeos {{ _nombrecateg }}</h2>
+        </div>
+        <script src="https://apis.google.com/js/platform.js"></script>
+        <p class="video">Disfruta también de nuestros artículos sobre {{ _nombrecateg }} en formato vídeo. Aprovecha y
+            <a href="https://www.youtube.com/lineadecodigo">suscribete a nuestro canal</a>.</p>
+        <div style="border-bottom: 5px" class="g-ytsubscribe" data-channel="lineadecodigo" data-layout="default"
+            data-count="default"></div>
+        <div class="ratio ratio-16x9">
+            <iframe src="{{ _codigovideo }}"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+        </div>
+    </div>
+
+    {%- endif -%}
+
+</div>
+{%- endif -%}

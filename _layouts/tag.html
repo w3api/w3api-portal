@@ -61,6 +61,8 @@ type: article
   {% endif %}     
   </div>
 
+  {%- include w3api/webs.html -%}
+
   {%- if _sharing -%}
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
   {%- endif -%}
@@ -74,3 +76,5 @@ type: article
 <script>
   {%- include scripts/article.js -%}
 </script>
+
+
