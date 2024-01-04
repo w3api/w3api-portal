@@ -18,15 +18,17 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 
 	const databaseId = process.env.DATABASE_ID;
 	// TODO has_more
+	const hoy = moment().format("YYYY-MM-DD")
 	const response = await notion.databases.query({
 		database_id: databaseId,
 		filter: {
-			property: "Publish",
-			checkbox: {
-				equals: true
+			"property": "Last Date",
+			"date": {
+				"equals": hoy
 			}
 		}
 	})
+
 	for (const r of response.results) {
 		console.log(r)
 		const id = r.id
@@ -38,6 +40,13 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 			date = moment(pdate).format('YYYY-MM-DD')
         }
         
+		// date
+		let ldate = moment(r.created_time).format("YYYY-MM-DD")
+		let pldate = r.properties?.['Last Date']?.['date']?.['start']
+		if (pldate) {
+			ldate = moment(pldate).format('YYYY-MM-DD')
+		}
+
 		// title
 		let title = id
 		let ptitle = r.properties?.['Post']?.['title']
@@ -108,6 +117,13 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		let ppermalink = r.properties?.['Permalink']?.['formula']
 		permalink = ppermalink?.['string']
 
+		// excerpt
+		let excerpt = ''
+		let pexcerpt = r.properties?.['Resumen']?.['rich_text']
+		if (pexcerpt?.length > 0) {
+			excerpt = pexcerpt[0]?.['plain_text']
+		}
+
 
         // Key
 		let key = ''
@@ -143,7 +159,9 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 const fm = `---
 title: ${title}
 permalink: ${permalink}
+excerpt: ${excerpt}
 date: ${date}
+last_modified_at: ${ldate}
 key: ${key}
 category: ${cat}
 tags: ${t}
