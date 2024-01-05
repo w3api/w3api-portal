@@ -1,12 +1,12 @@
 {%- assign _categoria = page.sidebar.nav -%}
 {%- if site.data.images[_categoria] -%}
 {%- assign _nombrecateg = site.data.images[_categoria].texto -%}
-<div class="row">
 
+<div class="main-tech">
 
     {%- if site.data.images[_categoria].manual -%}
 
-    <div class="col-sm-12 col-md-6 col-xxl-4">
+    <div class="main-webs-item">
 
         <div class="headline">
             <h2>Manual {{ _nombrecateg }}</h2>
@@ -25,7 +25,7 @@
 
     {%- if site.data.images[_categoria].test -%}
 
-    <div class="col-sm-12 col-md-6 col-xxl-4">
+    <div class="main-webs-item">
 
         <div class="headline">
             <h2>Test {{ _nombrecateg }}</h2>
@@ -52,7 +52,7 @@
     {%- endif -%}
 
 
-    <div class="col-sm-12 col-md-6 col-xxl-4">
+    <div class="main-webs-item">
         <div class="headline">
             <h2>Vídeos {{ _nombrecateg }}</h2>
         </div>

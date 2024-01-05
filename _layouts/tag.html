@@ -21,13 +21,13 @@ type: article
     <div class="cell cell--12 cell--md-6 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">
       {%- assign letra = paginator.posts[0].title | truncate: 1, "" | capitalize -%}
       <h3>{{ letra }}</h3>
-      <ul>
+      <ul class="milista">
       {% for post in paginator.posts %}
         {%- assign nueva_letra = post.title | truncate: 1, "" | capitalize -%}
         {% if letra == nueva_letra %}
           {% if counter == mitad_mas_uno %}
             <h3>{{ letra }} cont.</h3>
-            <ul>
+            <ul class="milista">
           {% endif %}
           <li><a href="{{post.url}}">{{ post.title }}</a></li>
         {% else %}

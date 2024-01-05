@@ -35,6 +35,17 @@
     padding: 10px;
 }
 
+.main-webs-item {
+    width: 280px;
+    height: auto;
+    padding: 10px;
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+
 .ads-aside {
     padding: 0.5em;
 }
@@ -54,6 +65,11 @@
 	border-bottom: 1px dotted #cecece;
     display: block;
     margin: 10px 0;
+}
+
+// Lista de elementos identada
+ul.milista > li {
+    margin-left: 1.5em;
 }
 
 /* end custom scss snippet */
