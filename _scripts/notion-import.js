@@ -123,7 +123,9 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		let excerpt = ''
 		let pexcerpt = r.properties?.['Resumen']?.['rich_text']
 		if (pexcerpt?.length > 0) {
-			excerpt = pexcerpt[0]?.['plain_text']
+			for (let x=0; x<pexcerpt?.length; x++) {
+				excerpt = excerpt + pexcerpt[x]?.['plain_text']
+			}
 		}
 
 
