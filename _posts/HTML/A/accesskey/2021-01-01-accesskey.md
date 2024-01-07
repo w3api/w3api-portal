@@ -1,7 +1,9 @@
 ---
 title: accesskey
 permalink: /HTML/accesskey/
+excerpt: El atributo accesskey se utiliza para asignar atajos de teclado a elementos de una página. Los atajos varían según el navegador y el sistema operativo. Ejemplo: <a href="<http://www.manualweb.net/html>" accesskey="h">HTML</a>.
 date: 2023-02-10
+last_modified_at: 2024-01-07
 key: HTML.a.accesskey
 category: HTML
 tags: [atributo global html,atributo html,html 4.01,html 5]
