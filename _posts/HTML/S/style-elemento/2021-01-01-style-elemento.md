@@ -7,6 +7,7 @@ last_modified_at: 2024-01-09
 key: HTML.s.style-elemento
 category: HTML
 tags: [elemento html,html 4.01,html 5,html 3.2]
+image: "/assets/images/"HTML.png
 sidebar:
   nav: html
 ---
