@@ -169,6 +169,7 @@ last_modified_at: ${ldate}
 key: ${key}
 category: ${cat}
 tags: ${t}
+image: "/assets/images/"${cat}.png
 sidebar:
   nav: ${nav}
 ---
