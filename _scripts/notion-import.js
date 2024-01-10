@@ -128,6 +128,9 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 			}
 		}
 
+		// Reemplazamos las comillas dobles por simples
+		excerpt = excerpt.replaceAll("\"","\'")
+
 
         // Key
 		let key = ''
