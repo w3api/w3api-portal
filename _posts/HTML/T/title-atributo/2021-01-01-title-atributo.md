@@ -1,7 +1,7 @@
 ---
 title: title (atributo)
 permalink: /HTML/title-atributo/
-excerpt: El atributo global title en HTML proporciona información adicional sobre un elemento, como un "tooltip". Es importante para la accesibilidad y no se indexa en los motores de búsqueda.
+excerpt: El atributo title en HTML proporciona información adicional sobre un elemento, mostrándose como un "tooltip" al colocar el cursor. No es indexado por motores de búsqueda. Accesibilidad y contexto son importantes.
 date: 2024-01-09
 last_modified_at: 2024-01-10
 key: HTML.t.title-atributo

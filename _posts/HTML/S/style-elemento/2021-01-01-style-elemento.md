@@ -1,7 +1,7 @@
 ---
 title: style (elemento)
 permalink: /HTML/style-elemento/
-excerpt: El elemento style en HTML se utiliza para incrustar información de estilo en un documento HTML o XML. Puede ubicarse en el cuerpo o en la cabecera del documento. Ejemplo: definir estilos CSS para párrafos.
+excerpt: El elemento style en HTML se utiliza para incrustar información de estilo en un documento. Puede ubicarse en el cuerpo o en la cabecera. Ejemplo: cambiar color de párrafos.
 date: 2024-01-08
 last_modified_at: 2024-01-10
 key: HTML.s.style-elemento

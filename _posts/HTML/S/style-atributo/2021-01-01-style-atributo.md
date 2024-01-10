@@ -1,7 +1,7 @@
 ---
 title: style (atributo)
 permalink: /HTML/style-atributo/
-excerpt: El atributo style permite aplicar estilos CSS directamente a un elemento HTML. Recomendado para cambios rápidos y sencillos en proyectos pequeños.
+excerpt: El atributo style en HTML permite aplicar estilos directamente a los elementos. Es útil para cambios rápidos, pero se recomienda usar hojas de estilo externas para proyectos más grandes.
 date: 2024-01-08
 last_modified_at: 2024-01-10
 key: HTML.s.style-atributo
