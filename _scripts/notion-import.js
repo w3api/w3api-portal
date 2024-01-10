@@ -163,7 +163,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 const fm = `---
 title: ${title}
 permalink: ${permalink}
-excerpt: ${excerpt}
+excerpt: "${excerpt}"
 date: ${date}
 last_modified_at: ${ldate}
 key: ${key}
