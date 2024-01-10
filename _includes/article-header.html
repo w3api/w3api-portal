@@ -29,7 +29,7 @@
           {%- else -%}
             {%- assign _article_path = include.article.path -%}
           {%- endif -%}
-          {%- assign _github_path = site.repository | append: '/tree/' | append: site.repository_tree | append: '/_data/' | append: _article_path | replace:'//','/' | append: ".json" -%}
+          {%- assign _github_path = site.repository | append: '/tree/' | append: site.repository_tree | append: '/' | append: include.article.path | replace:'//','/' -%}          
           <span class="split-space">&nbsp;</span>
           <a class="edit-on-github"
             title="{{ _locale_post_on_github }}"
