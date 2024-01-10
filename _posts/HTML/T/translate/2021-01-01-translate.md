@@ -1,7 +1,7 @@
 ---
 title: translate
 permalink: /HTML/translate/
-excerpt: El atributo translate en HTML permite especificar si el contenido debe traducirse. Útil para contenido multilingüe.
+excerpt: "El atributo translate en HTML permite especificar si el contenido debe traducirse. Útil para contenido multilingüe."
 date: 2024-01-08
 last_modified_at: 2024-01-10
 key: HTML.t.translate

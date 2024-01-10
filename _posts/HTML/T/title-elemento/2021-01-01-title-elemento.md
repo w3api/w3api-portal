@@ -1,9 +1,9 @@
 ---
 title: title (elemento)
 permalink: /HTML/title-elemento/
-excerpt: El elemento title en HTML se utiliza para especificar el título de una página web. Es crucial para identificar el contenido en la pestaña del navegador y mejorar la visibilidad en los resultados de búsqueda. Debe ser conciso y reflejar el contenido de la página.
+excerpt: "El elemento title en HTML se utiliza para especificar el título de una página web. Es crucial para identificar el contenido en la pestaña del navegador y mejorar la visibilidad en los resultados de búsqueda. Debe ser conciso y reflejar el contenido de la página.
 
-Resumen: El elemento title en HTML especifica el título de una página web, identificando el contenido y mejorando la visibilidad en los resultados de búsqueda.
+Resumen: El elemento title en HTML especifica el título de una página web, identificando el contenido y mejorando la visibilidad en los resultados de búsqueda."
 date: 2024-01-09
 last_modified_at: 2024-01-10
 key: HTML.t.title-elemento
