@@ -3,11 +3,11 @@ title: translate
 permalink: /HTML/translate/
 excerpt: El atributo "translate" en HTML se utiliza para especificar si el contenido debe ser traducido.
 date: 2024-01-08
-last_modified_at: 2024-01-09
+last_modified_at: 2024-01-10
 key: HTML.t.translate
 category: HTML
 tags: [atributo global html,html 5]
-image: "/assets/images/"HTML.png
+image: "/assets/images/HTML.png"
 sidebar:
   nav: html
 ---

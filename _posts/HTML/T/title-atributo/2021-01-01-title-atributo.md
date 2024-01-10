@@ -7,7 +7,7 @@ last_modified_at: 2024-01-10
 key: HTML.t.title-atributo
 category: HTML
 tags: [atributo global html,html 5,html 3.2,html 2.0,html 4.01]
-image: "/assets/images/"HTML.png
+image: "/assets/images/HTML.png"
 sidebar:
   nav: html
 ---
