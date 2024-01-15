@@ -58,7 +58,21 @@
         </div>
         <p class="video">Disfruta también de nuestros artículos sobre {{ _nombrecateg }} en formato vídeo. Aprovecha y
             <a href="https://www.youtube.com/lineadecodigo">suscribete a nuestro canal</a>.</p>
-        <iframe loading="lazy" class="youtube-video" src="{{ _codigovideo }}" title="Vídeos sobre {{ _nombrecateg }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
+        <!--
+            <iframe loading="lazy" class="youtube-video" src="{{ _codigovideo }}" title="Vídeos sobre {{ _nombrecateg }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        -->
+        <div style="height: 0px; overflow: hidden; padding-top: 56.25%; position: relative; width: 100%;">
+            <iframe
+                style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"
+                src="https://tube.rvere.com/embed?v=kC3bmcaS6bw&rel=0"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen>
+            </iframe>
+        </div>
+
     </div>
 
     {%- endif -%}
