@@ -108,9 +108,9 @@ pagination:
   title: ':title - Página :num'
   limit: 0
   sort_field: 'title'
-  sort_reverse: false
+  sort_reverse: false    
 
-
+  
 ## => Sources
 ##############################
 sources: # bootcdn (default), unpkg

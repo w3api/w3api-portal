@@ -7,7 +7,7 @@ html:
     image: /assets/images/libros/html5.webp           
     url: https://manualweb.net/html?utm_source=w3api&utm_medium=download&utm_id=htmlt&utm_campaign=book
   video:
-    url: https://www.youtube.com/embed/videoseries?list=PLLVIhySQmrVZvt63iAl2xSwTePNmd-UhI
+    url: kC3bmcaS6bw
 
 javascript:
   texto: Javascript
@@ -18,7 +18,7 @@ javascript:
     image: /assets/images/libros/javascript.webp
     url: https://manualweb.net/javascript?utm_source=w3api&utm_medium=download&utm_id=javascript&utm_campaign=book
   video:
-    url: https://www.youtube.com/embed/videoseries?list=PLLVIhySQmrVaRju-qP84x9YRqTtA_GmfK
+    url: 4CmQz6E1yCg
 
 css:
   texto: CSS
@@ -38,7 +38,7 @@ java:
     image: /assets/images/libros/java.webp
     url: https://manualweb.net/java?utm_source=w3api&utm_medium=download&utm_id=javat&utm_campaign=book
   video:
-    url: https://www.youtube.com/embed/videoseries?list=PLLVIhySQmrVbjCFPla5c0OIp6iNWfM-hq
+    url: --UcZ6HW3fw
 
 python:
   texto: Python  
