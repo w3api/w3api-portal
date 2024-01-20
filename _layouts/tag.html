@@ -11,7 +11,7 @@ type: article
 <div class="layout--article">
   {%- include article/top/custom.html -%}
 
-  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+  <div class="article__content" itemprop="articleBody">{{ content | markdownify }}</div>
 
   {%- assign mitad = paginator.per_page | divided_by:2 | ceil -%}
   {%- assign mitad_mas_uno = mitad | plus: 1 -%}

@@ -58,11 +58,11 @@
       function setState() {
         var scrollTop = $scrollTarget.scrollTop();
         if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
-          fixed();
+          fixed();      
         } else if (scrollTop < rootTop) {
-          top();
+          top();          
         } else {
-          bottom();
+          bottom();          
         }
       }
       function init() {
