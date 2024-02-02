@@ -1,9 +1,9 @@
 ---
 title: PromiseRejectionEvent.reason
 permalink: /HTMLDOM/PromiseRejectionEvent/reason/
-excerpt: "La propiedad reason del PromiseRejectionEvent devuelve el motivo del rechazo de la promesa. Puede ser un objeto de error."
+excerpt: "La propiedad reason del evento PromiseRejectionEvent devuelve el motivo del rechazo de una promesa en JavaScript."
 date: 2024-01-26
-last_modified_at: 2024-01-27
+last_modified_at: 2024-02-02
 key: HTMLDOM.P.PromiseRejectionEvent.reason
 category: HTMLDOM
 tags: [propiedad htmldom]
@@ -49,4 +49,4 @@ promise.catch((error) => {
 
 ## Artículos
 
-- 
+- [Gestionar Promesas Rechazadas](http://lineadecodigo.com/html5/gestionar-promesas-rechazadas/)

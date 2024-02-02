@@ -1,9 +1,9 @@
 ---
 title: PromiseRejectionEvent
 permalink: /HTMLDOM/PromiseRejectionEvent/
-excerpt: "El PromiseRejectionEvent es una interface del modelo HTMLDOM que representa un evento cuando una promesa es rechazada. Se utiliza para gestionar errores en operaciones asíncronas."
+excerpt: "El PromiseRejectionEvent es una interface del modelo HTMLDOM para gestionar y depurar errores en promesas rechazadas."
 date: 2024-01-26
-last_modified_at: 2024-01-27
+last_modified_at: 2024-02-02
 key: HTMLDOM.P.PromiseRejectionEvent
 category: HTMLDOM
 tags: [interface htmldom]
@@ -56,4 +56,4 @@ window.addEventListener("unhandledrejection", function(event) {
 
 ## Artículos
 
-- 
+- [Gestionar Promesas Rechazadas](http://lineadecodigo.com/html5/gestionar-promesas-rechazadas/)
