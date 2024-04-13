@@ -40,7 +40,7 @@
       {%- if _show_tags -%}
 
         <ul class="left-col menu">
-          {%- assign _tag_path = page.categories[0]| append: '/tag/'  -%}
+          {%- assign _tag_path = page.categories[0]| append: '/tag/' -%}
           {%- include snippets/prepend-baseurl.html path=_tag_path -%}
 
           {%- for _tag in include.article.tags -%}
@@ -48,7 +48,7 @@
             {%- assign _tag_encode = _tag | strip | replace: " ","-" } -%}
             <li>
               <a class="button button--secondary button--pill button--sm"
-                href="{{ _tag_path | append: _tag_encode | replace: '//', '/' }}">{{ _tag }}</a>
+                href="{{ _tag_path | append: _tag_encode | replace: '//', '/' }}/">{{ _tag }}</a>
             </li>
           {%- endfor -%}
         </ul>
