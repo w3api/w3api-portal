@@ -1,35 +1,52 @@
 ---
 title: background-color
 permalink: /CSS/background-color/
-date: 2021-03-07 02:57:58.369845
+excerpt: "La propiedad background-color en CSS establece el color de fondo de un elemento HTML. Cambia el color de fondo del cuerpo del documento a gris claro."
+date: 2024-02-13
+last_modified_at: 2024-02-17
 key: CSS.b.background-color
 category: CSS
-tags: ['propiedad css']
-sidebar: 
+tags: [propiedad css,css 1]
+image: "/assets/images/css.png"
+sidebar:
   nav: css
 ---
 
 ## Descripción
-{{site.data.CSS.b.background-color.description }}
+
+
+La propiedad `background-color` en [CSS](https://www.manualweb.net/css/) se utiliza para establecer el color de fondo de un elemento. Este color cubrirá el área de contenido, acolchado y borde del elemento.
+
 
 ## Sintaxis
-~~~css
+
+
+```css
 background-color : <color>
-~~~
+```
+
+
+Esta propiedad se utiliza para cambiar el color de fondo de un elemento [HTML](https://www.manualweb.net/html/). El valor del color se define utilizando uno de los métodos de color admitidos por [CSS](https://www.manualweb.net/css/).
+
 
 ## Valores
-* **color**,  {% include w3api/value_description.html propiedad=site.data.CSS.b.background-color valor="color" %}
+
+- **color**, se refiere al color que deseas que tenga el fondo del elemento. Puede especificarse de cualquier forma que [CSS](https://www.manualweb.net/css/) reconozca el color, como por nombre ('red', 'blue', etc.), hexadecimal ('#FF0000' para rojo, etc.), RGB ('rgb(255,0,0)' para rojo, etc.), o HSL ('hsl(0,100%,50%)' para rojo, etc.).
 
 ## Ejemplo
-~~~css
-{{ site.data.CSS.b.background-color.code}}
-~~~
+
+
+```css
+body {
+  background-color: #d3d3d3;
+}
+```
+
+
+Este ejemplo cambiará el color de fondo del cuerpo entero del documento a gris claro.
+
 
 ## Artículos
-<ul>
-{%- for _ldc in site.data.CSS.b.background-color.ldc -%}
-   <li>
-       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
-   </li>
-{%- endfor -%}
-</ul>
+
+- [Tres columnas en CSS con Flexbox](https://lineadecodigo.com/css/tres-columnas-en-css-con-flexbox/)
+- [Ajustes de línea con CSS](http://lineadecodigo.com/css/ajustes-de-linea-con-css/)
