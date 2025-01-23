@@ -1,7 +1,7 @@
 ---
 title: FileExistsError
 permalink: /Python/FileExistsError/
-excerpt: "La excepción FileExistsError se lanza al intentar crear un archivo o directorio existente."
+excerpt: "La excepción FileExistsError ocurre al intentar crear un archivo o directorio existente."
 date: 2025-01-23
 last_modified_at: 2025-01-23
 key: Python.F.FileExistsError
