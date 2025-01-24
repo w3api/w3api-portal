@@ -1,7 +1,7 @@
 ---
 title: IOException
 permalink: /Java/IOException/
-excerpt: "La IOException indica un error de entrada/salida que debe manejarse adecuadamente."
+excerpt: "La IOException indica un error en la entrada salida y debe ser manejada."
 date: 2024-03-04
 last_modified_at: 2025-01-24
 key: Java.I.IOException
