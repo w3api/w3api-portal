@@ -1,9 +1,9 @@
 ---
 title: IOException
 permalink: /Java/IOException/
-excerpt: "La IOException indica un error en la entrada salida y debe ser manejada."
+excerpt: "Resumen sobre IOException y su manejo en operaciones de entrada/salida en Java."
 date: 2024-03-04
-last_modified_at: 2025-01-24
+last_modified_at: 2025-02-09
 key: Java.I.IOException
 category: Java
 tags: [clase java,java 1.0,java.io,java.base]
@@ -60,3 +60,4 @@ try{
 - [Copiar un fichero con Java](http://lineadecodigo.com/Java/copiar-un-fichero-con-java/)
 - [Guardar unos Properties con Java](http://lineadecodigo.com/Java/guardar-unos-properties-con-java/)
 - [Crear un fichero en Java](https://lineadecodigo.com/java/crear-un-fichero-en-java/)
+- [Multiplicar dos números con Java](https://lineadecodigo.com/java/multiplicar-dos-numeros-con-java/)
