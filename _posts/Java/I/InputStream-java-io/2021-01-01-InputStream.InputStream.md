@@ -1,12 +1,12 @@
 ---
 title: InputStream.InputStream()
 permalink: /Java/InputStream-java-io/InputStream/
-excerpt: "La clase InputStream permite el manejo de flujos de entrada de bytes en Java."
+excerpt: "El constructor de InputStream crea un objeto InputStream sin parámetros."
 date: 2025-02-09
 last_modified_at: 2025-02-09
 key: Java.I.InputStream-java-io.InputStream
 category: Java
-tags: [clase java,java 1.0,java se,java.io,java.base]
+tags: [constructor java,java 1.0,java se,java.io,java.base]
 image: "/assets/images/java.png"
 sidebar:
   nav: java
@@ -15,62 +15,52 @@ sidebar:
 ## **Descripción**
 
 
-La clase `InputSream` es una clase abstracta que proporciona un flujo de entrada de bytes. Es la clase base para todas las clases que representan un flujo de entrada de bytes en [Java](http://www.manualweb.net/java/). Define los métodos fundamentales para leer datos de una fuente, como archivos, sockets o arrays de bytes.
+El constructor de la clase [`InputStream`](https://w3api.com/Java/InputStream-java-io/) es un constructor público que crea un nuevo objeto de tipo [`InputStream`](https://w3api.com/Java/InputStream-java-io/). Este constructor no recibe ningún parámetro y es la base para todas las clases que heredan de [`InputStream`](https://w3api.com/Java/InputStream-java-io/).
+
+
+Lanzará una excepción [`IOException`](notion://www.notion.so/Java/IOException/) si se produce un error durante la operación de entrada/salida. Esta es una excepción común al trabajar con operaciones de E/S en [Java](https://www.manualweb.net/java/) y debe ser manejada adecuadamente en el código.
 
 
 ## **Sintaxis**
 
 
 ```java
-public abstract class InputStream extends Object implements Closeable
+public InputStream()
 ```
 
 
-## **Constructores**
+## Excepciones
 
-- [InputStream()](https://w3api.com/Java/InputStream-java-io/InputStream/)
 
-## **Métodos**
+[`IOException`](notion://www.notion.so/Java/IOException/)
 
-- [available()](https://w3api.com/Java/InputStream-java-io/available/)
-- [close()](https://w3api.com/Java/InputStream-java-io/close/)
-- [mark()](https://w3api.com/Java/InputStream-java-io/mark/)
-- [markSupported()](https://w3api.com/Java/InputStream-java-io/markSupported/)
-- [read()](https://w3api.com/Java/InputStream-java-io/read/)
-- [readAllBytes()](https://w3api.com/Java/InputStream-java-io/readAllBytes/)
-- [readNBytes()](https://w3api.com/Java/InputStream-java-io/readNBytes/)
-- [reset()](https://w3api.com/Java/InputStream-java-io/reset/)
-- [skip()](https://w3api.com/Java/InputStream-java-io/skip/)
-- [transferTo()](https://w3api.com/Java/InputStream-java-io/transferTo/)
+
+## **Clase Padre**
+
+
+[`InputStream`](https://w3api.com/Java/InputStream-java-io/)
+
 
 ## **Ejemplo**
 
 
+En este ejemplo, vamos a crear un objeto [`InputStream`](https://w3api.com/Java/InputStream-java-io/) básico:
+
+
 ```java
-// Copiar ficheros
-File origen = new File("origen.txt");
-File destino = new File("destino.txt");
-
-try {
-  InputStream in = new FileInputStream(origen);
-  OutputStream out = new FileOutputStream(destino);
-				
-  byte[] buf = new byte[1024];
-  int len;
-
-  while ((len = in.read(buf)) > 0) {
-    out.write(buf, 0, len);
-  }
-		
-  in.close();
-  out.close();
-} catch (IOException ioe){
-  ioe.printStackTrace();
-}
+// Crear un nuevo InputStream
+InputStream input = new InputStream() {
+    @Override
+    public int read() throws IOException {
+        return -1;
+    }
+};
 ```
+
+
+En este caso, hemos creado una implementación anónima de InputStream ya que es una clase abstracta. El método [`read()`](https://w3api.com/Java/InputStream-java-io/read/) está sobrescrito para devolver -1, indicando el final del stream.
 
 
 ## Artículos
 
-- [Copiar un fichero con Java](http://lineadecodigo.com/Java/copiar-un-fichero-con-java/)
 - [Multiplicar dos números con Java](https://lineadecodigo.com/java/multiplicar-dos-numeros-con-java/)

@@ -1,9 +1,9 @@
 ---
 title: onwaiting
 permalink: /HTML/onwaiting/
-excerpt: "El evento onwaiting de HTML se dispara cuando la reproducción se detiene debido a una demora en la obtención de datos, como en elementos de medios como video y audio."
+excerpt: "Resumen sobre el evento onwaiting en HTML y su uso en elementos de medios."
 date: 2024-01-18
-last_modified_at: 2024-01-30
+last_modified_at: 2025-02-09
 key: HTML.o.onwaiting
 category: HTML
 tags: [evento html,html 5]
@@ -42,4 +42,4 @@ En este ejemplo, el evento `onwaiting` es disparado cuando la reproducción del 
 
 ## Artículos
 
-- 
+- [Cargas inestables de vídeos en HTML5](https://lineadecodigo.com/javascript/cargas-inestables-de-videos-en-html5/)
