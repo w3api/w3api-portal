@@ -1,7 +1,7 @@
 ---
 title: InputStream.InputStream()
 permalink: /Java/InputStream-java-io/InputStream/
-excerpt: "La clase InputStream permite leer flujos de entrada de bytes en Java."
+excerpt: "La clase InputStream permite el manejo de flujos de entrada de bytes en Java."
 date: 2025-02-09
 last_modified_at: 2025-02-09
 key: Java.I.InputStream-java-io.InputStream
