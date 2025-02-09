@@ -1,9 +1,9 @@
 ---
 title: background-color
 permalink: /CSS/background-color/
-excerpt: "La propiedad background-color en CSS establece el color de fondo de un elemento HTML. Cambia el color de fondo del cuerpo del documento a gris claro."
+excerpt: "La propiedad background-color establece el color de fondo de un elemento en CSS."
 date: 2024-02-13
-last_modified_at: 2024-02-17
+last_modified_at: 2025-02-09
 key: CSS.b.background-color
 category: CSS
 tags: [propiedad css,css 1]
@@ -50,3 +50,4 @@ Este ejemplo cambiará el color de fondo del cuerpo entero del documento a gris 
 
 - [Tres columnas en CSS con Flexbox](https://lineadecodigo.com/css/tres-columnas-en-css-con-flexbox/)
 - [Ajustes de línea con CSS](http://lineadecodigo.com/css/ajustes-de-linea-con-css/)
+- [Páginas adaptadas para imprimir con CSS](https://lineadecodigo.com/css/paginas-adaptadas-para-imprimir-con-css/)
