@@ -1,9 +1,9 @@
 ---
 title: onseeking
 permalink: /HTML/onseeking/
-excerpt: "El evento onseeking en HTML se activa al mover el control de tiempo de un elemento de audio o video. Útil para proporcionar retroalimentación visual durante el desplazamiento."
+excerpt: "El evento onseeking permite retroalimentación al mover el control de tiempo en videos."
 date: 2024-01-19
-last_modified_at: 2024-02-01
+last_modified_at: 2025-02-10
 key: HTML.o.onseeking
 category: HTML
 tags: [evento html,html 5]
@@ -48,4 +48,4 @@ En este caso, cuando el usuario comienza a mover el control de tiempo, se activa
 
 ## Artículos
 
-- 
+- [Buscar por un vídeo en HTML5](https://lineadecodigo.com/html5/buscar-por-un-video-en-html5/)

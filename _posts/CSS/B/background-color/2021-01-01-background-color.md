@@ -3,7 +3,7 @@ title: background-color
 permalink: /CSS/background-color/
 excerpt: "La propiedad background-color establece el color de fondo de un elemento en CSS."
 date: 2024-02-13
-last_modified_at: 2025-02-09
+last_modified_at: 2025-02-10
 key: CSS.b.background-color
 category: CSS
 tags: [propiedad css,css 1]
