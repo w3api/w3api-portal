@@ -1,9 +1,9 @@
 ---
 title: onvolumechange
 permalink: /HTML/onvolumechange/
-excerpt: "El evento onvolumechange en HTML se activa al cambiar el volumen de audio o vídeo."
+excerpt: "El evento onvolumechange se activa al cambiar el volumen de audio o vídeo."
 date: 2024-01-18
-last_modified_at: 2024-01-30
+last_modified_at: 2025-02-11
 key: HTML.o.onvolumechange
 category: HTML
 tags: [evento html,html 5]
@@ -38,4 +38,4 @@ El evento `onvolumechange` en [HTML](https://www.manualweb.net/html/) se activa 
 
 ## Artículos
 
-- 
+- [Cambios de volumen en vídeos HTML5](https://lineadecodigo.com/html5/cambios-de-volumen-en-videos-html5/)
