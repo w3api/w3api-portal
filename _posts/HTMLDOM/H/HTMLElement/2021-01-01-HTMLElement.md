@@ -1,9 +1,9 @@
 ---
 title: HTMLElement
 permalink: /HTMLDOM/HTMLElement/
-excerpt: "El HTMLElement es un interface que representa elementos HTML manipulables en JavaScript."
+excerpt: "El HTMLElement es una interfaz que representa elementos HTML manipulables en JavaScript."
 date: 2023-01-31
-last_modified_at: 2025-02-13
+last_modified_at: 2025-02-18
 key: HTMLDOM.H.HTMLElement
 category: HTMLDOM
 tags: [interface htmldom,dom level 1]
@@ -144,3 +144,4 @@ HTMLElement
 ## Artículos
 
 - [Hacer foco en un campo de la página usando Javascript](https://lineadecodigo.com/javascript/hacer-foco-en-un-campo-de-la-pagina-usando-javascript/)
+- [Popover con cierre explicito en HTML5](https://lineadecodigo.com/html5/popover-con-cierre-explicito-en-html5/)

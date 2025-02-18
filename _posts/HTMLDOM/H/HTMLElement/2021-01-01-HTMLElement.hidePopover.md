@@ -1,9 +1,9 @@
 ---
 title: HTMLElement.hidePopover()
 permalink: /HTMLDOM/HTMLElement/hidePopover/
-excerpt: "El método hidePopover permite ocultar popovers visibles en elementos HTML."
+excerpt: "El método hidePopover de HTMLElement oculta elementos emergentes visibles en la página."
 date: 2025-02-13
-last_modified_at: 2025-02-13
+last_modified_at: 2025-02-18
 key: HTMLDOM.H.HTMLElement.hidePopover
 category: HTMLDOM
 tags: [metodo htmldom,dom living standard]
@@ -56,4 +56,4 @@ miPopover.hidePopover();
 
 ## Artículos
 
-- 
+- [Popover con cierre explicito en HTML5](https://lineadecodigo.com/html5/popover-con-cierre-explicito-en-html5/)
