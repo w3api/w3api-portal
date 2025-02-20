@@ -1,9 +1,9 @@
 ---
 title: WheelEvent
 permalink: /WebAPI/WheelEvent/
-excerpt: "La página describe el evento WheelEvent y su uso en la interacción con el mouse."
+excerpt: "El WheelEvent es un evento que detecta el movimiento de la rueda del ratón."
 date: 2025-02-18
-last_modified_at: 2025-02-18
+last_modified_at: 2025-02-20
 key: WebAPI.W.WheelEvent
 category: WebAPI
 tags: [interface webapi,dom level 3]
@@ -60,4 +60,4 @@ document.addEventListener('wheel', (event) => {
 
 ## Artículos
 
-- 
+- [Zoom en imágenes con en ratón en HTML5](https://lineadecodigo.com/html5/zoom-en-imagenes-con-el-raton-en-html5/)

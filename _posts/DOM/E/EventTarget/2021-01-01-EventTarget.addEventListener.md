@@ -1,10 +1,13 @@
 ---
 title: EventTarget.addEventListener()
 permalink: /DOM/EventTarget/addEventListener/
+excerpt: "El método addEventListener permite asociar gestores de eventos a elementos del DOM."
 date: 2023-01-31
+last_modified_at: 2025-02-20
 key: DOM.E.EventTarget.addEventListener
 category: DOM
 tags: [metodo dom]
+image: "/assets/images/dom.png"
 sidebar:
   nav: dom
 ---
@@ -92,6 +95,7 @@ addEventListener(type, listener, useCapture)
 - [Fin del audio en HTML5](https://lineadecodigo.com/html5/fin-del-audio-html5/)
 - [Borrar contenido de capa en Javascript](https://lineadecodigo.com/javascript/borrar-contenido-capa-javascript/)
 - [Convertir una cadena a fecha en Javascript](https://lineadecodigo.com/javascript/convertir-una-cadena-a-fecha-en-javascript/)
+- [Cortes en la descarga de vídeos HTML5](https://lineadecodigo.com/html5/cortes-en-la-descarga-de-videos-html5/)
 - [Crear eventos con JavaScript](https://lineadecodigo.com/javascript/crear-eventos-con-javascript/)
 - [Ejecutar un evento una única vez](https://lineadecodigo.com/dom/ejecutar-un-evento-una-unica-vez/)
 - [Pasar datos a un listener](https://lineadecodigo.com/dom/pasar-datos-a-un-listener/)

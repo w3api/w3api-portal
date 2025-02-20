@@ -1,9 +1,9 @@
 ---
 title: transform
 permalink: /CSS/transform/
-excerpt: "La propiedad transform permite aplicar transformaciones 2D o 3D a elementos HTML."
+excerpt: "La propiedad transform aplica transformaciones 2D y 3D a elementos HTML."
 date: 2025-02-18
-last_modified_at: 2025-02-18
+last_modified_at: 2025-02-20
 key: CSS.t.transform
 category: CSS
 tags: [propiedad css,css 3,css transforms]
@@ -49,4 +49,4 @@ Veamos un ejemplo de cómo podemos aplicar una transformación a un elemento [HT
 
 ## Artículos
 
-- 
+- [Zoom en imágenes con en ratón en HTML5](https://lineadecodigo.com/html5/zoom-en-imagenes-con-el-raton-en-html5/)

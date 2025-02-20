@@ -1,9 +1,9 @@
 ---
 title: WheelEvent.deltaY
 permalink: /WebAPI/WheelEvent/deltaY/
-excerpt: "La propiedad deltaY mide el desplazamiento vertical de la rueda del ratón."
+excerpt: "La propiedad deltaY del WheelEvent indica el desplazamiento vertical de la rueda del ratón."
 date: 2025-02-18
-last_modified_at: 2025-02-18
+last_modified_at: 2025-02-20
 key: WebAPI.W.WheelEvent.deltaY
 category: WebAPI
 tags: [propiedad webapi,dom level 3]
@@ -57,4 +57,4 @@ document.addEventListener('wheel', (event) => {
 
 ## Artículos
 
-- 
+- [Zoom en imágenes con en ratón en HTML5](https://lineadecodigo.com/html5/zoom-en-imagenes-con-el-raton-en-html5/)
